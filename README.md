@@ -4,3 +4,7 @@
 ### Workflow of MatNorm protocol
 
 ![](./image/figure1.png)
+
+### Application of MatNorm protocol
+
+![](./image/figure2.png)
