@@ -72,7 +72,7 @@ def main(args):
     )
     
     result_evalset = evaluate(
-        biosyn=matnorm,
+        matnorm=matnorm,
         eval_dictionary=eval_dictionary,
         eval_queries=eval_queries,
         topk=args.topk,
