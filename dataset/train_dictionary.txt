@@ -1,0 +1,7668 @@
+3824	graphene
+892	graphene oxide
+292	g
+969	TiO2
+5	mTiO(2)-graphene
+2	Ti glycolate
+2	mTiO(2)
+140	potassium
+310	sodium
+709	MXene
+160	K
+1769	lithium
+2	calcium carbide
+676	Na
+7	Ca2C-ML
+917	graphite
+11266	carbon
+16	d-Ti3C2
+967	S
+820	silicon
+1721	C
+955	Si
+9	NMC111
+4	LiNi0.33Mn0.33Co0.33O2
+30	vanadium pentoxide
+73	NaCl
+63	graphdiyne
+35	metal
+578	Zn
+2	m-graphene
+2844	Li
+203	MoO3
+16	molybdenum trioxide
+8	SWNTs
+11	SWNT
+7	bp-Fe2O3
+365	Fe2O3
+559	LiFePO4
+1173	reduced graphene oxide
+20	ruthenium
+98	Ru
+948	rGO
+181	GO
+5	silicon-graphene
+150	Li-S
+318	polysulfides
+189	phosphorus
+21	GeP5
+10	phosphorous
+129	RuO2
+424	polyaniline
+7	CFP
+116	polypropylene
+5	PANI-polypropylene
+205	PANI
+24	KB
+16	ketjen black
+1650	sulfur
+41	LiPS
+546	Li2S
+51	lithium sulfide
+39	Li2S4
+28	FeF3
+4	FeF3(012)
+2	PFPOEPi
+358	polypyrrole
+438	CNT
+164	ppy
+350	Fe3O4
+1069	MnO2
+2	lambda-MnO2
+87	delta-MnO2
+58	alpha-MnO2
+676	nickel
+540	oxides
+65	Zr
+1478	Ni
+616	oxide
+301	Fe
+9	ferrite
+62	Fe3C
+92	iron
+2	Nax+0.5Ti0.5O2
+10	P3
+41	Li1.2Mn0.54Ni0.13Co0.13O2
+15	Li2ZrO3
+70	ZrO2
+8	graphitized carbon
+199	Na3V2(PO4)(3)
+2	P2 - na2 / 3Ni1 / 3Mn1 / 3Ti1 / 3O2
+235	copper
+674	Cu
+337	ZnO
+211	Li4Ti5O12
+232	N
+306	P
+4	PONHC
+15	zirconium
+16	NiOOH
+356	NiO
+3	carbon-fiber
+2	rECarbon-fiber
+1003	MoS2
+124	aluminum
+95	transition metal oxide
+3	CoO-compact-nanobox
+153	CoO
+455	lithium metal
+198	LiF
+242	Ti
+4	M(HPO4)(2)
+5	Fe3S4
+48	LDH
+4	Ni-Fe LDH
+32	hydroxides
+41	nanocarbon
+50	paper
+60	glass
+3	cloth
+211	MnO
+111	N-C
+2	MnO @ N-C
+125	prussian blue
+75	Li2S2
+368	Li2O2
+50	F
+311	Al
+48	NCM622
+83	LiNi0.6Co0.2Mn0.2O2
+54	Nb
+7	Ti2Nb2O9
+3	niobium oxide hydrate
+7	niobium oxide
+6	s-codoped
+2	CPE-3
+3	CPE
+22	lithium cobalt oxide
+18	LCO
+334	LiCoO2
+3	LiF-C
+502	Co
+9	molybdenum nitride
+2	CC @ CN @ molybdenum nitride
+75	carbon cloth
+306	NiCo2O4
+136	CC
+5	LiNi0.92Co0.08O2
+7	Al-O
+7	Ti-O
+27	W
+208	metal oxides
+3	Li2GeO3
+2	Li2GeO3-x
+10	tungsten disulfide
+93	WS2
+45	r-GO
+2	S-x-WS2
+327	lithiumthium
+89	lithiumthiumthium
+2	Cu - CNF
+118	CNF
+87	lithiumthium metal
+110	NCM811
+4	lithiumthiumNi0.8Co0.1Mn0.1O2
+13	lithiumthiumFePO4
+197	SnS2
+86	KIBs
+23	High-Ni
+14	ultrahigh-Ni
+3	NCZ
+21	NC
+3	MCNF
+78	V2O3
+3	Mg2SiO4
+187	Mg
+31	SiO
+180	SiOx
+3	Cu-PolyoxometalateOF
+120	Mo
+2	carboxymethylcellulose sodium-co-SN
+4	CuxS
+15	copper sulfide
+28	VSe2
+155	MoSe2
+61	V
+2	V0.92Se1.84
+69	polyethylene oxide
+2	SL1
+2	SL2
+280	V2O5
+79	Ti3C2Tx MXene
+22	Li1.2Ni0.13Co0.13Mn0.54O2
+2	gamma-LiAlO2
+28	LiAlO2
+3	LiAl5O8
+188	manganese
+81	LiOH
+186	Li2CO3
+175	Al2O3
+8	Fe - 2(MoO4)(3)
+3	naphyne
+453	lithium polysulfides
+330	CNTs
+143	LiNi0.8Co0.1Mn0.1O2
+24	Li2SiO3
+60	VS4
+8	transition - metal sulfide
+2	SnSe2 @ C
+2	sn-organic
+18	SnSe2
+2	bionic
+4	Li15Si4
+85	Mo2C
+3	Cr2C3
+3	metal carbides
+39	SC
+2	SC @ g
+24	graphenes
+4	holey-graphene
+21	Li6.75La3Zr1.75Ta0.25O12
+2	Li7Sn3
+4	LiNixMnyCo1-x-yO2
+523	Mn
+34	LiNi0.8Mn0.1Co0.1O2
+2	LiNixMnyCo1-x-yO2811
+14	fluoride
+3	NiCoAl
+254	metal oxide
+29	LMO
+3	NiCoAl - LMO
+494	activated carbon
+18	niobium
+3	ZrNb14O37
+2	NCM811 @ polyaniline - polyvinylpyrrolidone 20 BM 0
+15	PANT
+19	MnCo2O4.5
+223	Ni(OH)(2)
+2	MnCo2O4.5 @ Ni(OH)(2)
+46	hard carbon
+3	Na3.32Fe2.34(P2O7)(2)
+2	NFPO @ SC
+45	Te
+26	ReS2
+4	MXene Ti2CTx @ polyaniline
+166	MXenes
+38	CoNi2S4
+3	Ni-Co sulfides
+43	celgard
+3	PHC
+7	HKUST-1
+3	super P carbon
+92	selenium
+5	selenium disulfide
+2	seleniumS2
+7	NaFSI
+2	Na - metal
+15	Na2O
+18	NaF
+269	cobalt
+266	LiNi0.5Mn1.5O4
+2	N,O
+144	NCM
+5	Li-Ni
+67	Cu2O
+3	Ag-NW
+97	silver
+26	alpha-Ni(OH)(2)
+3	cattle bone
+3	NHPC-hydroxyapatite
+62	KOH
+16	hydroxyapatite
+79	sulfides
+55	transition metal sulfides
+99	metal sulfides
+71	NiS2
+155	CoS2
+707	Co3O4
+2	mNi(0.32)Co(0.68)S(2)
+32	Sb2O3
+84	polyethylene
+82	PVdF
+3	Co-F
+573	SnO2
+4	mixed metal oxide
+42	ZnFe2O4
+9	CuCl2
+19	ZnCl2
+4	( GO
+3	NCG(Zn)
+6	FeCl3
+3	NCG(Fe)
+2	NCG(Cu)
+9	CEI
+214	siliconlicon
+43	siliconliconlicon
+5	psiliconlicon
+263	Ag
+2	MxSy
+2	Cr3S4
+8	transition metal phosphide
+3	Mn2P @ NPC
+3	Mn2P
+27	NPC
+4	CMP
+120	vanadium
+2	Ca0.24V2O5 center dot 0.75H(2)O
+43	Pt
+14	LLZTO
+2	Li-Pt
+14	LiMn0.8Fe0.2PO4
+3	Co-Fe
+72	metal sulfide
+2	FeCo-A-S
+2	V-HPCS
+80	graphitic
+29	SEI
+2	Li2PDBM
+9	NMO
+85	NiMoO4
+67	CoP
+3	Co(OH)
+21	phosphide
+168	AC
+26	metal phosphides
+42	polystyrene
+2	nickel cobalt manganite
+2	nickel cobalt aluminum acid
+59	LFP
+63	vanadium oxide
+3	MnHVO-30
+99	ZnS
+20	super P
+38	PP
+3	PE - ZnS @ NC
+3	lithiumDFBOP
+4	lithiumFSI
+7	lithium difluorobis(oxalato) phosphate
+2	lithium2C2O4
+12	lithiumF
+43	lithiumFePO4
+315	zinc
+128	carbonate
+9	LiNi0.7Co0.15Mn0.15O2
+22	Li - metal
+8	TM
+189	Mn3O4
+3	Mn2O3-Mn3O4
+82	Mn2O3
+6	Zn-Co-S
+2	ZCS(6T) BYSBs
+11	Zn0.76Co0.24S
+3	CZS(6T)
+3	SNGS
+22	graphene oxides
+3	vanadium oxygen hydrate
+19	VOH
+3	V2O5 center dot nH(2)O
+32	Na2S
+65	CoS
+30	co-based
+2	Ni @ 1TMoS(2)
+2	Ti - MoO3
+18	aluminum oxide
+58	NCM523
+4	AP
+24	NMC622
+15	Na metal
+2	sodium fluoride
+10	lithium4Ti5O12
+45	zeolitic imidazolate
+88	ZIF-8
+7	cZIF-8
+30	LiI
+3	iron carbide
+116	graphitic carbon
+159	silica
+290	SiO2
+100	LiMn2O4
+55	Li3PO4
+4	N-PCSs
+2	N-PCS
+6	P3HT
+3	reduced graphene oxide-g-P3HT
+21	all-carbon
+2	C-NCs
+156	MoO2
+13	lithium polysulfides ( lithium polysulfides
+9	Mo-S
+13	Li-O
+14	CuSe
+48	LiCl
+14	polyethylene terephthalate
+115	Au
+12	metal hydroxides
+15	AB
+10	acetylene black
+9	p-rGO
+11	dual-carbon
+3	GePs
+8	polyoxometalate
+13	V6O13
+2	copper sulfides
+14	Cu7S4
+36	Cu2S
+86	LiO2
+4	LCFO
+4	fullerene C-60
+453	carbons
+230	cellulose
+34	germanium
+116	Ge
+83	red phosphorus
+22	red P
+20	P-C
+5	CuFeS2
+121	FeS2
+53	carbon black
+2	LNCMO
+223	transition metal oxides
+42	titanium dioxide
+8	nano-TiO2
+13	TMOs
+4	anodic aluminum oxide
+3	ferric oxide
+14	lithium titanate
+2	al-graphene
+93	alpha-Fe2O3
+3	FeC1(3)
+3	metal organic
+3	U
+3	Fe203-Fe3C
+2	fe203
+2	cobalt diselenide
+158	CoSe2
+2	TNC
+28	Na3V2(PO4)(2)F-3
+3	sodium vanadium fluorophosphate
+15	metal selenide
+4	Co phthalocyanine
+81	LiNi0.5Co0.2Mn0.3O2
+3	NCMS23
+19	silicon oxide
+4	SiOx , 0 < x < 2
+2	c-carboxymethyl cellulose-iminodiacetic
+8	carboxymethyl cellulose
+2	c-carboxymethyl
+5	MRPG
+3	K1 / 2Mn5 / 6Mg1 / 12Ni1 / 12O2
+2	Mg-Ni
+67	LiNiO2
+3	Ce - MOF
+2	Ce-MOF-808
+18	cerium
+49	MOF
+16	Ce
+95	NMC
+37	gr
+31	NMC811
+21	Zn - MnO2
+2	zinc sulfate
+9	indium nitride
+3	lithium nitride
+9	lithium3N
+8	magnetite
+6	Li[Ni0.9Co0.05Mn0.05]O-2
+2	co-0
+6	pSi
+12	vermiculite
+7	silicate
+13	halloysite
+72	double hydroxides
+133	double hydroxide
+17	NiFe
+35	Li2Sx
+60	molybdenum disulfide
+8	MoS2-G
+2	PICA
+28	phosphorene
+11	cobalt oxides
+108	Li2O
+12	sodium titanate
+16	NTO
+6	C-BP
+24	BP
+13	NH4V4O10
+6	Li2WO4
+71	LiPF6
+2	NCM 622
+29	FEC
+132	Li metal
+84	lithium - sulfur
+2	Zn - TDPAT
+2	FMNCN
+2	FMNCN - 900
+41	GeO2
+16	AlCl3
+18	alucone
+10	rhenium disulfide
+3	Re
+4	ZnO @ C @ NiO
+3	OM-Si
+3	N-PCNFs
+19	PCNFs
+6	LBO
+11	CNSs
+193	Se
+11	Li-Se
+5	polypropylene-SiO2
+34	manganese oxides
+3	cryptomelane
+5	hollandite
+4	Ag1.22Mn8O16
+67	antimony
+5	SbCl3
+14	NiSb
+4	NiSbCCHSs
+3	Ni - MOFs
+48	LiPSs
+4	beta-NiOOH
+7	Zn(CF3SO3)(2)
+8	GeP
+7	polyamide
+41	HF
+2	fluorophosphate
+6	Co-Co3O4
+27	NCNT
+2	NCNT @ Co-Co3O4 @ S
+142	PEO
+18	alginate
+13	CuV2O6
+23	titanium oxide
+2	TiO2-C
+4	lithium difluorophosphate
+19	LiPO2F2
+10	lithium difluoro(oxalato)borate
+8	borate
+25	LAGP
+89	Bi
+7	Ti3C2Tx MXenes
+5	Li1.2Mn0.4Ti0.4O2
+233	carbonaceous
+4	aluminum nitride
+5	AlN
+2	reduced graphene oxide-g-poly(S-r-IDBI)
+121	lithium polysulfide
+26	graphitic carbon nitride
+97	g-C3N4
+53	boron nitride
+5	siloxane
+7	lithium hexafluorophosphate
+43	lithium sulfur
+5	na2 / 3MnO2
+4	hydroquinone
+101	polyimide
+4	NENU-5
+5	POMs
+4	sn-reduced graphene oxide
+5	Sn-SnO2
+3	gr-carbon
+9	graphene-carbon
+3	sulfonated poly(ether ether ketone
+20	nafion
+51	stainless steel
+2	h-CuS
+100	manganese oxide
+2	Li10SnP2S12
+5	LFMP
+8	LiFe0.2Mn0.8PO4
+2	Li[Li0.2Ni0.16Mn0.56Co0.08]O-2
+113	Li2MnO3
+16	carbon-sulfur
+14	phosphates
+2	KCoxNi1 - xPO4
+2	PAMM
+22	Fe1-xS
+11	iron sulfides
+21	iron sulfide
+4	zein
+4	zinc acetate
+62	carbon nanotube
+2	HCE
+4	LixPOyFz
+7	NiCo-S
+22	nickel cobalt sulfide
+4	Fe-NiCo-S
+29	borophene
+111	B
+2	BxN
+57	NiCo
+5	NiCoZn
+43	sn-based
+3	Mn2SnO4-NC
+339	Sn
+6	Mn2SnO4
+4	graphene-Mn3P2O8
+8	transition - metal dichalcogenides
+5	transition - metal dichalcogenide
+5	MX2
+10	MoSSe
+3	chalcogen
+5	LiNixCoyMnzO2
+5	lithium bis(trimethylsilyl) phosphate
+19	LNMO
+4	HSiO2
+17	silicon oxides
+7	LiNi1-x-yCoxMnyO2
+4	Li-Si-O
+11	prussian white
+3	T-Si @ C
+16	CoSnO3
+12	LiNi0.5Mn0.3Co0.2O2
+2	NMC-Si
+127	sulfide
+3	Li7PS6
+58	PVDF - HFP
+5	lithium phosphorous oxynitride
+24	poly(ethylene oxide
+60	Li-O-2
+2	beta-Mo2C
+7	molybdenum carbide
+16	lithium carbonate
+3	oxalate
+2	Na0.44Mn0.89Ti0.11O2
+3	acacia gum
+36	polyvinylidene fluoride
+17	LiFSI
+2	lanthanides
+2	c-nanocage
+5	bismuth oxide
+41	Bi2O3
+83	polysulfide
+147	Co9S8
+83	FeP
+2	PPy @ S @ GA
+67	GA
+3	S @ GA
+2	CoNi1 / 3Fe2O4
+43	Ni-Co
+2	MMoSx ( m = Co , Ni , and Zn )
+7	Ni-Co LDH
+41	Li1.5Al0.5Ge1.5(PO4)(3)
+23	lithium iron phosphate
+26	cobalt phosphide
+3	alkali metals
+12	UiO-66
+10	TiO2 @ C
+22	MnO @ C
+40	MnCO3
+26	C3N
+2	C2.67N
+2	lithium-carbon dioxide
+31	titania
+11	CM
+6	O-2
+2	Mo2C-NR @ 11NC
+8	VNb9O25
+3	PR-VNb9O25
+2	RL-VNb9O25
+4	nickel0.85Se
+4	micro-C
+7	a
+32	CoAl
+8	CoAl - LDH
+3	FGN
+7	N-HCS
+6	beta-CD
+6	beta-cyclodextrin
+3	DFA
+14	DRX
+2	NTMO
+6	oxyfluoride
+38	transition - metal oxides
+16	Y2O3
+23	LiV3O8
+66	LiNi0.8Co0.15Al0.05O2
+4	lithium boron oxide
+63	N-RGO
+3	NLMAMO
+20	P2
+82	bismuth
+56	Bi2S3
+2	BMS
+24	LiNbO3
+3	zinc sulfate hydroxide hydrate
+11	3C-SiC
+64	SiC
+3	h-MnO2
+10	HG
+4	Na[Ni0.5Mn1.5]O-4
+2	Mn-Ni-S
+2	Mn-Ni-S NAs ( 1 : 2 )
+61	iron oxide
+13	reduced graphene oxides
+28	Na3V2(PO4)(2)O2F
+3	p-dual
+2	Na3V2(PO4)(2)O2F @ P / N / C
+2	Na3V2(PO4)(2)O2F @ P / N
+63	CoMoO4
+6	Co0.8Zn0.2Mo0.4
+5	transition - metal phosphides
+3	FeP @ N,C
+19	Li3P
+13	metal phosphide
+2	NaNi0.5Ti0.5O2
+4	NaNiO2
+5	NaNi0.5Mn0.5O2
+3	Fe-N-x
+2	LiNi0.88Co0.095Mn0.025O2
+3	nano-Al2O3
+2	ammonium vanadium bronze
+2	(NH4)(0.5)V2O5
+91	NASICON
+8	Na3V2(PO4)(3) @ C
+3	MS
+15	NCF
+23	birnessite
+8	MgCl2
+48	magnesium
+16	Mn-O
+2	nano-Fe3O4
+2	LillCu
+20	selenides
+3	FeS2 - xSex
+13	transition - metal sulfides
+57	FeSe2
+2	marigold
+12	mesocarbon
+2	O-MCMB
+2	P2S5
+3	NDCT
+9	NaAlO2
+3	Al(NO3)(3)
+10	C-TiO2
+3	GPA
+2	carbon fiber paper
+20	AgCl
+50	Na2SO4
+3	Rb
+31	La
+50	PEDOT
+8	PSS
+2	Mn(PTA) - MOFs
+261	Sb
+2	NaH2PO2
+3	Ti-O-P
+33	TiNb2O7
+6	potassium prussian blue
+5	NaFe2PO4(MoO4)(2)
+2	AI
+8	silicon dioxide
+90	LINO3
+20	sodium polysulfides
+10	Na-S
+95	polyacrylonitrile
+3	Ce(IV
+3	CSUST-1
+2	CSUST
+2	antiperovskites
+15	Li3OCl
+3	Li-2(OH)(0.9)F0.1Cl
+8	Li2OHCl
+3	Li2OHF0.1Cl0.9
+2	ANFs
+2	ANFs-Ni
+31	nickel hydroxide
+2	CoP @ S
+2	rGO @ S
+2	P-V2O5
+4	3DC-2
+4	NiHCF
+4	co-
+2	SCN-TC @ UT
+3	ti-
+70	PVA
+4	LiNi0.88Co0.09Al0.03O2
+4	yttrium
+17	TMO
+24	nano-Si
+2	lithium metals
+5	Mg3N2
+41	Li3N
+135	NCA
+3	lithium nickel manganese cobalt oxide
+9	nickel manganese cobalt oxide
+30	metal selenides
+14	MnSe
+3	MoC1-x @ C
+4	MoC1-x
+19	MoC
+2	SnNi
+6	CuP2
+60	chitosan
+4	MoS2 - xSex
+2	MoS1.2Se0.8
+9	NbN
+5	niobium nitride
+44	NG
+2	N,F,B
+159	boron
+3	boroxine
+3	carbon felt
+5	acarbon
+50	nickel sulfide
+172	Ni3S2
+64	CoFe2O4
+4	prussian blue analogues @ Si - 450
+25	PC
+5	pyrolytic carbon
+4	Fe-III-polypropylene
+25	TA
+4	Ni - 3(PO4)(2)center dot 8H(2)O
+18	NTP
+3	LiNi0.5Mn03Coo.202
+9	NaTi2(PO4)3
+3	Co @ PCNS
+2	Co-C
+7	transition - metal
+22	NSC
+27	N,S
+2	A-ZnS
+27	Na2CO3
+59	cobalt oxide
+17	expanded graphite
+3	( ZnO
+43	zinc oxide
+47	Li3VO4
+7	LiBr
+19	poly(vinylidene fluoride
+10	PET
+14	zirconia
+6	lithium borate
+2	lithium borates
+3	borates
+12	transition - metal oxide
+42	NVP
+2	NVP @ rGO
+17	lithium sulfides
+3	K-O-2
+4	superoxide
+22	KO2
+32	lithium peroxide
+2	al-
+3	N-TG
+2	LXP
+12	LiZr2(PO4)(3)
+9	montmorillonite
+2	hydrotalcite
+2	MT
+2	HT
+2	HT-MT
+5	LaCoO3
+11	Sr
+5	LSCFO
+69	LiTFSI
+7	ZMO
+40	ZnMn2O4
+11	Ni-Zn
+6	nickel - zinc
+19	NCNTs
+22	metal nitrides
+3	iron nitrides
+16	Fe2N
+25	nitride
+10	silicon-carbon
+22	graphene - like carbon
+2	Fe7S8-rGO
+40	Fe7S8
+2	transition-metal-HEO
+2	HEO
+4	boron carbonitride
+2	n-boron carbonitride
+2	b-boron carbonitride
+4	NiSe-Se
+11	nickel selenide
+2	nickel - iron
+6	Ni3Fe
+5	zinc cobalt oxide
+131	ZnCo2O4
+13	tin monosulfide
+167	SnS
+5	urea-LiClO4- PVA
+2	cm(-2)
+36	Ca
+9	B2S
+13	na-
+15	MgH2
+2	HyC
+2	MH
+2	MH @ HyC
+43	wood
+3	PPP
+16	metal nitride
+2	C-WS2
+15	Ti2CO2
+36	graphite oxide
+3	Na3.12Mn2.44(P2O7)(2)
+4	fe-
+66	ZnSe
+64	MWCNT
+64	MWCNTs
+55	cotton
+42	hydroxide
+5	MOs
+3	Mn2SiO4 @ C
+3	CNTOH
+3	S @ C @ MnO2
+2	[Phne] [HSO4]
+33	LiNi1 / 3Co1 / 3Mn1 / 3O2
+10	Li1.2Mn0.6Ni0.2O2
+85	Nb2O5
+7	LNO
+11	Ti(3)C(2)Tx
+67	Co(OH)(2)
+230	Ti3C2Tx
+3	ACNS5-2
+4	Ta-Mo
+2	Ta-O
+8	NaClO4
+7	NCM - 811
+51	titanium
+3	Co oxide
+2	PEO-10 % iCP @ TFSI
+5	NaV6O15
+10	NVO
+2	AC-micro-supercapacitors
+4	NaNixFeyMnzO2
+3	Ocu-Mn2O3
+6	barm
+39	li-
+31	aramid
+4	kevlar
+2	CoSnO3 @ NC @ MnO @ NC
+5	high-Ni oxides
+2	aluminate
+3	high-Ni oxide
+22	lithiophilic
+42	tin oxide
+2	T-PPy
+2	S / ( T-PPy ) @ SnO2
+2	cellulose - acetate
+71	lignin
+15	a-C
+3	nanosilicon
+202	tin
+3	LiF-Li3N
+3	S-CNO
+3	CNO
+3	Fe(OH)(3)
+15	hematite
+2	ferrihydrite
+63	titanium nitride
+4	Ti-S
+4	cobalt-
+9	Co-Mn
+2	N-HPCFs
+2	NMCS32
+16	NMC532
+30	phosphate
+2	fluorinated phosphate
+14	fullerene
+3	G-CLS
+8	LDHs
+3	sodium manganese oxides
+7	Na0.67MnO2
+4	si-
+15	H3PO4
+16	Li-Sn
+19	CP
+6	TiOx
+6	AgNO3
+4	Na2Sn
+81	VS2
+4	vanadium disulfide
+8	transition metal carbide
+86	CF
+3	borax
+6	SbVO4
+9	Ni-B
+9	Ni-S
+29	nitrides
+28	transition metal carbides
+5	LRO
+4	F-O2-LRO
+4	LiNi0.83Co0.12Mn0.05O2
+10	NCM83
+19	iron oxides
+71	FeOOH
+4	parafilm
+4	MnS - FeS2 @ NSC
+37	MnS
+3	Mg3Bi2
+44	GF
+45	vanadium oxides
+2	Fe-V-O
+2	Fe-V-O oxides
+5	LiBO2
+14	Li0.33La0.557TiO3
+2	PEO-LiTFSI-Li0.33La0.557TiO3
+3	S-M-PP
+2	Fe-SA-N-C
+3	lithium transition - metal oxides
+263	NiCo2S4
+25	Li2MnSiO4
+4	rubidium fluoride
+22	transition metal selenides
+2	( Ag-NW
+5	Penta-BN2
+3	lithiated nafion
+14	GaN
+4	graphene-Fe3O4
+3	lithium0.33La0.557TiO3
+3	aluminumuminumuminum
+11	aluminumuminum
+66	PEDOT : PSS
+2	(NH4)(2)HPO4
+7	LixSi
+2	QS
+4	nori
+2	ANC
+2	ARZIBs
+3	PSA
+45	gold
+48	Li2SO4
+4	d-Ti3C2Tx MXene
+2	a-Fe3O4-x
+9	MFO
+6	CaCl2
+70	FeS
+5	NrGO
+2	Co-O-C
+12	indium tin oxide
+19	ITO
+3	LiNi0.5Mn0.5O2
+3	Na-Al
+8	Li2C2O4
+2	P2-Na0.67Ni0.33Mn0.67O2
+3	ZSO
+16	Zn2SnO4
+7	ferrites
+2	manganates
+5	molybdates
+3	LiNixMnyCozO2
+4	MCO @ MCS @ rGO
+33	MnCo2S4
+8	MCS
+8	MCO
+4	HACNT
+2	gen2
+2	LiNi0.91Co0.045Mn0.045O2
+8	tungsten
+89	WO3
+3	S @ Au @ SiO2
+2	S @ SiO2
+17	zinc sulfide
+2	HAPCP
+3	setaria viridis
+2	400P @ 0.1GPHCNFs
+9	lithium phosphorus oxynitride
+10	LiZn
+9	EC
+2	Ag @ Cu
+7	sodium transition metal oxides
+2	OP4
+2	ramsdellite
+4	TiO2-x @ C
+3	Ti-O-C
+12	3DCF
+2	TiO2-
+2	(NH4)(6)Mo7O24 center dot 4H(2)O
+8	yttria
+68	NiS
+55	bacterial cellulose
+17	polyolefin
+3	P2 - na2 / 3MnO2
+9	C-N
+46	Na3Zr2Si2PO12
+2	GHSE
+3	NMHCF
+6	manganese hexacyanoferrate
+2	wood-FeOOH-poly(3,4-ethylenedioxythiophene)
+5	lithium polysulfide ( lithium polysulfide
+24	sulfur-carbon
+4	molybdenum oxynitride
+6	oxynitride
+4	sn-doped
+6	TMO2
+239	CuO
+3	CuO-Co3O4
+9	nylon
+49	bismuthsmuth
+11	bismuthsmuthsmuth
+2	bismuthsmuth @ C
+2	guar
+5	CoOx
+114	ZIF-67
+2	ZIF - 67
+2	g-C3N4 @ Ni(OH)(2)
+43	Na-O-2
+2	TPPC3
+2	TPPC1
+2	TPPC2
+2	T-NCS @ C
+2	T-NCS
+2	MWCNT-OH
+2	K36
+11	tellurium
+11	metal chalcogenide
+2	MMT
+2	telluride
+3	AMMT
+22	tungsten oxide
+7	MCNFs
+42	Cr
+27	LiCoPO4
+3	Li1.025Co0.84Fe0.10Cr0.05Si0.01(PO4)(1
+3	LiCo0.75Fe0.25PO4
+5	molybdenum sulfide
+18	Co1-xS
+42	cobalt sulfide
+3	meso-Mo2N
+17	Mo2N
+2	La2Ni0.5Li0.5O4
+13	high - nickel
+3	NMC 811
+2	limetal
+3	DqDaTp-carbon
+3	TNMO
+2	Na4Mn9O18
+3	HSiOx
+4	DC
+6	E-FGS
+2	magnesium chloride
+2	NaNi0.45Mn0.25Ti0.3O2
+2	NaNi0.4Mn0.25Ti0.3Co0.05O2
+2	Co3O4-TiO2(B)
+24	TiO2(B)
+47	MnOx
+2	ArGO
+2	Co3O4-450
+2	BM12h
+82	VO2
+26	Co2P
+2	Co2P @ N-C @ reduced graphene oxide
+8	cu2 - xSe
+6	Li3Nd3W2O12
+9	Li2SnO3
+2	Li2RuO3-Li2MnO3-Li2SnO3
+14	Ni-Co-S
+11	nickel cobalt sulfides
+2	Cu9Sn2Se9
+3	Cu2SnS3
+6	vinylene carbonate
+23	LiNi0.6Mn0.2Co0.2O2
+2	cellulose triacetate
+3	Li 2CO3
+39	NaTi2(PO4)(3)
+15	seleniumlenium
+5	seleniumleniumlenium
+13	lithium - selenium
+14	polyselenides
+2	seleniumlenium-nitrogen
+9	manganese silicate
+6	metal silicates
+4	KFSI
+5	KPF6
+12	K2CO3
+5	KF
+25	carbon nitride
+6	CMC
+6	PA
+2	Si - CMC
+9	NZSP
+3	NiZnCo-CH
+3	Co carbonate hydroxide
+4	NiCo-CH
+2	3DCu
+8	cobalt hydroxide
+2	Co-CO2-NMC91
+4	LiFePO4-Li
+2	CF @ 2H / 1 t MoS2
+14	melamine
+3	graphene-graphite
+4	micro-Si
+6	NaV3O8
+2	sodium vanadate
+8	carbonbased
+15	carbon paper
+6	N-G
+4	Co5Ge3
+19	N-CNT
+22	N-CNTs
+42	Li6.4La3Zr1.4Ta0.6O12
+3	KS6
+5	C6BN
+2	YS - CCS
+2	YS
+5	CCS
+25	LLZO
+28	Cl
+2	Ag - PCNFs
+7	PCNF
+2	ZnFe2O4 @ C
+4	BH
+23	KIB
+7	SSC
+12	tin sulfide
+2	SSC @ SnS2
+9	Na15Sn4
+9	epoxy
+5	CTs
+19	CFs
+2	NC-NR
+2	HCFs
+7	HCF
+7	carbon-confined
+2	g @ C @ SnO2
+2	carbon-confined SnO2
+24	metal - oxide
+2	bamboo carbon
+3	bamboo
+2	PGCF
+3	NiCl2
+4	Ni0.75Co0.25(CO3)(0.123)(OH)(2)
+6	silicon carbon
+2	p-SiNPs
+5	Li3VO4 @ C
+3	silicates
+2	CNT @ Fe3O4 @ C
+79	CuS
+4	Na-Mn-O
+9	Na0.7MnO2
+14	LMR
+2	nickel cobalt manganese oxide
+2	ZnO(x)Ry
+2	ZnOx
+14	iron phosphide
+8	Fe2P
+5	I-2
+20	ZnSO4
+22	AlF3
+16	sodium alginate
+12	lithium - metal
+60	VN
+51	black phosphorus
+13	transition - metal selenides
+3	marcasite
+3	m-CoSe2
+2	cobalt nickel perselenide
+3	Si-SiOx-CNx
+5	LiNi0.9Co0.1O2
+6	ZnS-Ni7S6
+12	copper hexacyanoferrate
+15	PAA
+5	collagen
+4	ZIBs
+2	alpha-(Mn2O3-MnO2)
+6	fluorinated SIC
+3	Na2TiCr(PO4)(3)
+2	C-ACF
+2	N,S-Mo2C
+16	na2 / 3Ni1 / 3Mn2 / 3O2
+14	quinone
+13	quinones
+6	Ti(3)C(2)Tx MXene
+2	V-TiO2
+10	CNC
+5	Vo-V2O5
+16	vo
+4	CuS @ S
+6	pyrite
+2	iron hydroxide
+3	Li1.15Ni0.17Co0.11Mn0.57O2
+2	iron phthalocyanine
+12	Na3PS4
+67	TiS2
+5	CS - 0.03
+65	NaO2
+2	CFO-polypyrrole-NTs
+4	PCL
+32	biochar
+2	coconut shell carbon
+13	NHCS
+23	Li2Se
+11	Na-Se
+13	PS
+2	Ni - 3[Co(CN)(6)](2)
+36	Na2Ti3O7
+3	Na - TMFs
+2	h-polyaniline
+12	ruthenium oxide
+6	cobaltosic oxide
+4	Li7-3xGaxLa3Zr2O12
+46	manganese dioxide
+8	NaMnO2
+16	molybdenum oxide
+2	liion
+23	Li10GeP2S12
+6	palladium
+24	Pd
+2	lithium difluoro(oxalate)borate
+21	AlPO4
+2	metal phosphate
+3	Li[Ni-x-yCoxMny] O-2A
+2	CS90
+2	RuOx
+4	tris(pyrrolidinophosphine) oxide
+3	lithium ( lithium ) metal
+6	K metal
+2	HS
+2	NCMA90
+8	K-S
+4	K2S2
+6	K2S3
+2	K2S
+6	K4Fe(CN)(6)
+32	transition metal phosphides
+34	Ni2P
+9	Li[NixCoyMn1-x-y]O-2
+2	AMP
+3	Li[Ni0.82Co0.14Al0.04]O-2
+20	ferrocene
+7	Cu2Sb
+3	NaxLiyMn1 - yO2
+11	MnO6
+4	Li3IrO4
+26	Ir
+4	lithium1.5Al0.5Ge1.5P3O12
+2	SIHCs
+4	PIHCs
+2	bislawsone
+2	lawsone
+4	ferrocyanide
+3	fethylene carbonate
+5	poly sulfides
+6	Li1.5Al0.5Ge1.5(PO4)(3) ( Li1.5Al0.5Ge1.5(PO4)(3) )
+5	ZCPL
+3	SpolysulfideIC
+2	LR
+16	KMnO4
+3	LR - NMC
+4	halides
+3	Li3Y(Br3Cl3)
+16	halide
+4	CuInS2
+9	indium
+6	Li3NbO4
+4	rocksalt
+2	K - metal
+3	Na2S6
+6	NaPF6
+26	SnSb
+15	lithium manganese oxide
+2	N-NC
+22	nS
+3	polysulfur-graphene
+8	NiTiO3
+3	K1.1V3O8
+19	LiNi0.80Co0.15Al0.05O2
+26	molybdenum
+4	molybdenumS2
+2	lithium phosphorus oxynitride-Lithium phosphorus oxynitride
+70	garnet
+3	M-MGCSs
+3	anode
+48	sodium metal
+3	TiO2(A
+3	B)-MS
+21	Cu3N
+25	chitin
+19	PMMA
+3	Co3O4-PBMCO
+2	FeCr
+2	CrPDTA
+2	Na-Li
+40	1T-MoS2
+2	C @ SnO2 @ TMS
+12	siloxene
+2	gallium - indium
+2	LiNi(0.8)Co(0.1)Mn(0.1)O(2 )cathode
+2	graphite-Li2S
+2	lithium thiophosphate
+2	lithium metal oxide
+14	S-8
+2	lithium polysulfidophosphate
+3	ROLi
+3	[Fe(CN)(6)](3-)
+13	LiTi2(PO4)(3)
+2	[Fe(CN)(6)](4-)
+5	lithium cyano tris(2,2,2-trifluoroethyl) borate
+5	ZnF2
+3	SNG
+3	CFM
+5	Li[NixCoyMnz]O-2
+3	Li[NixCoyAlz]O-2
+8	co-rich
+4	Zn-V2O5
+43	PAN
+10	Ni(HCO3)(2)
+2	Na3TiMn(PO4)(3)
+2	CSG
+2	CSG90
+3	vanadium tetrasulfide
+2	lithium metalPF6
+11	W2C
+2	W2C-CNTs
+2	W-O
+8	Li2RuO3
+3	Li2MO3
+3	Li2IrO3
+4	O-v-Cu-Co3O4 @ C
+11	lithium transition metal oxides
+2	lithium ruthenium oxide
+3	MOF-74
+2	MDH
+2	65Ni-MDH
+107	Ti3C2
+4	Ni-Co-Al-layered double hydroxide
+2	[MV](Br-3)(2)
+2	carbon disulfide
+2	CS2
+2	covalent-SC
+13	Li3PS4
+10	beta-Li3PS4
+2	metal - metal nitride
+3	Co-Co2N
+16	La2O3
+3	LaN
+4	ultrahigh
+2	NMT
+4	Li,S
+5	copperZn
+7	brass
+2	Li[Ni1-x-yCoxAly]O-2
+3	lithium ( lithium )
+3	lithiumAsF6
+7	nano-SiO2
+9	GPE
+12	phenazine
+2	N-CoSe2
+3	Co-N
+2	siliconNP
+3	NCM 811
+2	argyrodite Li6PS5Cl
+18	Li6PS5Cl
+7	Li1.2Ni0.13Mn0.54Co0.13O2
+8	KI
+5	(SPr)(2)V
+2	PS(d)-b-P(SPEG-co-STFSILi)
+12	metal - organic
+4	lithium iodide
+9	argyrodites
+8	argyrodite
+2	Li5.3PS4.3ClBr0.7
+3	Li3YBr6
+3	Li3YCl6
+4	Li3MX6
+13	high
+12	LiNi0.94Co0.06O2
+24	selenide
+2	NaSnPS
+2	NaSnPSe
+6	Na11Sn2PS12
+3	Si-OH
+3	Li6PS5Br
+15	Li2MoO3
+6	LiMO2
+3	carbon CMK-3
+3	beta-Na1.7IrO3
+2	beta-Li2IrO3
+2	PSt
+5	titanium disulfide
+4	Na argyrodites
+4	MgMn2O4
+2	mg1+alpha Mn2O4
+2	mg2-beta Mn2O4
+2	na2 / 3Fe0.2Mn0.8O2
+2	MO6
+5	lithium 2trifluoromethy1-4,5-dicyanoimidazole
+11	LiNi1 / 3Mn1 / 3Co1 / 3O2
+4	li2 - xRuO3
+3	li2 - xTiO3
+2	li2 - xMnO3
+2	li2 - xSnO3
+2	dihydroxyphthalazine
+3	Li1.2Ni1 / 3Ti1 / 3Mo2 / 15O2
+3	Li1.3Nb0.3Mn0.4O2
+4	Na3V(PO3)(3)N
+3	LiMn15Ni0.5O4
+2	LixV6O13
+7	Na3SbS4
+7	Br
+2	sodium - tin
+2	P2 - na2 / 3Mn0.8Zn0.1Al0.1O2
+7	lithium oxides
+3	Li4Mn2O5
+2	Li-Mn-O
+9	Na0.67Ni0.33Mn0.67O2
+2	NaxNi0.5Mn0.5O2 ( 0.5 < = x < = 1.2 )
+3	Ru-Ru
+4	rocksalts
+2	Mn oxides
+2	li-7
+2	na-23
+7	NaFeO2
+8	LiBF4
+3	thiophene
+3	Li4PS4I
+3	Li-15(PS4)(4)Cl-3
+4	F-COP
+6	LS - NFM
+2	NFM
+5	p-red
+2	P2O5
+3	FeSx
+3	V2CTx MXene
+3	co-free
+5	TiB2
+2	metal borides
+2	maghemite
+16	gamma-Fe2O3
+5	Li4P2O7
+6	metals
+9	all
+2	LixMO2
+5	lithium hydroxide
+3	fluorine
+18	COF
+10	Li[Ni0.6Co0.2Mn0.2]O-2
+4	Li[Ni0.95Co0.025Mn0.025]O-2
+5	Li[Ni0.8Co0.1Mn0.1]O-2
+5	oxyfluorides
+2	sodium vanadium bronze
+2	gamma-Na0.96V2O5
+7	NaFePO4
+3	vanadium bronze
+9	Li[Ni0.90Co0.05Mn0.05]O-2
+6	NiO-like
+3	Li3InCl6
+2	alkali - metal
+3	alkali peroxides
+15	Na2O2
+3	superoxides
+5	sodium superoxide
+2	Zr2S4
+3	thio-LISICON
+3	CuO6
+2	FeO6
+18	carbonates
+14	molybdenum phosphide
+5	Li2Cu0.5Ni0.5O2
+2	lithium carboxylate
+4	LiO4
+5	Li2VO2F
+3	germanium phosphide
+6	Na3P
+4	MGePx
+5	Na3V(PO4)(2)
+51	Li3V2(PO4)(3)
+5	NLi3V2(PO4)(3)
+3	Li-Ni1-x-yMnxCoyO2
+2	LiNi1-x-yCoxAlyO2
+2	nickel - iron selenide
+2	NixV(3-x)Se(4)
+2	NiFe2Se4
+2	NiV2Se4
+8	BiVO4
+2	Bi-2(MoO4)(3)
+6	bi-based
+9	vanadate
+13	molybdate
+19	lithium-
+3	Li1.2Ni0.15Co0.1Mn0.55O2
+3	P2-Na0.78Li0.25Mn0.75O2
+3	P2-Na0.67Mg0.28Mn0.72O2
+14	transition metal
+7	Li[Li0.2Ni0.2Mn0.6]O-2
+3	Li3VP3O9N
+2	Na3VP3O9N
+17	VO2(B)
+2	ti-2
+2	Ca3PSb
+3	alkali metal
+2	Li2Ni2TeO6
+3	B-ultrahigh-Ni
+31	CMK-3
+5	transition - metal carbides
+3	Nb2CTx
+9	Mo2CTx
+2	lithium-S
+4	SICs
+2	Na2Ti2O5-x
+9	Li7P3S11
+2	RuO4
+3	Li8SnO6
+2	Li(Ni0.6Co0.2Mn0.2)O-2
+20	alumina
+4	Li0.5FeF3
+8	FeF2
+2	P-ETG
+3	P-ETGs
+2	Na2+xTi4O9
+3	MnSb2S4
+7	fluorographene
+3	Cu - 3[Fe(CN)(6)](2)center dot nH(2)O
+2	Si-H
+2	Li1.2Ni1 / 3Ti1 / 3 W2 / 15O2
+4	NMC 622
+10	NMCs
+3	LCFP
+6	LCP
+2	Co0.33Fe0.67S2
+4	Li[NixCoyMn1xy]O-2
+3	TSFCG85
+2	TSFCG75
+2	FCG65
+3	Mo - PNSiliconlicon
+41	MgO
+5	Ni-Sn
+2	Ni-Sn @ CNT
+71	CNFs
+2	SnO2 @ PI
+23	CNS
+3	NPI
+4	PAALi
+22	Si @ C
+2	tin phosphides
+4	SnP3
+2	CNTs-20
+4	tin phosphide
+4	SiOx @ C
+9	polyvinyl alcohol
+12	Sb @ C
+12	polyphenylene sulfide
+14	NDC
+21	PI
+17	C-S
+2	Co-Fe LDH @ S
+3	glutinous rice
+7	GnP
+2	PVA-co-PE
+2	titanium - oxide
+2	Co-Mg
+10	AlV3O9
+25	GQDs
+2	AV
+3	TiCl4
+4	a-boron nitride
+3	H3PW12O40
+2	rGO-HT
+3	aluminumuminum-S
+22	NiWO4
+3	Co-Ni-Zn-O
+4	Fe2O3-CNTs
+2	TCF
+2	TRGO
+2	polyurethane acrylate
+78	rgraphene oxide
+24	Co3V2O8
+62	CuCo2O4
+5	H-CuO
+14	GQD
+4	P ? Si
+4	pitch
+2	C ? Si
+2	m-P-Si
+3	m-C-Si
+4	zeolite imidazole
+5	CoTe
+5	C-NiF
+8	polyacrylamide
+9	cobalt selenide
+37	CuCo2S4
+13	NiCo(OH)(2)
+3	P-NiSe @ C
+27	NiSe
+3	pollen
+3	MnO2-Mn3O4
+26	copper oxide
+2	Na3PO4
+4	nano-CaCO3
+5	NiOx
+4	O-NiCoP
+5	PVC-MWCNTs-PANI
+21	H2SO4
+2	2(CoSe2)
+7	PANI : PSS
+20	beta-Ni(OH)(2)
+6	NiO-CoO
+36	nickel oxide
+9	(
+12	Fe3O4 @ C
+6	tungsten trioxide
+4	NCC2
+34	sulphur
+6	metal sulphides
+2	metal sulphide
+4	N-MWCNT
+3	Co2O4
+15	CaCO3
+6	Fe3Se4
+6	H-Co3O4
+3	Ni(OH)2
+7	co-metal-organic
+2	reduced graphene Oxide-Carbon
+3	PAAm
+4	nickel - cobalt phosphate
+4	NiCo(PO4)(3)
+6	nickel phosphate
+3	cobalt phosphate
+27	CdS
+3	mK - boron nitride
+2	P2 - na2 / 3Mn1 / 2Fe1 / 4Co1 / 4O2
+6	MoS2-graphene
+2	FCF
+15	MnHCF
+17	NCNFs
+2	HOPS
+2	CNT @ g
+2	CMWCNTs
+2	H-SNFs
+17	nickel cobaltite
+8	fgo
+6	fgraphene oxide
+2	fgo-ap
+2	Li-B-O
+6	Li6.28La3Zr2Al0.24O12
+10	LiClO4
+2	Li6.28La3Zr2Al0.24O12-PEO
+3	Li6.4La3Zr1.4Nb0.6O12
+2	NiGP
+2	Li6.4La3Zr1.4Ta0.6O12(LLZTO)
+11	corncob
+27	CS
+10	C-60
+2	HBPS-(PMMA-b-PPEGMA)(30)
+4	ATRGO
+2	Na|Na+
+4	iron disulfide
+4	SbSA
+2	poly(acrylonitrile)
+21	LATP
+2	lithium aluminum titanium phosphate
+12	Li1+xAlxTi2 - x(PO4)(3)
+64	LTO
+6	zinc metal
+4	carbonous
+24	3DG
+6	GeS2
+2	C-Ge
+3	ZrB2
+2	C-SiOx
+2	C-SiOx @ Si
+6	Co2B
+36	Li2S6
+17	Li2S8
+3	borides
+4	Si @ SiOx @ C
+3	transition - metal nitrides
+23	MoN
+2	V2N
+6	W2N
+2	Ti3C2Tx-rGO
+2	Na-Ti3C2Tx-rGO
+2	lithium-Ti3C2Tx-rGO
+3	CxNi1 - xP
+2	NiP
+18	TiO2-x
+2	TiO2-x-P
+46	Co3S4
+2	Si @ C @ Cu
+3	potassium - selenium
+6	sodium - selenium
+10	K-Se
+2	s-co
+6	metal fluorides
+3	Co-O
+2	transition - metal phosphide
+4	FeP @ CNs
+3	potassium - sulfur
+2	WS2-rGO-CNT
+3	PC60
+3	SPC-50
+3	nickel cobalt hydroxide
+3	m-Si
+2	m-Si HC
+3	Fe-Ni
+13	MOFs
+12	niobium pentoxide
+2	A-Nb2O5-x @ MCS
+2	A-Nb2O5-x
+4	Co-Fe-P
+2	Na[NixCoyMnz]O-2
+2	Na[Ni0.65Co0.08Mn0.27]O-2
+8	AIF(3)
+3	LixZn
+6	cobalt nitride
+18	Co4N
+2	Co(OH)F
+4	ice
+4	CO2
+3	Oxi-d-MXenes
+4	MoS2-C
+5	alpha-V2O5
+5	delta-K0.5V2O5
+3	NaPSs
+2	NPCS
+5	M-FeS2
+2	P-FeS2
+18	metal chalcogenides
+3	Zn-Zn-zn-mxene
+2	bismuth - antimony
+6	BiSb
+15	nickel - cobalt
+3	Ni-Co hydroxide
+2	Ni-Co ) dual hydroxide
+2	rGO-Fe2O3
+2	Na - 3(VOPO4)(2)F
+3	Zn1-xCoxO
+11	Zn-Co
+2	O-v-MnO
+2	CO2-V6O13
+6	NHC
+2	transition - metal selenide
+3	CO2-carbon
+2	CO2-Ag
+9	Fe-N-C
+3	H-Ni @ Al-Co-S
+14	cerium oxide
+98	CeO2
+3	carbon-S
+3	chiber
+14	V8C7
+2	c-MoS2
+3	Sb-M-C
+5	Sb-Ni
+3	kapton
+2	titanates
+4	titanate
+2	h-titanates
+2	vanadium diselenide
+35	Sn4P3
+2	Mn2SnS4
+3	SMS
+5	poly(3,4-ethylenedioxythiophene)
+9	Co-N-C
+2	PCNTs-S
+7	gra
+33	transition metal dichalcogenides
+10	Ni3N
+2	Ni3N0.85
+2	Ni(3)N(0
+8	N-Ti3C2Tx
+5	Si @ void @ C
+4	Ni-Co-Mn oxide
+19	SiOC
+25	silicon oxycarbide
+8	Li-Si
+2	nanosilica
+4	( CoS NP @ NHC ) @ MXene
+20	BaTiO3
+6	sodium sulfide
+6	FePc
+2	FePc+octafluoronaphthalene
+2	EGaIn
+4	NCM851005
+5	MA-C-60
+12	V5S8
+2	V5S8 @ C
+29	NiCoP
+3	CHCS
+6	lithium phosphide
+33	Ti3C2 MXene
+2	CoNi-OH
+2	CoNi2-OH
+4	(NH4)(2)Mo3S13
+14	transition metal sulfide
+5	Li-Sb
+2	Sb-NS
+2	SPS
+8	chalcogenides
+2	epsilon-MnO2
+14	CoSx
+6	Na0.44MnO2
+2	TNO @ MS HRs
+7	TNO
+21	gN
+3	Co3O4 @ N-C
+4	Fe2N @ C
+2	Zn-delta-MnO2
+14	polyurethane
+2	c-MOFs
+2	c-MOF
+2	molybdenum @ N-G
+4	Fe-II
+8	LiCeO2
+2	metal - phosphide
+5	NiP2
+10	C-CNTs
+2	CuS - CTAB
+3	ZnxMnO2
+7	silicene
+7	Co3Se4
+3	metal - selenide
+2	rGO-CNT-cobalt phosphide(A)
+5	gt
+2	siliconliconNW
+2	Co7Fe3 @ PGC - CNT
+2	nickle sulfides
+4	NiS1.03
+2	NiS1.03 PHSs
+3	FeFe(CN)(6)
+6	PrGO
+7	GeP3
+23	C3N4
+23	titanium carbide
+12	non-carbon
+2	MoO2-Mo3N2 @ S
+5	mSiO(2)
+2	nickel cobalt
+11	polyester
+7	p-Si
+2	N-SGCNT
+2	P-2 @ N-SGCNT
+3	K4P3
+59	Sb2S3
+2	carbon-black
+10	Sn-C
+3	(NH4)(2)V4O9
+85	vanadium nitride
+2	vanadium nitride @ S
+2	transition - metal phosphates
+19	phosphides
+4	transition - metal phosphate
+2	NiCo(HPO4)(2)center dot 3H(2)O
+6	KV3O8
+23	Li2Sn
+5	alpha-Fe2O3 @ C
+4	OCNTF
+3	MIL-88-Fe
+4	S-alpha-Fe2O3 @ C
+2	Na - MnO2
+11	CNTF
+2	mo-V2CTx
+2	N-MoS2
+3	Bi0.75Sb0.25
+4	MXene-MF
+2	LE
+15	2H-MoS2
+8	Mo6S8
+2	LixMo6S8
+3	metal hydrides
+16	polythiophene
+3	MgAl
+4	Bi2O2Se
+4	CoP-Co
+3	S-Ti3C2Tx
+2	Ti3C2 MXenes
+6	Ti3C2O2
+8	Ti3C2S2
+4	Ti3C2T2
+6	Co9S8-x
+2	poly(sulfur-random-4-vinyl-1,2-epoxycyclohexane)
+3	thiosulfate
+2	In2Se3
+2	CoIn2
+3	Co-NiS
+3	Nb2CTx @ MoS2 @ C
+3	d-MoS2
+4	ZnIn2S4
+4	NB-GA
+3	VTe2
+7	graphenic
+2	CP @ Fe3O4 @ RGO
+2	graphene-draped siliconlicon
+2	TiO2-delta
+2	stober silica
+17	MoTe2
+3	MTQ
+3	I
+2	Ti3C2Br2
+2	VOx-V2C
+22	Si-C
+2	HNCP
+27	PB
+4	cerium-metal-organic
+8	Na2Ti6O13
+3	zincS
+2	K-V2C
+2	HPred phosphorus-36
+3	Na-Ti3C2Tx-CC
+2	MXene Ti3C2Tx
+2	a-Ti3C2-S
+2	a-Ti3C2 MNR
+2	all - MXene
+4	graphene-MSCs
+3	Pt3Cu
+2	AlCl4-
+3	Co-MoSe2
+2	FCu
+3	co-metal organic
+2	Zn-2(benzimidazolate)(2)(OH)(2)
+38	NIBs
+4	CNCs
+3	M-NC
+5	Fe-N-2
+26	CN
+2	D-HVS @ PP
+6	NixB
+9	nickel boride
+5	Ni(BO2)(2)
+3	NPRed phosphorus @ RGO
+2	CoS2 - C
+5	ZnCo1.5(OH)(4.5)Cl - 0.5 center dot 0.45H(2)O
+5	bimetallic hydroxide
+19	Ni3S4
+6	MAX
+6	Ti3SiC2
+8	MoS2 @ C
+3	MoS2-B
+4	Sb @ PC
+3	BixSb1-x @ P
+2	BixSb1-x
+3	Bi0.5Sb0.5 @ P
+4	PTCDA
+15	FeP @ C
+2	FeP @ C @ S
+51	SnOx
+25	BN
+2	g @ PFs
+3	lithium - tellurium
+8	C-Co-N
+67	NiFe2O4
+4	Ti3C2Tz MXene
+2	PN - PCM
+5	SiCx
+2	beta-SiC
+2	MXene-Si-CNT
+2	C-Si
+2	Ti-Si
+3	beta
+9	zeolite
+4	ZSM-5
+2	SiNP
+3	silicongermanium
+2	H-FeP @ C @ graphene
+4	H-FeP
+9	LiAl
+9	sulfurized polyacrylonitrile
+10	S @ pPAN
+3	BiOX
+4	G-S
+2	CuGeO3
+2	iron hexacyanoferrate
+2	S-N-Co-s-C
+8	VO2 ( B )
+2	V-O(center
+14	stainless - steel
+6	Na3Sb
+3	sulfur-graphene
+2	D-UiO-66-NH2-4
+7	UiO-66-NH2
+3	polyoxometalates
+23	CoSe
+6	K2Se
+4	Mo-N-C
+3	Mo-N-2
+6	siliconlicon @ void @ C
+2	CHMB
+2	HMF
+21	transition metal chalcogenides
+4	transition metal chalcogenide
+2	AES-G
+4	IPS-G
+11	FTO
+9	metal - organic framework
+3	Fe - MOF
+2	MnO2 @ MWCNT
+4	Co-N-x
+33	SnSe
+3	tin chalcogenide
+73	MnCo2O4
+5	PMCN @ NF
+3	Li2Mn3 / 4Cr1 / 4O2 F
+7	Na3Ni2SbO6
+2	gamma `
+3	gamma ` -V2O5
+11	nanocellulose
+6	NFC
+3	ganoderma lucidum
+2	Co3O4-carbon
+5	Co3O4-CNFs
+4	k-birnessite
+2	S-Fe2O3
+8	PANI-Mn
+2	CNZO
+5	NiO-ZnO
+9	PVA-H3PO4
+9	NiAl
+7	C-NR
+2	FeP @ C-NR
+9	AgNPs
+2	WS2-WS2-polyaniline
+2	p-CTFs
+9	alpha-FeOOH
+5	ACF
+10	titanium carbide MXene
+5	Ti3C2Tx-MXene
+26	CoNi
+2	LiCoO2||Li
+3	NiCoPS3
+3	O-CCF
+3	Na-Na3V2(PO4)(3)
+2	H2Sb2O6
+6	lithium1.4Al0.4Ti1.6(PO4)(3)
+10	transition metal dichalcogenide
+2	Li[LixNiyMn1-x-y]O-2
+4	NCQDs
+13	graphite carbon
+2	Na[Ni2 / 3Ru1 / 3]O-2
+4	nickel - cobalt oxysulfide
+4	oxysulfide
+4	A-CG
+6	m-MoS2
+3	HN - PPs
+3	SGC
+3	LiMn2O4-graphite
+3	H-FeS2
+6	PIBs
+2	3DCS
+5	N-P-LiPN
+2	S-N-PCNs
+2	rGO @ ReS2 @ N-C
+13	Co-B
+2	K2Ti8O17
+13	O
+14	Co-MOF
+10	NIB
+5	Si-DY
+29	diamond
+2	Li1.2Mn0.56Ni0.16Fe0.08O2
+3	TiS2 @ NSC
+4	B2O3
+14	clay
+4	BNWs
+34	CFC
+5	CoO @ C
+17	MCMB
+2	NaCa0.6V6O16
+2	V3O8
+2	Li4Ti5O12-cathode
+2	RuO2 @ MXene
+15	AgNWs
+2	eggplant
+11	lithiumthiumF
+34	lithium fluoride
+3	LNS
+10	CB
+2	mulberry paper
+2	mulberry
+8	Ti2CTx
+5	p-C3N4
+2	Ti(2)CTx
+9	LiNi0.8Co0.2O2
+9	lithium oxide
+2	NAsuperionic
+20	VOx
+2	LN-li metal
+2	2NbOPO(4)center dot H3PO4 center dot H2O
+3	nm 2NbOPO(4)center dot H3PO4 center dot H2O
+4	Na-0.55[Ni0.1Fe0.1Mn0.8]O-2
+6	Na0.76V6O15
+3	Na5V12O32
+2	beta-Na0.33V2O5
+2	HNaV6O16
+3	Li0.34La0.51TiO3
+4	C-BN
+2	zinc phosphide
+5	Li2ZrCl6
+2	LiNi0.88Co0.11Al0.01O2
+2	Zn - MnOx
+2	Co-Mn3O4
+2	n-organic
+2	1mLiPF(6)
+8	Cu2Se
+5	Fe3N @ C
+2	Na3VCr(PO4)(3)
+2	metal - sulfide
+2	Ti(3)C(2)T(x)is
+2	Ti3C2Tx-NbN
+2	NiFeO
+2	li2 - xO2
+6	Fe1-xS-NC
+2	PdCu
+7	metal fluoride
+3	ni-
+4	iron fluorides
+3	N-HPCSs
+7	N-HPCS
+3	MC-NS
+3	V5O12 center dot 6H(2)O
+5	VO1.75(OH)(0.5)
+5	LiTaSiO5
+2	sphene
+2	LiTaSiO5 sphene
+3	transition metal ( transition metal ) oxides
+2	MnOx @ N-C
+2	na-2 / 3[Ni1 / 3Mn2 / 3]O-2
+44	Li1.3Al0.3Ti1.7(PO4)(3)
+3	sodiophilicity
+8	Li polysulfides
+9	N-MC
+3	Fe-S
+2	Li-N
+3	K0.27MnO2
+2	Na0.55Mn2O4
+9	Cu-Zn
+2	silicon iodide
+5	DNA
+14	Li4Mn5O12
+3	P-Mo0.9Co0.1S2-2
+3	Co-P
+2	Ge-C
+6	Ni-Co-N
+13	GCN
+4	c-GPE
+4	polydopamine
+4	fluorides
+2	MoO3 - x
+4	Rh
+8	N-GQDs
+3	QDs
+6	xPTHF
+5	xPEO
+4	konjac glucomannan
+5	potassium hydroxide
+15	tin dioxide
+3	Na4VMn0.5Fe0.5(PO4)(3)
+4	CZTS @ C
+2	[ 31 over bar 0 ] - BaCoF4
+4	copper phosphide
+3	CoFeS
+2	nickel disulfide
+2	wind
+2	K2NiFe(CN)(6)center dot 1.2H(2)O
+4	carbon-
+4	li-carbon
+3	Na2V3(PO4)(3)
+6	LiNixCoyMn1-x-yO2
+3	Li1+xAlxTi2 - x(PO4)(3) ( Li1+xAlxTi2 - x(PO4)(3) )
+4	3DHG
+11	HAP
+20	antimonene
+14	alpha-MoO3
+55	NiSe2
+2	Sb @ N-C
+2	alpha-LDH
+58	TiC
+7	Al-S
+8	KTO
+2	KIMSCs
+14	potassium metal
+4	MoS1.5Se0.5
+2	MoO2-C
+11	anthraquinone
+6	alizarin
+2	Li1.2Mg0.2Ru0.6O2
+3	PVAC
+15	LiBH4
+6	KDIBs
+13	polydimethylsiloxane
+4	Na3MnTi(PO4)(3)
+3	(NixCo1-x)(9)Se-8
+2	(Ni0.1Co0.9)(9)Se-8
+4	nickel - cobalt sulfide
+6	Li @ mn-6
+2	Na[Ni2 / 3-xCoxSb1 / 3]O-2
+3	Li-Ag
+2	AgLi
+2	Co9S8 @ C
+4	metal - sulfides
+2	3DAC
+2	MOF - ZNCO @ g-KCF
+2	g-KCF-d
+4	FCG75
+2	NCA80
+2	Er
+22	Y
+5	starch
+4	NCW90
+2	NCA89
+3	TiF3
+3	Nb2C MXene
+3	Nb2CO2
+5	Li - o(2)batteries
+3	CCNT
+2	Na - seleniumlenium
+5	li-p-electrodes
+4	Co6Ni3S8
+3	Na0.14TiS2
+5	H2V3O8
+2	SMOH
+22	Ni3Se2
+3	C-Lepidolite
+4	lepidolite
+5	alpha-Mn2O3
+2	L-ZnxMnO2
+4	NCA85
+2	S-NCM811
+29	C2N
+2	Mn(3)O(4)is
+2	O-d-Mn3O4 @ C NA
+10	Mn3O4 @ C
+5	NCM90
+5	NM90
+13	alpha-MnS
+4	SCMFs
+2	(Ni0.5Co0.5)(9)S-8 @ NC
+2	PEI - CDots
+2	PEI
+2	lithium aluminum oxide
+8	Li-Al-O
+3	N-CDGB
+2	Na[Ni0.5Mn0.5]O(2)cathode
+4	LRMO
+7	nano-silicon
+2	Na1+nZr2SinP3-nO12
+5	MXene-N
+4	LNVOPF
+33	T-Nb2O5
+2	polyacrylonitrile @ ammonium polyphosphate
+3	rubber
+6	rice
+2	corn
+2	puffed rice
+3	magneli Ti4O7
+27	Ti4O7
+2	CoFeCe oxide
+3	carbonSs
+2	S / N-CN-750 @ Co3Se4-0.1 m
+2	graphene-indanthrone
+2	rgraphene oxide-pi-graphene-indanthrone
+2	3DP-VALi
+2	Li - LiFePO4
+3	La0.8Sr0.2MnO3-y
+2	p-codoped carbon
+2	FeX
+2	FeX @ , p-codoped carbon
+2	Na0.6MnO2
+2	PBCS
+6	bimetallic sulfide
+2	carbonthermal
+3	carbon-nanofiber
+2	FeCo2S4-NiCo2S4
+2	2D-Bi
+17	MnOOH
+10	Li-IL
+2	PF5
+3	graphene-750
+2	B-C
+4	LCuO @ Ti - mesh
+2	lithiumthium4Ti5O12
+3	NaMO2
+3	O-rGO
+19	MnMoO4
+3	super P carbon black
+2	P-TiON
+4	titanium oxynitride
+5	Ni - CAT
+3	G-VS2
+5	zinc cobalt sulfide
+4	Na2Mn3O7
+73	Li7La3Zr2O12
+5	potassium ferrocyanide
+19	MC
+5	Li2S1-2
+2	manganese dioxides
+2	NCO-HS
+11	Ni-Co oxide
+2	( TiC
+3	Fe(CN)(6)(3- / 4- )
+11	NiO-NiCo2O4
+8	metal hydroxide
+3	selenium - sulfur
+40	SeS2
+2	Mn-Mn
+2	ErGO
+3	PHC - 700
+2	Fe2O3 @ N-PC
+2	Mn3O4-S
+2	sodium-oxygen
+4	GCA
+6	a-Si
+3	graphene-carbon nanotube
+3	ePCNTM
+14	NVPF
+8	gelatin
+12	nickel sulfides
+4	NiSx @ C
+4	HC
+2	Ru-Cu-G
+6	N-Ti3C2
+7	LiBOB
+3	boron-
+4	Na0.33V2O5
+4	ST - CMP
+2	P(N)PEG
+6	LXMO
+2	Li-O-Li
+3	spandex
+2	na2 / 3Ni1 / 3Mn1 / 3Ti1 / 3O2
+5	Co9S8-QDs
+2	Co9S8-QD
+3	2D-Zn
+3	CoFe(CN)6
+17	cobalt hexacyanoferrate
+2	SnO2-C
+4	df-G
+5	FeS2 @ C
+3	MOF @ PVDF - HFP
+14	WO3-x
+2	SSNS
+2	li-carbonized
+2	FeIn2S4
+4	In
+4	CoFeP
+2	Li2S-TiS2
+7	alpha-NaFeO2
+5	KTi2(PO4)(3)
+5	LiFeSO4F
+2	Pt-Cu
+3	E-Cu
+8	lithium-oxygen
+4	KNOSC
+3	C-MWCNT
+4	LiFePO4|Li
+6	cu-metal-organic
+8	Fe2VO4
+2	NiO-type
+4	Na2Cu2.09O0.50S2
+3	polyselenide
+7	ketjenblack
+3	mCel
+11	FeCo2S4
+2	3DC-CF
+15	NbSe2
+3	NMA-89
+2	vanadium trioxide
+5	zinc - manganese dioxide
+8	alpha-
+3	benzoquinone
+3	lithium-nickel-cobalt-manganese oxide
+6	SA
+23	Cu3P
+2	Cu - lithium
+2	lithium3P
+2	Na-0.6[Mg0.2Mn0.6Co0.2]O-2
+2	nickel - cobalt double hydroxide
+5	NiCo-DH
+6	Li[Ni0.865Co0.120Al0.015]O-2
+3	TiO2 @ CNT @ C
+2	0.35Li(2)MnO(3)center dot 0.65LiNi(0.35)Mn(0.45)Co(0.20)O(2)
+10	NaVPO4F
+2	na2 - xIrO3
+3	LiNi0.7Mn0.15Co0.15O2
+2	PUOCNT
+2	reduction graphene oxide
+2	PUCNT
+3	O-LNCM622O
+2	D-LNCM622O
+2	( r-Bi2O3
+5	r-Bi2O3
+2	( r-Bi2O3 )
+6	lithiumthium - metal
+2	PbZr0.52Ti0.48O3
+4	lithiumNi0.5Co0.2Mn0.3O2
+3	SnP2O7
+2	NaxSn
+26	Ti3AlC2
+2	celery
+2	KxSy
+9	SnS @ C
+4	F-GDY
+4	S-hBN
+5	LiFePO(4)cathode
+2	Ni-N
+3	PNCFs
+3	NASCION
+2	NiS2 @ C @ C
+5	Si suboxide
+4	AFboron nitrideNSs
+2	Mn0.15V2O5 center dot nH(2)O
+2	escherichia coli
+4	LHCA
+2	lithiumthiumNi0.5Co0.2Mn0.3O2
+4	phthalocyanine
+3	ZnSe @ N,C
+12	Na2Se
+2	zinc - metal
+2	lithiumthiumCoO2
+3	tridymite
+2	LSSe
+2	MLG
+2	HKUST-1-C
+7	cupric oxide
+26	Sb2Se3
+11	Si3N4
+3	Li - MMT
+5	silk
+5	silk fibroin
+8	Na2S2
+6	Ni-Li
+6	lithium transition metal oxide
+5	PbO
+2	NiCo2Se4
+2	u-NCSe
+4	NCSe
+2	K0.8Mn8O16
+15	MoO3-x
+25	n-carbon
+2	carbon-300
+4	Ge3N4
+4	Mn1-x-y(CexLay)O2-delta
+2	Mn1-x-y(CexLay) o2-delta
+3	AlOOH
+2	CNTs - COOH @ hemin
+4	Fe-O
+3	SiTC
+2	TiO(2)layer
+5	D-TiO2
+2	co-nanofiber-carbon
+3	CNBs
+7	NaxMnO2
+2	Na-(Ni0.13Mn0.54Co0.13)CO3
+2	sodium oxide
+3	zinc phosphate
+6	G-TiO2
+3	graphene-TiO2
+3	lithiumthiumTiO2-lithiumthium3N-C
+6	lithiumthium3N
+4	vanadium oxynitride
+2	LiSO3
+12	CMK3
+2	EN
+2	lithium nitrate
+2	nickel cobalt layered double hydroxide
+4	Li - 4(BH4)(3)I @ SBA-15
+2	silica SBA-15
+4	SBA-15
+2	Li - 4(BH4)(3)I
+2	Co-SnS2
+6	Cu2MoS41
+5	Cu2MoS4
+3	germanium dioxide
+5	P2-Na-0.66(Mn0.54Co0.13Ni0.13)O-2
+2	HxMoO3
+2	HxMoO(3)
+2	OA - MOF
+2	Cu - 2(BDC)(2)
+4	LiCoO(2)cathode
+4	SCNT
+20	transition metal nitrides
+7	WN
+2	diatomites
+9	diatomite
+2	na2 - xO2
+4	reduced graphite oxide
+2	B-TiO2(B)
+2	Na0.6Li0.15Ni0.15Mn0.55Cu0.15O2
+3	V2C MXene
+5	V2CTx
+2	V-C-V
+46	Co0.85Se
+23	Bi2Se3
+4	GNR
+8	CSolid
+2	Na3.0PS3.8Cl0.2
+5	PLLN
+3	Li-Mn
+4	NaPO3
+2	Si-O-Si
+4	Fe0.8CoMnO4 @ C
+2	Fe0.8CoMnO4
+2	ZnO-Mn-C
+2	NFMCF
+3	LiPVFM
+2	MnS - MoS2
+2	S @ PAN
+2	Ni @ Ni(OH)(2)
+5	iron selenide
+6	cellulose acetate
+4	lithiumTFSI
+2	NCNs
+2	O-C
+2	VA-Li
+3	t-NTO
+3	m-NTO
+4	i-MAX
+3	i-MXene
+8	m
+6	Mo1.33C
+2	( mo2 / 3Sc1 / 3)(2)AlC
+2	i-MXenes
+4	N-doped-C
+3	carbonitrides
+2	LiNi0.9Mn0.05Co0.05O2
+2	Ni-Fe-S-CNT
+4	prussian - blue
+2	alkali ( Li , Na , K )
+6	n-graphene
+4	NaxMnFe(CN)(6)
+2	Co oxides
+3	mn-
+3	TiO2-BP-S
+3	PTi
+11	cobalt phthalocyanine
+3	Bi-CoPc-GPE
+5	Bi-CoPc
+2	BNcarbon
+2	OM-G
+6	Nb2O5-C
+2	CuS-C
+3	CoS2-C
+4	PCF
+6	LiTiO2
+2	Al - ZnO
+3	CoN-Ni3N
+3	poly(2,5-dihydroxy-1,4-benzoquinonyl sulfide
+3	15-C-5
+2	niobium titanium oxide
+3	TiNb2O7-x @ C
+3	Ge @ N-C
+2	Li1.87Mn0.94Ni0.19O3
+3	ECG
+5	VNxOy
+3	S2-4
+2	a-GaN @ Cu
+6	alpha-TM(OH)(2)
+6	NaNi1 / 3Fe1 / 3Mn1 / 3O2
+19	polytetrafluoroethylene
+7	co1 - xS
+2	mars
+8	iridium
+3	Ni-Fe prussian blue
+25	carbide
+2	APcarbon
+3	1T-2H MoS2-C
+6	SF
+14	cobalt sulfides
+6	SnSe-C
+8	alpha-NiS
+7	beta-NiS
+2	FeCl2
+2	F-MMT
+2	A-5
+3	t
+6	cactus
+6	CoFe
+2	S @ CoFe - MCS
+6	AgNP
+2	PVA - LiCl
+7	SG
+8	tantalum
+2	tantalum carbide
+7	tantalum oxide
+4	GeO(2)inverse
+2	SnO(2)and
+3	GeO2SnO2
+14	NiMn
+5	NiMn - LDH
+5	ov
+2	vanadium oxide bronze
+4	cyanoethyl-chitin
+21	aluminium
+8	Ni-P
+3	CSB
+20	GC
+19	FeOF
+3	Li3Mg7
+9	LiH
+4	[LiNBH](n)
+2	OCF
+2	lithiumCl
+2	ALA
+2	GO-A3Ss
+3	hard carbons
+3	N-GCNs
+2	m @ CNT
+2	NiNTAs
+9	ATO
+2	LLZT
+7	PCNS
+4	SEs
+3	VGN
+12	S-rGO
+2	S-Nb2O5
+2	Li-x[Li0.2Mn0.8]O-2
+2	vanadium hexacyanoferrate
+3	P-HPCB
+4	NSeCNFs
+2	NiCo(2)S(4)nanosheets
+2	MoS(2)nanosheet
+14	MoOx
+3	H-WS2 @ NC
+18	CoOOH
+9	selenium sulfide
+3	SexS8-x
+3	C-HS
+2	m-WO3-x @ NM - rGO
+2	magnesium - sulfur
+6	Mg-S
+4	Mg[B(hfip)(4)](2)
+2	poly(ethylene oxide)-succinonitrile-NaClO4
+6	La4NiLiO8
+4	TiO
+4	Ni-Fe-S
+7	Ni-Mo-S
+14	Sn @ C
+2	FeCFeOC
+4	FexOy
+2	g-C3N4-x
+3	NiCoON
+5	graphene-micro-supercapacitors
+2	Ni2Co4P3
+2	ge(c)
+2	GeO2(s)
+8	NiCo2N
+2	NiFeN
+2	Ti2Nb10O29-x
+3	TNO(x)G
+4	li-rich-layered oxide
+4	nickel cobalt phosphides
+14	NiCo-OH
+3	fluorinated polyimide
+4	metal carbide
+2	TiC-carbide
+2	Co-MnO
+8	CTF
+11	O3
+7	FeNCN
+4	Fe-C
+2	C8H10O15Sb2K2
+4	Sb-O-C
+2	N,P-co
+3	OCMS
+4	hemicellulose
+3	3DPC
+23	silicon carbide
+2	SiC - CDC
+17	CDC
+2	birnessite MnO2
+5	nb ( iv ( IVO2
+2	ZnSi2P3
+3	hetero
+2	norland optical adhesive 63
+2	Ni-Co @ Ni-Co LDH
+11	ncarbon
+3	NHVO
+5	(NH4)(2)V10O25 center dot 8H(2)O
+4	NaI
+2	C4Q
+2	NSCC
+4	NimolybdenumO4
+2	N-S
+2	NaOH
+2	antimony selenide
+15	Cu(OH)(2)
+4	Co-MOFs
+2	S-F
+2	N-PCFs
+8	niobium carbide
+6	NbC
+3	carbon-Co
+2	NiCo2Alx-layered double hydroxides
+3	CQD
+21	CQDs
+2	VOx @ MoO3
+24	SnO
+2	lithium bis(oxalato)borate
+4	LiFeO4
+3	Na - aluminate
+2	BTS
+2	Na0.66Mn0.9Mg0.1O2
+4	cellulose paper
+2	f-graphene
+2	Zn-CP
+2	CCF
+2	hC-NC
+2	MoSSeNSs
+21	EG
+2	SASe-Ti3C2
+5	Li - argyrodite
+2	Li1.13Mn0.517Ni0.256Co0.097O2
+4	Li21Si5
+4	pethylene oxide
+2	VS-3
+2	VS4-carbon
+3	HNCM
+2	HNCM800
+7	CuOx
+2	p-MG
+2	p-FG
+4	N-LTO
+2	N-LTO @ TiC / C
+2	C-Ni2Co
+3	NiCo - phosphate
+2	Ni2Co
+2	C-Ni3P-anchored carbon
+2	Ni3P-anchored carbon
+2	SHCM
+3	Nb4N5-Nb2O5
+2	zincP
+5	lithiumNO3
+3	lithiumCoO2
+5	vanadium sulfide
+2	Mo7O246-
+2	SiO(2)constituent
+2	LiNi(0.8)Co(0.1)Mn(0.1)O(2)as
+4	mu
+2	black phosphorous
+2	Au-GA
+2	Fe-N-4
+5	molybdenum boride
+3	N-STC
+9	V-O
+2	Zn-Te
+2	zinc telluride2
+2	cobalt polyphthalocyanine
+2	si-mu-env
+2	hyaluronic acid
+2	HA-GA
+4	Li0.34La0.56TiO3
+17	silicon monoxide
+2	Ni0.67Fe0.33Se2
+3	NTC
+5	LiNi0.85Co0.10Al0.05O2
+4	OV - T(n)QDs
+5	H-Nb2O5
+2	lithium - graphite
+4	Li-C
+2	CoZn-Se
+2	N-MX
+4	CHS
+3	lithiumthium5B4
+2	B-NCNT
+10	transition metal nitride
+2	mucin
+2	birnessite Na0.5MnO2
+7	Na0.5MnO2
+2	SnSb2Te4
+2	YSC
+2	BNG
+2	nanosulfur
+2	AlxV2O5
+5	vanadates
+2	LiNi1-x-yMnxCoyO2
+4	SA-Fe
+2	molybdenum sulfide selenide
+3	molybdenum sulfide selenide @ reduced graphene oxide
+2	Au-Na
+6	sodiophilic
+4	CoQ(10)
+5	NMC71515
+2	Mo2N-W2N @ PC
+2	dichalcogenide
+4	trichoderma spore carbon
+3	N,P
+3	trichoderma
+3	POF-HS
+2	lithium sulfate
+3	OVs
+3	CoS3
+3	alpha-MnS @ N,S - NTC
+20	BC
+20	FeSe
+2	Mg2TiO4
+4	phyllosilicate
+2	N - reduced graphene oxide
+2	KHCO3
+2	Ni-Cd
+3	Ni-MH
+2	lead - acid
+2	carbon-networks
+3	1Td WTe2
+4	Cu-Sn
+4	Nb14W3O44
+4	Li||LiFePO4
+2	CmSC
+2	TiN-VN @ CNFs
+2	polyurea
+3	activated-carbon
+13	Li1.4Al0.4Ti1.6(PO4)(3)
+9	N-CNS
+2	R-TiO2-x-S
+2	Gr-Nb2O5
+3	Na - HSC
+2	manganese - oxide
+2	h-TiN
+8	Fe3N
+3	molybdenum selenide
+2	cotton-carbon
+2	MCMB-F
+2	Sb2Se3-x
+6	silicone
+2	nickel-N-4
+3	nickel @ NG
+33	B4C
+2	Cu-CuO-Ni
+5	PrNP
+2	lithium phenylseleno polysulfides
+6	sericin
+2	NvG
+4	lithiumthiumC6
+2	NPCFs
+3	aluminum fluoride
+3	3D-Cu
+3	lithiumNi0.8Co0.1Mn0.1O2
+4	ni-6
+27	Li1.2Ni0.2Mn0.6O2
+4	zinc pyrovanadate
+6	ZVO
+2	pyrovanadate
+3	SCOF-2
+4	Fex-1Sex
+7	bismuthene
+2	Li6.4La3Zr2Al0.2O12
+2	MG-micro-supercapacitors
+3	ROCO2Li
+2	Li-IL @ MOF
+3	DCS-Si
+8	p-Co3O4
+2	n-TiO2-HPs
+3	in-based
+5	CSC
+5	TiO(2)nanoparticles
+3	Bi @ C
+2	P4S16
+2	Na2SO3
+4	MnO @ Mn3O4
+2	mn-8
+9	NPCF
+2	SRNDC - 700
+5	Li3N-LiF
+2	Li3PS4solid-state
+3	LiFeO2-x
+5	S / N @ C
+2	N-PCNSs
+10	carbides
+2	sodium polyselenides
+2	cNS - CNC
+2	CS @ HPP
+2	CC @ CS @ HPP
+12	void
+2	c-CMC-CA
+2	carbon @ void @ silica @ silicon
+8	Co-Ni
+8	transition metal selenide
+2	FCSe
+7	LiPON
+4	cobalt boride
+4	LiTaO3
+8	3DNG
+2	SR-G-Li
+4	diamond - like carbon
+4	LiNi0.5Co0.3Mn0.2O2
+2	agaric
+2	HPN-CS
+7	graphene-polyaniline
+2	graphene-manganese oxide
+3	Na-7[H2PV14O42]
+2	( PANi
+3	( PANi )
+6	flax
+4	SiO-based
+2	polypropylene carbonate
+10	HPC
+3	HPC @ TiO2 @ S
+3	metal oxide-carbon
+2	Ni(OH)(2) - MnO2
+9	RuCo2O4
+3	KMnF3
+6	MoO2 @ C
+4	LP54
+13	lig
+3	FPCSLP54
+2	FPCS
+12	lignosulfonate
+2	Na2S2O8
+2	V(2)O(5)3H(2)O
+6	MoS0.5Se1.5
+36	KCl
+3	AgNW
+6	lead
+9	BTO
+3	high - amylose starch
+2	WO3-Ti3C2
+5	ZIF-9
+8	LMNC
+3	DFDEC
+4	P(VDF-HFP)
+2	NICs
+7	NIC
+3	Ni1Co1-OH
+6	FeCl3-EG
+2	CoCl2
+3	sodium polysulfide
+21	biomass carbon
+2	IPP-V
+6	Co2P2O7
+2	Ag @ NCOH
+2	nickel - cobalt hydroxide
+3	Zn(OH)(2)
+2	Zn-Zn
+5	HCNx
+2	LiV2O4
+2	lithium vanadate
+3	HD
+3	FMNs
+2	LiNi0.6Mn0.2Co0.2O2 @ LCP @ g
+3	Mo-Co-S
+4	Na2MoO4
+5	D-rGO
+2	CP-Gr
+2	Afabric-Gr
+3	ND-Gr
+3	Ti(3)C(2)T(x)MXene
+2	Ti(3)C(2)T(x)based
+14	NCO
+2	NCO - C+M
+5	Li-2-O-2
+2	polystyrene sulfonate
+5	Sn(OH)(4)
+3	K3Sb
+8	ss
+8	platinum
+8	alpha-MnSe
+2	Ag @ PPy
+2	C-Cu
+2	poly(3,4-ethylenedioxythiophene) : polystyrene sulfonate
+6	Zn-Co-Se
+87	NF
+3	Graphene-Ink
+4	v-AuNWs
+2	NMTiO2
+2	N-CF
+8	CMT
+2	1T-MoS(2)nanosheets
+3	PTCDI
+7	siliconelicone
+3	noncarbon
+2	CBC @ g
+3	cucurbit[6]uril
+2	CBC
+8	CW
+2	p-VN @ C
+2	Ni-NG
+2	C-PEGDE
+5	Cu3Ge
+3	La0.8Sr0.2MnO3
+2	NPDSCS
+2	g-C(3)N(4)p-n
+2	Li-B-Mg
+2	LiB
+3	NIMCs
+3	lithiumthium+
+2	Li2O3
+3	Li1.2Ni0.17Mn0.56Co0.07O2
+2	LPSs
+2	Co(3)S(4)nanosheets
+2	NaV8O20
+3	(Na,manganese)V8O20
+2	polysulfone
+3	M-bpyN
+2	polypyrrole-phosphomolybdic
+2	Al3Ni2
+2	Na0.66CoxMn0.66-xTi0.34O2
+3	Na0.66Co0.22Mn0.44Ti0.34O2
+3	ni-nitrogen
+2	beta-PF
+10	HCS
+9	copper cobalt sulfide
+3	molybdenum dioxide
+7	In2S3
+3	c-PEGR
+13	Ti3C2Tz
+3	PEO - LiTFSI
+3	Ru-Co3O4
+2	ZnMn2O4 @ C
+2	ZnO - MnO @ C
+3	Mn-d-ZMO @ C
+2	zinc @ ZIF
+2	CNHO
+3	fquantum
+3	D-Ag
+3	lithiumNi0.8Mn0.1Co0.1O2
+2	Na0.44Mn0.95Mg0.05O2
+3	P-CNSs
+2	sulfate
+3	poly ( vinylene carbonate
+4	Li(Ni1-x-yCoxMny)O-2
+2	CCF @ SnS @ g
+2	Li(2)O(2)crystallization
+3	Li - o(2)battery
+6	Na2FePO4F
+4	Na2FePO4F @ C
+5	S-MnO2
+2	ZnS @ Co3S4 @ NiO
+5	Zn2TiO4
+2	zinc-
+2	N,S GCQDs
+2	sepia melanin
+2	sepia
+2	N,S GCQD
+9	Li2MoO4
+2	LMOF-5
+2	PANI @ rexpandable graphene oxide
+2	( rexpandable graphene oxide
+2	Fe-Mo selenide
+2	bimetallic selenide
+3	carbon ene
+2	red
+3	N-C-SS
+2	lithium - sulphur
+14	Na3V2O2(PO4)(2)F
+2	Ce0.9Eu0.1O2
+7	ceria
+3	Ce0.9Cr0.1O2
+7	NHPC
+3	zinc cobalt phosphide
+3	Ti-Fe-O
+17	MoP
+2	silicon nitride
+2	disulfide
+7	Ni-Co-P
+2	Ti3C2Tx-film
+8	Sb2Te3
+10	vanadium dioxide
+2	VO2 @ PCNFs
+7	Si-O
+2	SiO2-Fe-C
+5	NbSi2
+3	Ti - SnO2
+13	NiCoSe2
+2	NiCoSe250
+3	NFCS-NS
+2	Li1.3Fe0.4Nb0.3O2
+6	Ni-O
+2	NiO2
+19	activated carbons
+2	lithium poly(4-styrenesulfonyl)(dicyano)methide
+3	PDMS
+3	alq(3)
+15	Co-NC
+3	N-PCNs
+2	fCTF
+3	IL
+2	G-SC
+3	metal oxynitrides
+5	CrOXNY
+2	CR2032
+2	heme
+6	Na2V6O16
+3	3H(2)O
+8	CCN
+5	Si-MP
+6	ferric
+2	sodium polyacrylate
+2	Co3O4(220)
+2	ZnO(110)
+4	nickel ruthenium
+15	MoS3
+10	polycarbonate
+4	D-PC
+4	KNO3
+5	RDPC
+2	NiCo LDH
+4	CAM
+2	KOB
+2	CTFC - 900
+2	buckypaper
+2	OCNT
+2	NiFe2O4-NiO
+4	carbon-1
+3	LBCRs
+3	Co-NBC
+2	Li - O(2 )batteries
+4	MnCoO
+3	( mn1 / 3Co2 / 3)O
+3	Li2S6-carbon
+4	PMn(PAN)
+7	cyclodextrin
+3	cyclodextrin(beta)
+16	rice husk
+4	vanadium carbide
+2	VC @ C
+14	VC
+3	activate carbon
+4	graphene-Fe2O3
+4	HFSC
+2	3DGF-FeS2
+2	3DGF
+4	reduced graphene oxideNC
+6	Sn4P3 @ CNF
+9	Sn4P3 @ C
+6	wood carbon
+4	PWC
+2	N-O-GQDs
+2	phytic acidgraphene
+4	P-3DHPCs
+2	P-3DHPC-0.2
+3	C-A
+2	zinc tartrate
+2	5-5-8 carbon
+4	Hex-C-558
+4	SCVC
+7	LixSn
+9	PNC
+2	CNDs
+2	MBI
+2	hC28
+6	HGA
+4	CCNFs
+3	h-Co-BN-GC
+2	80S
+3	C-P( = O)(-O-)(n) ( n < = 2 )
+2	sRG-O
+2	BN - HPC
+2	naemetal
+4	Zn2SiO4
+4	BNP-C
+6	PAB-C
+2	H-Graphite oxide
+3	H-GA
+2	graphene-wrapped MnO
+2	PTFE
+5	HTG
+4	HTGs
+2	Fe3O4-carbon
+2	biomass carbon-2
+2	Co,N-G
+3	carbon nanotubes
+6	pyrite FeS2
+4	N-OMCS
+3	coca cola
+2	( CNF
+2	( PI )
+6	( PI
+3	reduced graphene oxide-K
+16	SWCNT
+3	NCM111
+2	lignin carbon
+3	molybdenum diselenide
+3	N-PCD
+8	N-GQD
+5	nanocarbons
+2	oyster
+6	CaO
+2	lithiated zinc
+2	Zn-Ni-Co-S
+3	Co-CNAs
+2	C68H4
+13	NCG
+2	N , P-CS
+2	( TiO2
+3	TG
+4	siligraphenes
+2	C-9
+2	ITC
+8	Sn2S3
+2	Sn2S3 @ CHS
+2	CNP
+9	tin sulfides
+5	activated ginger carbon
+2	HGO
+2	pecan nutshell
+3	carbon-carbon
+4	coir pith
+3	coir
+2	eucalyptus kraft lignin
+4	ncf ( co ( Co ( Fe )
+13	NS-C
+2	g-C3N4 @ HPC
+2	CNIFs
+11	agar
+4	PPy-NW
+2	M-Co9S8 @ NCF
+3	Co3S4-ZnS
+3	PECNT
+4	C-700
+3	SP
+2	AC-2
+2	NaBH4
+5	PPyCs
+2	PPyC
+2	COF-5
+3	Fs-LRgraphene oxide
+2	ZFOnb
+2	Zn-Fe
+5	siliconliconNPs
+4	HfO2
+2	phagraphene
+2	Fe-O-C
+3	lithium chloride
+3	PR-NG
+3	PD-NG
+3	AN-NG
+2	MTO
+3	GCM
+2	H-GCS
+3	CuS @ CD-graphene oxideH
+6	CD
+2	polyaniline - boric acid-polyvinyl alcohol
+2	CAs
+5	SnSbSx
+2	zinc antimonate
+4	ZnSb2O6-x
+5	ethylenediamine-Ti3C2Tx
+2	graphitize
+3	2DLM(G)
+6	Cu - MOF
+2	Cu @ C
+8	APC
+3	carbon-graphene
+3	GN46
+2	bituminous coal
+5	germanene
+4	GeCH3
+3	ketjen carbon black
+3	Mg(NO3)(2)
+2	Si @ Ge @ C
+27	GNs
+2	ACP
+3	Li - SeS2
+14	P-CNT
+3	P-O-C
+2	haeckelite h567
+4	Mn - prussian blue
+3	Sb4O5Cl2
+2	antimony oxychloride
+3	Sb4O5Cl2-GA
+2	Si - SiOx @ C
+2	SC-250-16
+3	CuxO - C
+2	CuxO-C
+3	Li2C2
+3	Ag - NSRGO
+2	Ag - NRGO
+2	NSRGO
+10	Fe2O3 @ C
+2	SPcarbon black
+3	BC2N
+3	PD4ET
+3	PD4ET-g-graphene oxide
+5	alpha-PC
+9	SnCl2
+8	activated carbon cloth
+3	N : carbon
+7	ZIF8
+5	TCS
+7	C-600
+3	C3B
+9	OLC
+2	GCNi(3)S(2)
+5	charcoal
+2	carbon-13
+10	boron carbon nitride
+2	PC3
+2	sodium nickel manganese oxides
+4	Na0.80Ni0.22Zn0.06Mn0.66O2
+2	C-PDA
+22	PDA
+3	G-Si
+3	P-CSC
+2	sludge
+5	MSC
+2	P-MSC
+5	reduced-graphene-oxide
+3	ACA - 800
+3	NOPC
+3	PVA - KOH
+2	Pd @ HCS
+3	T-C2Si
+2	O3DG-S
+3	graphene-sulfur
+2	s-carbon
+9	CMK-8
+3	NMC - 811
+4	NH4VO3
+2	ASAC25-Te
+3	SmCoO3
+2	NiS-NiCo2O4 @ C
+6	MnO2-x
+7	Mn(NO3)(2)
+4	nitrocellulose
+2	ploysulfides
+2	GP
+3	carbon-0.5
+4	A-CS650
+3	RM
+2	HPCs
+6	palygorskite
+5	PMTA
+9	calcium
+8	CaF2
+2	hyaluronic
+2	PPL-Zn
+2	C-M
+3	C-V
+3	BCF
+16	SnO2 @ C
+3	Nb2O5-Nb2O5-carbon
+2	net - tau
+4	psi-graphene
+3	net
+2	3-DOM-CNWs
+5	PbS
+4	PbTiS3
+3	NCF-MP
+3	N-HNC
+4	VGSs
+3	PtNR
+6	t-graphene
+2	NVP @ C
+2	NOPeCN
+2	Al2O3-
+15	Ta2O5
+3	( ZIF-8 )
+6	polyacrylonitrile carbon
+2	HCNT
+3	CO2 - CNT & S
+3	double oxides
+4	carbon700
+4	carbon800
+4	PCG
+7	carbon nitrides
+2	C11N
+2	C4N
+11	AlCl4
+2	NPPC
+7	coal tar pitch
+6	TiO2-graphene
+4	Co-ZIF-L
+3	ZIF-L
+2	rebar GF
+4	NiCo-nico-layered double hydroxide
+5	lrgraphene oxide
+2	SeFe3C
+2	N-CNT @ CF
+2	Na3.1Y0.1Zr1.9Si2PO12
+3	zinc ferrite
+5	Fe - 400
+10	Co3N
+5	N-MHCC
+4	nickel vanadate
+2	MC - 0.12
+5	p-SiO
+2	p-SiO @ C
+5	GaNb11O29
+3	GaNb11O29 @ C
+3	Li(7)La(3)Z(2)O(12)
+2	metal molybdates
+4	BMO
+11	Bi2MoO6
+2	r-GO @ La2O3 @ S
+4	na2 / 3Mn1 / 2Fe1 / 4Co1 / 4O2
+2	aluminium oxide
+4	zeolitic imidazolate framework-67
+2	Carbon-ZSR
+16	ZIF
+2	akTi(3)C(2)T(x)
+2	PVP
+4	zactivated carbon
+2	ZnCo2O4 @ CC
+2	d-V2O5
+3	SnO2-MoO3-C
+3	CoMoO4 @ CFC
+5	manganese ferrite
+2	cobalt vanadium oxides
+4	cobalt vanadium oxide
+3	Sm2NiMnO6
+3	Li1.2Mn0.56Ni0.17Co0.07O2
+23	FeCo2O4
+3	oxide Li1.2Mn0.54Ni0.13Co0.13O2
+10	LiNi0.815Co0.15Al0.035O2
+10	MFe2O4
+3	Mo - In - C
+9	Mo2CTx MXene
+3	ruthenium ionsxV1 - xO2
+5	LSG
+2	Co3O4 @ NCN
+2	LiNi0.95Al0.05O2
+2	Na3V2(PO4)(2)F-3 @ C
+2	NG - NVPF @ C
+3	NVPF @ C
+2	MoSe2 @ C
+2	1D-MoSe2 @ C
+9	Mn3N2
+5	aluminiumuminium
+4	Li[NixCoyMnz]O - 2811
+3	Al-B
+2	LMR-AB
+3	Li3V2(P1-xBxO4)(3)
+2	Li3V2(P0.95B0.05O4)(3)
+16	ZnCo2S4
+2	NF0
+2	Li0.6[Li0.2Mn0.8]O2
+2	FeO ( OH )
+4	FeO(OH)
+14	manganese sulfide
+3	CuMnS
+3	CoMnS
+3	Mn / Co oxide
+7	ZIF67
+3	antimony - tin oxide
+4	MnV13
+3	LiCI
+2	Cu - 2(OH)(3)NO3
+2	NiMoO4 @ C
+6	LLO
+24	Ni3V2O8
+2	pitch carbon
+24	MgCo2O4
+4	r
+2	m @ C2N
+5	f-CNFs
+6	transitional metal oxides
+2	c-polyethylene
+7	ZnWO4
+3	ZnFe2O4-graphene
+2	GN-sp
+2	GN-Id
+6	SiBCN
+2	GN-ld
+5	MrGO
+3	Li6.5La3Zr1.5Nb0.5O12-Li3PO4
+5	Li6.5La3Zr1.5Nb0.5O12
+5	NiCuCo2S4
+2	? -MnO2 @ Ti3C2Tx-0.06
+2	K2FeO4
+5	MnMC
+3	Co-ZIF
+2	NF700
+3	NH4H2PO4
+8	Na2MnPO4F
+3	nano-carbon
+8	GONRs
+2	carbon nanotubes-graphene oxide
+4	zinc - nickel
+3	ZnO-Cu-C
+2	zn1 / 3Mn2 / 3CO3
+2	AP-HC
+4	NixCo1-xO
+3	LiVO3
+2	VOC2O4
+20	LVO
+15	Li2ZnTi3O8
+3	Fe2O3 @ CuO - CCs
+3	Ni(OH)(2) @ CuO - CCs
+2	1 t @ 2H MoS2
+24	TiO2-B
+15	CrN
+9	Al(OH)(3)
+2	celestine blue
+3	Fe3O4-Fe2P-Fe @ C
+3	LiNi0.497Ce0.003Co0.2Mn0.3O2
+2	Co-Al
+2	ZnCo2O4 @ Co-Al LDH
+2	LiNi1 / 3Co1 / 3Mo1 / 3O2
+2	polytriphenylamine
+2	LiNi1 / 3Co1 / 3Mo1 / 3O2 / polytriphenylamine ( 5.0 wt % )
+4	FeMoO4
+4	ZnS @ HPC
+10	MgFe2O4
+9	LaNiO3
+2	SbCo-4
+4	Fe2O3-2DC
+6	NFO
+4	PANI-Co3O4
+10	alpha-NiMoO4
+2	K-SnS2 @ SG
+6	Ba
+6	manganese cobalt sulfide
+3	lithium vanadium phosphate
+3	LiH2PO4
+9	VPO4
+5	VPO4 @ C
+3	Li0.33La0.56TiO3
+8	Na2Li2Ti6O14
+3	lanthanum
+3	Na2Li2Ti6O14 @ Li0.33La0.56TiO3 ( 5 wt % )
+3	LCMs
+11	LaMnO3
+6	Co0.3Zn0.7Fe2O4
+2	HTZIF3
+2	CuxFeySe
+2	Cu7.5Fe7.5Se
+2	NiMo-7
+5	Cu3Si
+2	LiFe0.97Ni0.03PO4
+4	Ti3C2-MXenes
+6	nickel ferrite
+2	MCI
+8	c-f
+2	vulcan ( ni - co / vu ( Ni-Co / nico2o4 / vulcan ( ni - co / vu
+5	paniline
+2	Li3Bi
+3	Bi5Nb3O15 @ C
+3	Bi5Nb3O15
+11	ZnO @ C
+2	ZIFs
+2	V2AlC
+3	V2Al1-xCTz
+6	VNcarbon
+3	CFF
+2	NCM - 0.5
+3	sn-doped Co3O4
+4	5Sn
+6	LiMn0.7Fe0.3PO4
+12	NiMn2O4
+3	cobaltite
+6	YF3
+4	H-Ni3S2
+3	CO-CFO
+2	Bi2Mn4O10
+5	Li5La3Ta2O12
+3	lil
+2	SnO2-MoO3-carbon
+7	P-SnO2
+3	Li1.3Al0.3Ti1.7(PO4)(3) ( Li1.3Al0.3Ti1.7(PO4)(3) )
+2	Ni0.2Mn0.8CO3
+2	Mn0.8Ni0.2Co2O4
+5	Bi0.9La0.1FeO3
+3	HCGCM
+6	MnV2O6
+4	manganese vanadate
+6	PE
+6	N-HCN
+3	NMO @ CC
+4	Co-Mo-O-S
+4	Ba2FeCoO6-delta
+2	Ti3C2Tx-foam
+3	lithium manganate
+2	TiF4
+3	Fe2N-TiN
+2	ITO @ Mn3O4
+3	As3Mo8V4
+9	Li1.3Al0.3Ti1.7(PO4)3
+3	CNS - NAs
+2	CoMn-HW
+2	CoMn - HW
+2	Ni - foam
+2	Ni - 2(CO3) (OH)(2)
+2	Te - LLZ
+4	Cu9S8 @ C
+5	Cu9S8
+4	C-CC
+2	LiAlTiO4
+3	NiCO3
+3	oxygen
+3	LiNi0.7Co0.2Mn0.1O2
+6	MnSiO3
+5	zinc cobaltite
+2	NiCoO
+17	NiCoO2
+10	Nd
+24	NiCo - LDH
+3	SiNW
+2	Li1.3Al0.3Ti1.7(PO4)(3)-900
+20	Ti2Nb10O29
+2	TiO2-V2O5
+4	SnO2 ? ZrO2
+4	LiFePO4 @ C
+5	bismuth selenide
+2	Bi-MOFs
+2	Bi2Se3 @ NC - 400
+4	ER - WO3
+4	S-Mn3O4-QDs
+11	CuFe2O4
+3	NiCoO2 / g @ NF
+2	NiCoO2 @ NF and g @ NF
+2	Co-C5
+5	BiCoO3
+3	si30
+2	potassium carbonate
+4	Ni3S2 @ C
+5	LL5ZTO
+3	LZTO
+5	PB-Co-600
+5	Cu0.2Ni0.8O
+3	LiTa2PO8
+7	nickel ferrites
+2	pompon
+6	PF-NiFe2O4
+10	CoCo2O4
+3	cobalt molybdate
+3	NaTiP
+2	transitional metal oxide
+4	Sr(NO3)(2)
+3	LTP-G
+4	LTP-OG-10
+2	LTP-O
+8	LaPO4
+6	LiNi0.83Co0.11Mn0.06O2
+3	SnO2-NbC-C
+5	CdO
+3	neodymium
+3	Co9S8-C @ S
+2	SNS12
+4	NiMn(PO4)(2)
+7	PrF3
+9	CoMoS4
+2	SrTiO3
+2	PANI-SrTiO3-250
+2	lithium - aluminum
+11	Fe2MoC
+2	NiCo2O4 @ NiO @ C
+7	CoCO3
+3	N-MnO-HPCM
+2	NiFe2 - xMnxO4 - reduced graphene oxide
+2	NGCF
+3	Zn-Co-Ni-Se
+3	Zn-Co-Ni-Se NA @ Ni
+2	Zn-Co-Ni-Se NA
+25	ni-metal-organic
+2	Zn-Mn-ptcda
+2	Zn0.697Mn0.303Se
+2	zirconium4+
+2	Na3V1.95zirconium0.05(PO4)(2)F-3 / C
+4	NCC
+4	BiYO3
+4	SrMnO3
+3	LaF3
+2	lithium nickel cobalt oxide
+2	Ni @ Fe LDH
+2	Co3O4 @ SnO2 - SnO
+2	gamma-MnOOH
+3	LiMn1.95Zn0.05O4
+2	LiMn 2 0 4
+14	Co2SiO4
+4	cobalt silicate
+2	metal silicate
+2	Ge @ C
+9	C-rGO
+3	TRGN-CNTs-S
+4	NGN
+3	SiO2 @ Fe3O4 @ C
+5	silicon oxycarbide-drived carbon
+2	molybdenum dioxides
+4	Ni3S4-NiS
+3	WxC
+6	cobalt-graphene
+9	MnFe2O4
+2	(0.9)MgFe2O4
+2	(0.1)ZnMn2O4
+7	La-Co-O
+4	Ni-Co-BMLHs
+3	(CFO)(1-x)(graphene
+5	CFO
+3	LaCrO3
+5	LiY(WO4)(2)
+3	Gd
+2	NiO-CeO2
+2	LNMP
+11	LiMnPO4
+4	Dy
+2	IONPs
+6	Na0.6ManganeseO2
+3	Na2C2O4
+3	SPAN
+2	silicon oxycarbide-carbon
+2	Co9S8 @ S
+11	tungsten carbide
+4	CrNb49O124
+3	MNCFMo
+3	lanthanum zirconate
+4	PPC
+2	lignocelluloses
+5	LC
+6	ZnSnO3
+4	ZS
+3	LTO-TO
+4	Li4Ti5O12-TiO2
+7	Li5Cr7Ti6O25
+3	limonite
+20	h-BN
+3	SCO
+2	CFC-12
+2	MXene Ti3C2
+2	TNO @ N-C-M
+3	NiS @ NC - 300
+6	NGQDs
+3	P-Ge
+2	akhtenkite
+2	epsilon manganese dioxide
+7	CoSn(OH)(6)
+12	IrO2
+6	IrO2 - N
+2	10FDC
+7	Ag2WO4
+2	Mn-Co
+3	mn3 ( 0.15 wt % )
+4	LiNi0.5-x / 2BxMn1.5-x / 2O4
+2	VGCF
+4	VM
+4	strontium phosphide
+15	CoTe2
+4	nickel molybdate
+4	SmPO4
+25	FePO4
+4	C-500
+24	Li2FeSiO4
+3	TiO2 @ Co-CNT-NC
+4	Pr6O11
+5	beta-FeOOH
+12	CoTiO3
+3	Li7La3Zr2-xGexO12
+2	Zn0.5Mn0.5O3
+4	CoSe ? Se
+2	CoSe ? Se @ Ni
+3	Cd0.03Zn0.07NiO
+6	ZnTiO3
+5	Ni0.8Co0.1Mn0.1(OH)(2)
+2	GONR
+3	NVP-SE
+6	copper oxides
+16	CuxO
+4	Ni0.06Co2.94O4
+19	In2O3
+6	IOG-30
+3	LMNO
+2	Polyaniline-Pr2O3
+2	Pr2O3
+2	Polyaniline-Co3O4
+5	BL-MS
+8	SWCNTs
+7	NT
+7	NVP-C-NS
+2	NVP-C
+2	Fe - soc
+3	CuO-Ni
+3	pyrolusite
+10	MnSO4
+8	gamma-MnO2
+7	MoSi2
+3	TEOS
+5	sucrose
+2	ammonium molybdate
+4	silicide
+2	TT-Nb2O5
+2	C-O-Fe
+4	transition metal carbonates
+3	Mn0.33Co0.67CO3
+4	alpha-Fe2O3(SMSC)
+3	FeO
+4	Fe2P2O7
+3	c-dynamic
+5	cuprous oxide
+2	cerium sulfides
+3	(Ni0.4Co0.4Mn0.2)(3)O-4
+8	SnC2O4
+4	MnO2-NW
+4	GMZCO
+2	MnMoO4.0.9H2O
+3	(Ni0.25Co0.25)Se-2 @ NC
+2	Ni0.75C0.25
+2	se-2
+3	Na3.1V2(PO4)(2.9)(SiO4)(0.1)
+4	C-G10
+4	N85CA
+2	nb0.5 %
+5	F-
+2	mnbased
+24	CoMn2O4
+3	RuO2-Ta2O5
+8	Fe3O4-rGO-MoO3
+3	Fe(3)O(4)nanoparticles
+2	NP-CN
+5	Ti2N
+4	Ti2NF2
+4	Ti2NO2
+7	Pb3Nb4O13
+3	rGO-Mn3O4
+2	graphene-NiMoO4
+7	Ni-Al
+5	Ni-Al LDH
+7	SrLi2Ti6O14
+2	NMC333
+8	silsesquioxane
+2	KAS(4)
+5	CuMnO2
+3	simonkolleite
+2	siliconlicon - amylopectin
+2	Li garnet
+16	FLG
+2	HPSbCNFs - 700
+2	HPNC
+3	paper-poly(vinylidene fluoride
+3	SnO2 @ C @ TiO(2)hollow
+3	Mn(3)O(4)nanoparticles
+3	transitional metal phosphides
+9	net - C18
+6	gallium
+2	galithiumthium
+3	siliconO2
+3	3C-siliconC
+3	NMCA
+3	T-MXene @ C
+2	beta-CDs
+2	ZnCu2O4
+2	MgNi2O4
+2	MgMo2S4
+2	ZnNi2O4
+2	MgCu2S4
+5	PdNi
+3	Cu(Co-Ni)(2)S-4
+2	Li5AlO4
+3	In3Li13
+5	Li-In
+2	ZMnSO4
+2	MagnesiumF2
+4	tungsten nitride
+2	Al(H2PO4-)(x)(TOF-)(y)+(H2O)(n)
+2	luteolin
+4	H11Al2V6O23.2
+2	Ga2O3
+3	PPYS
+7	TiP2
+3	CuFG
+2	SMSC
+2	MS-HS
+4	CuGa2
+3	GCF-G
+3	mossy lithium
+4	Zn - MOF
+5	AuLi3
+2	sodium polyselenide
+2	Ni-Co-P @ C
+2	Li-Mg
+5	PDTe
+3	nickel chloride
+6	VN-NW
+4	CoSA-N-C
+6	Co-N-4
+2	Li6-xPS5-xCl1+x
+3	cuprite
+4	CCOF-Li
+5	zinc hexacyanoferrate
+4	Zn-3(OH)(2)V2O7
+3	Cu-O
+4	Ni-Mo-Co-S
+2	co-based zeolitic imidazolate
+2	NNMC
+3	i-polyaniline
+4	NSHPC
+4	Li14I14
+3	I-14
+2	f-CNTs
+2	f-BNNSs
+2	VP
+2	MnP
+3	mn1 - xVxP
+2	C-(N , O )
+21	lithium metalthium metal
+5	lithium metalthium metalthium metal
+8	lithium metalthium
+4	ZnO-multi-level Cu
+2	succinonitrile
+3	Fe0.95S1.05
+3	double-carbon
+6	H3BO3
+2	LiNi0.85Co0.05Al0.1O2
+19	FeOx
+6	KVOH
+3	m-LPA
+3	metal nitroxides
+3	Ni2Co-LDHs
+2	AL-Ti3C2 MXene
+2	NiCo - LDHs
+3	attapulgite
+3	siliconlicon-C
+2	siliconliconlicon-Carbon
+5	LixMnO2
+2	O-CNT
+3	Al-Se
+3	RG
+2	Cu5FeS4
+2	ADFN
+6	CNWs
+3	CMO
+3	a-CNTs
+4	MoV2O8
+3	CYSNs
+2	poly(vinylidene fluoride-co-hexafluoropropene)-hexafluoropropylene
+4	SPE
+2	LiMn 0.75 Fe0.25PO4
+2	V-S-Ni3S2 @ MN
+5	sulfurs
+5	polysulfane
+4	hemoglobin
+2	p-SiO2
+3	ACPs
+2	Co0.85Se @ C
+3	zinc - cobalt oxide
+2	carrageenan
+3	MnO2-carbon
+9	W18O49
+4	WOx
+3	MoSe2-GR
+2	tungstate
+4	nickel foam - NCO @ CMO @ CO
+2	poly ( vinylidene fluoride
+5	ReS2 @ C
+2	PVDF - garnet
+2	paraffin
+2	paraffin wax
+3	Li(Ni1 / 3Mn1 / 3Co1 / 3)O-2
+3	CoxSny
+3	E-CoxSny
+4	MoS2-C @ C
+3	Fe3C-MC
+2	O-d-VO2-rG
+4	MoB2
+3	Mo-Mo
+5	pPAN
+3	Mn-MOF-74
+3	TiO2-S
+3	TiN-S
+2	boron oxide
+8	borocarbonitride
+4	PDAA
+3	NS-CP
+4	Li(2)Sx
+2	Co-Te
+6	lithiumthiumNO3
+3	S2VP
+5	HEMO-1
+5	P-CoMoO4-x
+2	Mo1.33C MXene
+2	MnxOn
+4	KPB
+2	LMTOF0.15
+2	Li - CON
+4	lithium phosphate
+9	NS-G
+2	v-MoSSe
+2	F-TiO2-x
+3	C-NC
+3	BPQD
+3	all-graphene
+2	lithiumthiumI
+4	HBP(A-G)
+2	HBP(tetraamine-G)
+5	LiNi0.3Mn1.3O4
+2	Na - polysulfides
+13	ACC
+7	NaCrO2
+2	Na0.9Ca0.035Cr0.97Ti0.03O2
+4	CrO6
+18	WSe2
+2	C-Lithiumthium
+3	Ag0.4V2O5
+2	SNCF
+3	BL
+2	Ti - 0.95 square 0.05O1.79Cl0.08(OH)(0.13)
+2	NaTMO2
+2	MNCM
+3	PIG
+2	DLPE
+2	C-TiN
+3	LiNixMnyCozO2811
+2	CoSn @ C
+3	phosphosulfide
+3	P-S @ C
+3	P-S
+11	Sb2MoO6
+2	Na-Sb
+2	LiNi0.7Co0.1Mn0.2O2
+3	NCM712
+3	hydrous ruthenium oxide
+4	hRuO(2)
+2	CuSiO3
+4	NaFeHCF
+2	nano-Li1.5Al0.5Ge1.5(PO4)(3)
+2	Co4S3
+3	- 111 @ 111 / 811
+2	lithium metalthium metal - alkoxide
+2	Fe3C @ PGC - NGF
+6	PGC
+2	N-PCNWs
+2	( TA )
+2	3MTPA
+3	Na2C4O4
+2	NaxSn4P3
+2	Mn(IV)
+2	GaInSnZn
+2	CPS
+4	u-CGE
+2	u-CGEs
+3	soft carbon
+3	NPSC
+18	N-CNFs
+6	Fe7Se8
+11	N-CNF
+4	N-ZIF-8
+5	Si-O-C
+4	Li1.3Al0.3Ge1.7(PO4)(3)
+4	BiPS4
+3	NaMn1 / 3Fe1 / 3Ni1 / 3O2
+4	silicon suboxides
+3	CSPE
+3	WSNC
+5	Co-Zn
+2	Co-SAs
+3	zinc hydroxide sulfate
+3	PS-Li-AuLi3
+7	LZU1
+2	Al-AlxOy-C
+6	Li-Al
+2	Ag @ PDA
+2	Ag @ PDA-graphene oxide
+2	CoSi3P3
+3	LiP
+3	Co0.5Ni0.5WO4
+2	MgxLiy
+3	CHNTs
+4	cotton cloth
+2	Mo2C-C NOs @ S
+3	Co9S8-NiCo2S4
+3	B-PCPE
+7	chitosan sulfate
+2	BNNs
+3	N-pTi(3)C(2)T(x)
+5	black phosphorus-MXene
+2	rhombohedral-Fe-2(SO4)(3)
+2	rhombohedral
+5	KxFe2(SO4)(3)
+2	VP-G
+2	zinc - cobalt sulfide
+2	ZnSAs
+7	Na4Fe3(PO4)(2)P2O7
+6	NiCoMn-OH
+2	Ti2O(PO4)(2)(H2O)
+4	NCM85
+4	li-6
+10	NCNF
+3	pgn
+8	VA
+2	Mg-Sn
+8	Mg2Si
+5	Li[Ni0.8Co0.15Al0.05]O-2
+4	W-NCA95
+2	Li[Ni0.95Co0.04Al0.01]O-2
+4	Sn-O-C
+3	P2 - NaNM
+3	E-MoS2
+2	transition-metal-sulfide
+2	electrolyte
+2	Na3.2Hf1.9Ca0.1Si2PO12
+2	Na3V2
+3	D-SCN
+2	HAB - CPs
+4	V-HAB-CP
+2	K0.66CF
+2	MnO2 @ Co-Ni LDH
+2	Co-Ni LDH
+2	Sb2S3-SnS2
+3	lithium difluoro(oxalate)
+5	PSPEG
+2	mo-132-dodecyltrimethylammonium
+3	transition metal disulfides
+2	NiAs
+2	LCM
+5	LNCM
+2	MnPx
+3	H-VO2
+7	graphene-oxide
+2	theta-graphene
+5	GF @ PEGDA @ PEG
+2	Li1.1Mn0.7Ti0.2O2
+3	SLHE
+8	Na-Sn
+2	ZNV
+4	Cu(NO3)(2)
+2	NMC811cs
+7	nickel cobalt phosphide
+3	s-nickel cobalt phosphide
+4	PTCDI-Li
+8	TiOxNy
+3	TiONQDs
+2	NCFNT
+2	Fe9S10 @ MoS2 @ C
+4	Fe9S10
+7	co.
+2	IPC1
+10	Zn3V3O8
+2	Li - argyrodites
+2	Vo-PNa0.76V6O15
+2	Li13Sn5
+3	Zr-Fc
+2	LLAZO
+2	l-SN
+4	Co3O4-NC
+4	Na - 3(VO)(2)(PO4)(2)F
+3	2D-SS
+6	m-MnO2
+9	TMDs
+2	C @ ZnNiCo - CHs
+3	ZnNiCo - CHs
+6	rGOs
+2	N-PCM
+3	La0.8Sr0.2VO3
+2	Na0.5K0.5VO
+3	K2V6O16
+5	Li6.3La3Zr1.3Ta0.5O12
+2	(NH4)(4)[Fe(CN)(6)]
+2	(NH4)(3)[Fe(CN)(6)]
+2	LP30
+6	chromium
+2	[Fe(CN)(6)](4- / 3-)-PB
+2	[Fe(CN)(6)](4- / 3- )
+2	br-
+4	Zn-Br-2
+2	MgB2
+2	P2-Na-0
+2	na2 / 3Mg1 / 3Mn2 / 3O2
+2	Li1.17Ni0.21Co0.08Mn0.54O2
+4	AuNPs
+2	HAuCl4
+2	alpha-Al2O3
+4	cobalt hydroxide carbonate
+2	PPMn
+2	Co3V2O7(OH)(2)center dot 2H(2)O
+3	mollusc
+4	CoMoO4 @ C @ MnO2
+4	Li[Ni0.5Co0.2Mn0.3]O-2
+5	0.035Li(2)O-BPO4
+3	Cu @ MoO2 @ C
+10	NiAl - LDH
+10	NiFe - LDH
+2	MnO2-6
+2	Mn-SnS2-GA
+2	OI
+2	OI - MoS2
+5	NiO @ PC
+6	LiMn1.5Ni0.5O4
+5	TiN-Li4Ti5O12
+3	N-Li4Ti5O12
+2	nickel sulfate
+3	titamum dioxide
+4	TC
+3	LiCoMnO4
+3	nickel hexacyanoferrate
+6	NiHcarbon
+2	BOC
+2	manganese - lithium borate
+3	NZS
+2	(NH4)(6)Mo7O24.4H(2)O
+5	knb3o8b3O8
+5	metal ferrites
+2	MFe2O4 , m = Fe , Co , Ni , Mn , Cu , Zn )
+9	NPG
+2	LiNi0.45Cr0.1Mn1.45O4
+5	CuMn2O4
+2	MX3
+5	MoN2
+3	m-Li2MnO3
+2	LMO3
+7	SbOx
+4	Fe - SnO2
+4	c-c-zno
+5	C-C-c-zno
+7	carbon-nitrogen
+3	w-Si @ N-CNFs
+6	SnS2-NW
+4	SnS2-SP
+3	LiNi0.5-xYxMn1.5O4
+4	PVA-g-Pacrylic
+2	activated charcoal @ N-pCNEs
+2	activated charcoal
+6	PAND
+5	MPC
+3	[TiO6]
+3	S-LMST
+5	TiCr0.5Nb10.5O29
+2	MnOx-5
+2	graphene-NiCo2O4
+3	CNcarbon
+3	biosilica
+11	Cr2O3
+3	graphene-oxide-
+4	LiMnB03
+2	HCNF
+4	S-TiO2
+2	3DGN
+5	LTP
+2	Ni(NO3)(2
+2	nano-Fe3O4 @ Fe
+2	Fe3O4 @ Fe
+7	LMNCO
+23	Ni0.85Se
+3	MS - CNFs
+3	Na3V2(PO4)
+2	Na3V1.97Ni0.03(PO4)(3)
+2	LiAl0.05Ni0.05Mn1.9O4
+10	Ni-Co sulfide
+4	H-NiAl-LDH
+2	P-NiAl-LDH
+5	CGF
+5	W-PVB
+3	Ni-Mo oxide
+2	DSHM
+2	transition metal carbonate
+4	Co(CO3)(0.5)(OH)
+3	Cu9Si
+3	Co0.4Ni1.6P2O7
+3	pyrophosphates
+5	LiNi0.5Mn1.49Zr0.01O4
+2	Ni(OH)(2)-c
+5	LS-Sb @ g
+2	nano-FePO4
+3	GCScarbon
+2	Cu0.45Mn0.55O2
+2	Cu0.45Mn0.55O2-nanosheets
+3	0.33H(2)O
+2	Si-Ni3Sn2
+2	Sn-Fe-Ni
+4	Sn(IV)
+2	M-GS
+6	FeVO4
+4	KFC
+4	phosphotungstic
+3	LTO-TiN-TiC
+4	ZnO-Au
+2	Mn(CH3COO)(2)
+2	Ni(Co) NH4PO4
+8	FeMnO3
+4	SnO2 @ NRGO
+4	groups
+4	MCWCS
+4	Fe2TiO5
+4	Sm
+3	FeF3.0.33H(2)O
+3	Mn1-xCuxFe2O4
+2	manganese ferrites
+4	Li2SiF6
+2	CoOH
+2	nickel - cobalt oxides
+4	V2O5-SLMNSs
+2	VO2 ( B ) @ C
+2	N-C @ LFP
+2	Li1.05Al0.05Mn1.85Co0.05O3.9F0.1
+2	NiMnO3
+2	MgCo2O4(1.8)
+2	Na3Cu2SbO6
+4	CMF
+4	MnNb2O6
+2	MNO-1d
+2	nano-La2O3
+2	LNCM @ 6 wt % La2O3
+2	co304
+2	RGO-CNT-(CNT)-polyaniline
+4	Sn3O4
+3	Cu - HCF
+7	LiFePO4F
+3	MGA
+6	F-Fe2O3
+2	tin - antimony
+3	NiFe - LDHS
+2	transition metal vanadates
+2	(Ni0.5Co0.5)(0.85)Se
+3	LiNi(0.815)Co(0.15)Al(0.035)O2
+7	Li0.5La0.5TiO3
+4	Ti3C2Tx-paper
+3	filter paper
+2	ce : ti = 0.03 : 4.97 : Ti = 0.03 : 4.97
+2	ce : ti = 0.03 : 4.97 : Ti = 0.03 : 4.973+
+2	ce : ti = 0.03 : 4.97 : Ti = 0.03 : 4.97O2
+6	molybdenum oxycarbide
+3	DM - PAs
+2	S-DM-PAs
+2	S-67
+2	W-TiO2
+4	g-MCMB
+2	Co(NO3)(2)
+3	Si @ C @ RGO
+2	5LiFePO(4
+3	Co3O4-U0.37
+19	ZnMoO4
+2	ferroferric oxide
+6	ZrF4
+2	Li[Li0.20Mn0.54Ni0.13Co0.13]O-2
+5	K2SO4
+3	MoS1.5Se0.5-3D rGO
+2	WV2O7
+3	NiCo2S4-C-MoS2
+4	N-AC
+2	S-G
+3	G-PPy
+2	Li2Fe1-xTixSiO4
+5	Zn0.12Co0.88CO3
+3	NiO-SnO2
+2	LiNi0.5Co0.2Mn0.3O2(NCM523)
+3	nicoxoy
+2	lotus leaf
+2	lotus leaves
+2	LiFe0.5Mn0.5PO4
+2	LiFe0.5Mn0.5PO4-synthesis
+3	HeZnS
+4	Li-1.2[(Co0.5Mn0.5)(1 / 2)(Ni0.5Mn0.5)(1 / 2)](0.8)O-2
+3	LiAl0.10Mn1.90O4
+2	LFP @ g
+2	spoilt tofu
+6	PNTs
+2	PNT5
+4	Zn-Mn-Oxide
+3	ZnMnO3
+2	3DOM-mC
+3	Ni-Zn-Co oxide
+2	q-CNT-Fe3O4-C
+4	q-CNT
+2	CuMn(OH)(3)NO3
+2	CuMn(OH)3NO3
+2	Sn @ PNGC
+4	nano-Co1-xS
+3	rice husks
+8	mixed metal oxides
+3	siliconlicon-carbon
+2	Co9S8 @ g
+2	Li - sulfur
+5	Zn3P2
+2	Tin-Antimony-Nickel
+2	Ni3Sn4
+5	Li2O-B2O3
+4	la(2 / 3-x)Lia(x)TiO(3)
+2	la(2
+2	MPN
+4	tin disulfide
+2	SnS2-P
+3	SnS2-C
+11	SrF2
+7	eMCMBs
+2	SnO(x / )nanocarbon
+4	KFeO2
+3	Al-Si
+3	LiAlxMn(2-x)O(4)
+2	Al(OH)
+3	Li2NiF4-P3,4-ethylenedioxythiophene
+5	transition-metal-oxide
+2	Gr-TF
+2	stannic acetate
+7	bismuth oxychloride
+7	N-GNS
+2	nickel - manganese
+2	LRL-LiMn2O4
+8	titanium niobium oxide
+2	Ti0.98Nb2.02O7
+4	NiC2O4
+4	Co-CoSi2
+4	Co-Cosiliconlicon2
+2	graphene-H3
+3	nano-Au @ PANI
+6	C-TNTs
+2	TNTs
+3	cobalt disulfide
+2	Li4-xMgxTi5O12
+4	C-900
+8	C-800
+3	Li0.97K0.03Ni0.5Co0.2Mn0.3O2
+4	MGF
+2	Li[Li0.17Ni0.17Co0.10Mn0.56]O-2
+2	rutheniumtheniumxNi1-xCo2O4
+2	WO3 - SnO2
+7	lithium difluoro
+4	LiDFOB
+2	Ni - MoS2
+2	Graphene-MnO2
+3	SWD-S
+3	Co0.2Ni0.8
+4	LFP @ C
+5	PpPD
+9	reduced-graphene oxide
+3	Mg0.6Ni0.4O
+2	FeS2-carbon
+3	[TiO2](o)
+3	[ graphene oxide](o)
+5	M-Co3O4
+4	Si-rGO-C
+2	TiO2 B
+4	nickel phosphide
+13	Ni12P5
+5	PU
+3	MSCN-1
+4	LiVO2
+2	N400
+3	M-NiO / Ni @ CL
+4	Li3.9Cr0.3Ti4.8O12
+2	CF @ N-SPC
+6	H-SiO2
+2	polysiloxane
+2	PBAs
+2	graphene-nanosheets
+2	Sb2O4
+2	lithium molybdate
+2	12.12LMO-LZTO
+2	LaAlO3
+9	h-WO3
+2	Se - 50.2
+2	FexMn2-xO3-C
+2	FexMn2 - xO3
+2	Li2Sn ( 4 < n < = 8 )
+7	Fe-Co oxides
+6	acetylene
+3	CVO
+2	Cu2V2O7
+3	MC-2
+2	MnOxS2-x
+3	p-Si @ C
+2	LiNi1 / 3Co1 / 3Mn1 / 3O2 @ YE3
+2	Ru - RuO2
+3	N-MCRs
+5	MOF-5
+6	Co(3)O(4)nanoparticles
+4	tin selenide
+2	Mo2S3
+2	Na-Ni-Mn-O
+2	graphite4
+6	LMP
+12	LVP
+4	NTP-P
+4	S-3DG
+3	Fe1.5V1.5O4
+2	Fe1.5V1.5O4 @ C
+2	pueraria
+8	NixCo2x(OH)(6x)
+2	NiMn LDH
+3	reduced graphene oxide-4
+4	CoMn
+3	SCNT-PEG-NNH
+3	NG-Fe
+4	NiCo2O4 @ NiCoAl - LDH
+2	SMOs
+2	Ca2Ni5
+2	Cu0.10Mg0.40Zn0.50Fe2O4
+3	carbonLZTO-2
+2	co-x
+2	Li3Ti4Co1-xCrO12
+4	cadmium sulfide
+2	Ag2S
+2	AgP2
+2	PPy - PMo12
+4	adenine
+5	Ni - Co
+6	CoWO4
+2	Li1.18Mn0.56Ni0.13Co0.13O2
+4	P(VDF-TrFE)
+3	NiAl - LDHs
+2	nickel aluminum
+2	NiSx - NSC
+16	NiSx
+2	Mg2NiH4
+2	hydrides
+2	Fe2O3-C-Ag
+2	tin chloride
+3	Sn @ gr
+2	nano-Sn
+2	MoO2-Cu
+6	ZNTO
+2	LiNi0.5Mn1.5O4-T
+2	Ni0.95Mn0.05O1-delta
+3	Ti(C2H5O)(4)
+3	aspergillus oryzae spore carbon
+2	poly(vinylidene fluoride ) - HFP
+3	[BMIM][SCN]
+5	palm-kernel-shell-lignin
+2	siliconlicon @ C
+4	psiliconlicon @ C
+2	mg2siliconlicon
+2	(NH4)(2)MoS4
+2	sulfur carbon
+3	N-KCG-KG
+2	Si @ N-KCG-KG
+2	okra gum
+5	LF
+4	O-Ti3C2Tx
+2	transition metal hydroxide
+4	LTMH
+2	alpha-CoMn0.05(OH)(x)
+2	nickel carbonate
+4	lithiumthiumF @ Po
+8	siliconliconOx
+6	WCF
+2	A-N-GS
+2	N-GS
+2	RF
+4	ZnP2
+3	FGCS
+3	GH @ NC @ Co9S8
+3	NLMO
+2	Na(Li1 / 3Mn1 / 2Cr1 / 6)O-2
+6	VG
+2	NaDFOB
+2	CoSe2 ( aPPy
+2	metal vanadates
+3	Si - PEG
+2	SPH15
+2	MnO4
+2	n-pigment carbon black
+2	HS-Co3V2O8
+3	V10O24 center dot nH(2)O
+5	HHCS
+2	Na[Li1 / 3Ti1 / 3Cr1 / 3]O-2
+2	kirigami
+4	2H-MoSe2
+3	PTPPCo
+2	2.5 - MXene
+2	Co-3(HHTP)(2)
+4	lithium superoxide
+3	MoC2
+4	OV-Bi2O3
+10	N-GNTs
+5	V4C3Tx
+5	NiCoAl - LDH
+2	nickel borate
+2	transition metal borates
+2	(NH4)(2)V(10)O(25)8H(2)O
+2	Fe1-xS @ NC @ g
+3	micro-ZMB
+2	sodiumalginate-Cu
+5	popgraphene
+2	phyllosilicates
+3	nickel phyllosilicate
+3	nickel silicate
+6	LDS
+5	NiAl LDO
+4	3D-Ni
+2	Ni - GNs
+3	beta-Al2O3
+6	molybdenum oxides
+2	MoO(3)nanorods
+2	MoO(2)nanoparticles
+2	p-ZMO
+2	MCo2O4
+2	HeNiCo(2)O(4)NFs
+2	ZnCo2S4 @ CNTs ( 5 wt % )
+10	Li4SiO4
+2	Li2TiO3
+6	LiMn0.5Fe0.5PO4
+6	LMFP
+2	N-CP-carbon
+2	LiNi0.5Mn1.5O4-900
+3	Pd - MNP @ SCB
+3	sugarcane bagasse
+4	YVO
+3	Li1.6Mg1.6Sn2.8O8
+2	DV2C
+4	SFS
+4	R-PB
+4	T-Nb(2)O(5)NRs
+2	NS - CMS NRAs-12 h @ NF
+12	CMS
+2	fluoroethylene carbonate
+5	Cu2P2O7-carbon
+2	Cu2P2O7
+4	cu-0
+6	CoN
+2	Co0.85SeS
+2	CoNx
+6	Li3HoBr6
+3	Ni7S6-MoS2
+4	P-NiMoS
+2	iron telluride
+2	FeTe2-C
+2	C-C
+4	potassium vanadate
+3	C-KVO
+3	polyaniline-polypropylene
+2	NaxTMO2
+3	Na0.67Mn0.67Ni0.33O2
+6	RPEN
+3	selenium oxide
+3	super-P
+4	cathode
+2	UIO-67
+14	CT
+2	Sb3P2O143-
+2	zinc-Sb3P2O14
+2	AlxMnO2
+3	algae
+4	bacteria
+3	p-V2O3-CNT
+2	SA-Co
+2	NSS-CS-0.2
+2	DHPC
+2	Na0.7Li0.1Mn0.9O2
+2	na2 / 3Cu1 / 3Mn2 / 3O2
+2	P2 na2 / 3Cu1 / 3Mn2 / 3O2
+2	Ex-Ti3C2Tx
+3	3DnCF
+2	MoS3-x @ 3DnCF
+2	CoCp2
+5	NGO
+2	L-MCH
+3	COF-1
+3	RuRh
+2	NCM851005 ( 85 % Ni )
+5	BC-g-PEGM-GPEs
+13	Ni5P4
+2	Li1.4Al0.4Ti1.6(PO4)(3) ( Li1.4Al0.4Ti1.6(PO4)(3) )
+2	LMCO - 0.02
+2	SiO(2
+4	Co-B-i
+4	rGO-S
+2	TNS
+2	TNSs
+3	peroxide
+2	Bi-Gr
+2	Li[NixCoyAl1-x-y]O-2
+2	Li[Ni0.885Co0.1Al0.015]O-2
+2	NH4V4O10-x center dot nH(2)O
+4	oxide LiNi0.80Co0.15Al0.05O2
+2	Ti4O7-carbon
+15	V3O7
+2	h-VOW
+2	Se @ murray carbon
+2	MoP @ PC
+3	magnesiation
+2	diphenyl diselenide
+5	VB2
+2	LiSn
+2	polypyrrole pyrolytic carbon
+3	s-NCO
+3	r-NCO
+4	CoFe2O4-oxide
+3	CuCo2O4-oxide
+2	PolyMnPorPorprotoporphyrin IX
+4	aluminum silicate
+7	transition metal fluorides
+2	Ni-Co-Zn fluorides
+2	CoXNi1 - XMoO4
+2	nickel - bismuth
+3	juncus effusus
+3	NiCoFeO4
+5	diatom
+7	Sm2O3
+3	LLZA
+2	PGBE
+2	polymer - garnet
+2	Co(Ac)(2)
+2	Mn(Ac)(2)
+5	Co-Mn-O
+8	lithium2O
+5	Na3.4Mg0.1Zr1.9Si2.2P0.8O12
+2	Ga-Sn
+8	LM
+8	MWNT
+2	MnS - (ZnCo)S
+5	B3P
+2	ZHS
+2	nano-Cu
+2	QCG
+9	NVOH
+2	Mo(1.33)CTz-Ti3C2Tz
+3	ferrosilicon
+2	b-silicon
+3	fesilicon2
+4	fesilicon
+2	n-silicon
+2	mg2silicon
+4	C-558
+2	Cu-NC
+2	C @ SnO2 @ CC
+5	GL-C3N4
+2	CuO - CoO
+2	Sn2BTC
+2	Sn2BTC-graphene oxide
+4	celgard 2320
+7	SnCl4
+2	alpha-MnS @ N-HC
+9	N-HC
+5	Cu - WOx @ C
+2	{PW12O40}
+2	LiPSes
+4	V2O5-O-d
+2	chromium carbide
+3	Cr2CTx
+2	Li6.28Al0.24La3Zr2O12
+3	CoGe2
+2	Co-Ge
+4	CoGe2 @ C
+3	Fe2F5
+2	SWCNT-rGO-CoS2-C
+2	Na5V12O32 center dot 11.9H(2)O
+3	LNMO-DW
+2	3D-NH4V4O10
+5	MgSO4
+2	pen
+6	CYS
+3	N-CNSs
+7	SnS2 @ C
+5	Co0.85Se-QDs
+17	beta-MnO2
+5	graphene-wrapped
+2	t-C3N4
+2	S-MCCF
+2	MCCF
+5	Ni-Co-Mn
+2	NCPM
+2	cobalt phosphides
+2	fe1 - xS
+3	ReSe2
+2	ReSe2-carbon
+6	CCO
+10	FePS3
+3	metal phosphosulfide
+6	CoxS
+2	Co-Al-LDHs
+2	alkali metal titanates
+5	K2Ti6O13
+2	N,S-G
+3	M-TiO2 @ rGO
+2	nicandra physaloides pectin
+3	rP
+2	PCNPs
+7	CoSe2 @ CNTs - MXene
+3	NiCo-hydroxide
+2	Highlights3D
+2	3DCF-DO
+3	metal-organic-framework
+4	CuHCF
+3	Li - CNT
+4	NaNO3
+2	Fe2N @ N-CFBs
+3	H
+2	CNA
+2	CTNF
+2	MoO3 - aniline
+5	edg
+2	Ti(3)C(2)T(x)nanosheets
+3	Na3TCM
+2	carbon-confined metal oxide
+2	( MOF
+2	4H-SiC
+2	pnanosheets
+2	Na4SnS4
+2	LPH
+2	transition metal oxide CoMoO4
+2	LAGP - LiClO4 ( 10.0 wt % )
+3	ZIF-90
+3	LNMO @ ACC
+13	CoNiO2
+2	CoxSy-T
+4	bio-carbon
+2	S-PMB
+5	NBP
+2	BaLi2Ti6O14
+4	BaLi0.5Na1.5Ti6O14
+3	Fe3O4 @ NC - 700
+2	MoS(2)and
+4	Cu-Li
+5	oxyhydroxides
+2	P-ZCS
+4	r-CoNi2S4
+3	Fe1-xS @ NC
+5	Na3V2(PO4)(2)O2F @ C
+3	v(acac)(3)
+2	mPPy @ rGO - POM
+3	mPGM-Micro-supercapacitors
+3	NiCoMnS4
+2	Ni(OH)(2)nanosheets
+2	MOFC
+2	Ni-Co-Mn-Mo
+3	h-MoO3 @ C
+5	h-MoO3
+2	CoAl (CO32-)-layer double hydroxide
+2	CoAl(SO42-)
+4	ZnO - CoO @ NC
+2	ZnO - CoO
+3	VNO
+3	Al4B2O9
+3	l @ S
+2	Co-NCs
+3	SnO2-Li2CO3
+4	NiNC
+2	Cu @ Sn
+4	LN
+7	LS
+2	lithium-Sn
+4	H-V2O3
+2	Ni3S2 @ NSC
+3	V3S4-G
+8	V3S4
+3	KMNO
+3	NHCF
+2	reduced-grapheneoxide
+6	FeV2S4
+2	CoSOH
+2	PAN-Co(Ac)(2)
+5	prussian blueA
+2	NiCo - P
+2	NiCo-P
+2	LiNi0.5Mn1.5-xSnxO4 ( 0 < = x < = 0.1 )
+2	LiNi0.5Mn1.48Sn0.02O4
+2	M2TiAlC2
+3	Li5FeO4
+2	lithium cobalt oxides
+2	HAB
+3	LBAsolid
+2	lithium - garnet
+2	fumed silica
+2	lithiumBOB
+5	lithiumPF6
+2	SiOx @ C @ graphite
+2	CoNiO2 @ C
+3	magadiite
+3	CoxNi2 - xSiO4
+3	GSC
+5	( MnO2
+4	MnO2-Ag-3
+2	OMO
+2	boron nitride-carbon
+9	TiNb24O62
+4	alpha-MoC1-x
+2	KIHCs
+2	N-PCNF
+2	Na - FeHCF
+2	W-MoS2
+5	germagraphene
+2	azobenzenes
+4	NCCS
+3	TB-FeOSC-NS
+2	MIL-88b(Fe)
+4	PESP
+7	EVA
+2	SnS @ C / MoS2 @ N,P-C
+2	Na-Zn-NF
+2	Na4Fe3(PO4)(2)(P2O7)
+3	NFPP
+2	TPI-P-700
+2	rGO-5
+4	NHCSs
+3	co-metal
+3	G-(NH4)(2)V10O25
+5	n(nh4)(2)v10o25 center dot 8h(2)o
+6	n(nh4)(2)v10o25
+2	(NH4)(2)V10O25
+2	TP
+2	NiFePBA
+2	Cu - 3(HHTP)(2)
+7	Ni-Co-O
+3	NiO-30
+8	NiNH
+2	3DNi @ CNF
+2	RB-NCS(+)||AC(-)
+2	oxide MnCo2O4
+2	Mn-S
+6	Co-S
+2	Fe - glycerate
+3	5-AIFGN
+3	K-VO2(B)
+2	poly(2,2,2-trifluoroethyl methacrylate )
+3	NiFe2O4-NP-NS
+4	nickel hydroxides
+5	NSOH
+4	N-HCSs
+3	NF @ CoO @ Co / N-C
+2	nano-silica
+2	PVEC-silica-nanoresin20
+3	carbon-incorporated
+3	2D-Fe3O4
+2	POF-Fe
+2	CNT @ PPy
+2	PNG
+3	20PNG
+7	SbSI
+2	h-CeO2
+3	V2CX2 ( x = S , Se , and Te )
+2	CS-CuCo2S4 @ PPy
+8	NiSi
+2	ammonium vanadates
+4	NH4V3O8
+2	NH4V3O8 center dot 0.5H(2)O
+3	BaTiO3-g-graphene oxide
+2	carbon cloth @ Ni(OH)Cl @ NiO
+4	Ni(OH)Cl
+2	Na0.67Mn0.6Ni0.2Co0.2O2
+2	Cu - MNC
+2	CMC-Co
+3	NMLDH
+3	LiNi0.68Co0.10Mn0.22O2
+2	3D-PC
+3	CHTT-N
+2	cephalopods
+2	arthropods
+4	Ni (ii) - Co(OH)(2)
+3	melamine foam
+2	2C
+3	cobalt carbonate hydroxide
+5	SexS1-x @ ( SexS1-x )
+2	polyacrylonitrile - 450 degrees C
+2	Se0.38S0.62 @ ( SexS1-x )
+2	NiCo - OH / g @ PDA
+2	NiCo - OH
+13	HGH
+6	LFNMO
+3	Cu1-xNixFe2O4
+2	Cu1-xNixFe2O4 @ C
+8	co1 - xNixS
+5	2S-PDMS
+6	Ni - MOF
+8	Bi2Te3
+2	HMT-PMBI(I-)
+2	PVA - LiClO4
+4	HNCS
+2	c-PEGDMA
+3	Na2Zr(PO4)(2)
+2	Fe3C-HSB
+2	PDOL
+2	beta-NiS @ Ni
+5	H-C3N4
+2	H-C(3)N(4)as
+3	N-TiO2
+2	Fe - MOFs
+3	Zn-Mn-Ni-S
+2	apple carbon
+5	celery carbon
+2	PANC @ Co-Ni LDH
+2	FCNTs
+4	fluorinated carbon
+4	FCNT
+3	MCO-40 graphene
+2	CuCo2S4||N-rGO
+2	SnO(2)nanosheets
+2	UzMWCNTs
+2	macadamia
+3	c-macadamia
+2	PWS900
+2	frgraphene oxide
+2	HAC
+13	hemp
+5	SEAHQ
+3	Li7La3Zr2.0O12
+2	Ti3C2Tx-10
+2	YSZ
+4	carbon-N
+3	hard carbon-N
+2	crab
+2	Co(3)O(4)nanosheets
+6	(NH4)(3)FeF6
+3	fe(acac)(3)
+5	PAHB
+2	PAHB - 9
+3	PAHB-9
+4	lithium polysulphides
+2	cobalt metal - organic framework-S
+2	carbon onion
+2	Fe2O3-Fe2O3-single-wall carbon
+2	Ni-Co-O @ cotton
+2	Na2Mn2Si2O7
+2	cobalt hydrogen phosphate hydroxides
+5	CHPO
+10	Co-3(PO4)(2)
+2	S @ N-C
+2	co-doped Ni3S2
+7	Co-Ni3S2
+5	loofah
+3	titanium black
+3	Li10GeP2S12-PVDF
+2	MnWO(4)nanostructures
+2	MnWO4
+2	SiOx @ SnO2 @ C
+2	ACTS
+3	LCE40
+2	Si @ CA @ RH
+2	F127
+2	PAA-b-PAN-b-PAA
+3	ADPCF
+2	NiSe @ C
+2	silicalite
+2	NBCS
+2	a-humic
+2	transition - metal chalcogenide
+3	Co-O-Ti
+3	me - CNFs
+3	KL-Si
+2	C-WHS
+2	C-R1HS
+4	C-R2HS
+2	C-R2HS||AC
+5	pomelo biochar
+2	Cu @ N-C-600
+2	quartz
+5	quartz silica
+2	H-LCO
+2	LFO
+2	LFO @ LFO ) @ polydopamine
+2	P-Zn
+2	R-Bi2S3
+9	bismuth sulfide
+2	sulfonated polystyrene
+5	fe-0
+2	Si-NP
+2	Fe-Co hydroxides
+3	Fe-Co hydroxide
+4	A-CoL
+2	NaLi1 / 3Mn2 / 3O2
+3	A-rich-TMOs
+2	ni-3(2,3,6,7,10,11-hexaiminotriphenylene)(2) ( Ni - 3(HITP)(2)
+2	lithiated
+5	Ag2O
+4	g(-1)
+3	Z-Co2NiSe4
+2	Co2NiSe4
+4	BWC
+3	NCcarbon
+2	nickel-manganese-cobalt oxide
+2	nickel-manganese-cobalt oxide333
+3	Fe3O4 @ rgraphene oxide
+6	P2 - na2 / 3Ni1 / 3Mn2 / 3O2
+3	dihexadecanoalkyl phosphate
+2	dihexadecanoalkyl phosphate-Li-CNT
+2	graphitic C
+4	CH
+3	NiAl LDH
+3	si-nr-NR
+4	si-nr-NR-NF
+4	si-nr-NR-NR
+7	chalcogenide
+2	bismuth oxides
+2	Bi2O2.33
+6	MIL - 100 ( V )
+3	S @ MIL - 100 ( V )
+9	silicon suboxide
+5	CuNW
+3	SL-Li2MnO3
+2	NMO - SA
+2	HPCF
+2	Cr3C2 @ C
+2	Cr3C2
+4	CoSP
+5	WO3 - x / C
+2	Fe2O3-SnO2
+4	RGONTs
+2	sodium oxides
+4	HPCNs
+3	metal - oxides
+4	kapok
+2	AZO
+5	B-TiO2-x
+2	manganese carbonate
+2	m-C800
+2	Ge-Fe-O-x-700
+3	MoS(2)nanosheets
+2	Fe7S8 @ NC
+4	Fe7S8 @ C
+5	Li-Zn
+3	NPOH - 0.5 @ rGO
+2	nickel phosphite
+3	N-PC
+2	MIL-88B ( V )
+2	V-V
+4	CoMo2S4
+2	3DG-Carbon
+9	graphitic-carbon
+3	PAA-Li
+3	C-PVA
+2	N-4-CNT
+3	TiC2
+8	black phosphorene
+2	C @ SnOX @ C-1
+2	N-CT
+13	C-G
+2	Li4.4Sn
+2	NG-carbon
+3	spongin
+5	a-Fe2O3
+4	VOG
+2	VO2 center dot 0.2H(2)O
+2	-MnO2
+10	NaFeTiO4
+2	NSCNHF
+2	A-3DNG
+3	nanographene
+5	MoCl5
+3	G-MoS2
+4	calcium carbonate
+2	calcium carbonate-polyacrylic
+3	graphene3
+4	G-NiMoO4
+2	6P-4C
+2	3P-7C
+3	EE
+3	HCT
+2	Ag - MnO(2)catalysts
+6	C-O-Mo
+2	FeOOH @ AC
+3	Ni0.33Co0.67Se
+3	MoS2+x
+6	PVA-H3PO4-PMo12
+9	PMo12
+4	Zn - SnO2
+2	NiCl(2)Ic6H(2)O
+3	HSi @ C
+3	NiaEuro ` Mn sulfides
+2	NiaEuro ` Mn sulfide
+2	KP
+6	TBMC
+3	C-TiOx
+2	bismuthsmuth-Ti-EG
+3	titanium monoxide-graphene
+2	NiF2
+2	PIL - FMSiNP
+2	lithium hydride
+4	lithium silicate
+4	NOCNBs
+3	LIC
+3	gallium nitride
+2	N-SWCNH
+2	S-MC
+3	MVN
+3	LiO6
+5	V2C
+2	LiTMPO4
+2	V1.5Cr0.5O4.5H
+5	T-VCr
+4	antimony sulfide
+3	HCNs
+2	MnO2 @ PEDOT : PSS
+2	Fe - PGM
+4	ce - MoS2
+3	Od-NVO-stainless steel-2
+3	steel
+2	Cu4SiP8
+3	Al2O3-siliconO2
+2	lithium3aluminum2
+2	nickel glycerate
+2	NiHPi
+4	graphdiynes
+7	Si2BN
+3	SNSs
+2	HNC
+4	(NH4)(6)V10O28
+6	pyrophosphate
+3	Li2FeP2O7
+2	Na3.12Fe2.44(P2O7)(2)
+5	Na3V2(PO4)2F3
+3	ferric hexacyanoferrate-A
+3	LiTESI-PEO-Pyr(14)TESI-LLZO
+4	Sb2Te3-Te
+5	TNOx
+4	bacterial cellulose carbon
+2	d-MnO2
+2	CNT-NN
+3	TP - NixSy
+2	aluminol
+3	alpha-MoC
+5	VNNDs
+2	lithium - tin
+2	Li3V2(PO4)(3)-G-FD
+4	MnS - EDO
+3	lithiumthium4.4Sn
+2	MCNF-Au
+3	P-2-Na2 / 3Mn0.72Cu0.22Mg0.06O2
+2	HeTiO(2)eC
+4	NDG
+2	NiCo(NA)
+4	FZCT
+2	mSCs
+3	ACWS
+2	YP-80F
+2	S-CNS
+3	biomass
+4	peptide-Co9S8
+2	peptide
+2	Co3S4 @ 1 t MoS2
+2	E-VO
+4	ZnSnS3
+5	NMC76
+2	CoNC
+2	Na-P3
+2	mn6
+2	alpha-cyclodextrin
+4	alpha-CD
+2	EV
+4	Co-TiO2-x
+2	na2 / 3Mn0.9Ti0.1O2
+2	LixBi
+2	NaNbO3
+2	HCNb
+2	core
+2	Si @ g
+2	Si @ NG
+2	NLCFs
+3	p-HNCs
+5	Li4V2Mn(PO4)(4)
+2	Li[Li0.2Mn0.54Ni0.13Co0.13]O-2
+2	( S-C )
+2	nitrofullerene
+3	C-60(NO2)(6)
+3	LZNF
+2	C @ MoS2 @ PPy
+2	Ru @ HPC
+13	LTSO
+6	Li2TiSiO5
+3	Li1.2Mn0.56Co0.12Ni0.12O2
+4	transition metal phosphates
+2	( TMOs )
+2	silicon-polytetrafluoroethylene
+2	potassium acetate
+2	HCM-Fe3O4 @ void @ N-C
+2	co-precursor
+3	BNP
+4	ZnFe2O4-C
+2	P @ CNT
+4	phosphorus-carbon
+2	YP
+4	boron carbide
+2	K-10[(V16V18O82)-V-IV-O-V]
+3	POM
+2	poly ( propylene carbonate
+3	CPO-27
+2	Fe2O3-delta
+4	K-CO2
+2	MCo2S4
+5	xLi(2)MnO(3)center
+2	aluminum phosphate
+4	Zn3V2O8
+2	CeVO4
+8	NiTe2
+9	ZnP
+4	OVs-TiO2-x
+3	Ti3CNTx MXene
+2	Se @ Sb @ C
+5	Ti2CH2
+2	V2CH2
+2	Fe-N-GOMC
+2	Ti3C2Tx-Nordered
+2	cd-
+2	ZnNiCo-P
+3	Co-Cd-Se
+2	a-SiO2
+2	CaSi2
+3	TiO2(B)-BH
+3	Nb2O5-C-rGO
+2	Co @ N-HCMSs
+4	Co1Ga2O4
+3	Ni-Cu-Co LDH
+3	Na0.88Cr0.88Ru0.12O2
+6	KFe(SO4)(2)
+2	LixTiO2
+2	P_1 NCM
+3	NiO1-delta
+3	graphene oxide-polyacrylic
+2	Cu3Pt
+3	Cu3Pt-Cu
+4	LiNi(0.5-)xMn(1.5+x)O(4)
+3	PRS
+3	Na3V2(PO4)3
+4	V2MoO8
+3	(PhMgCl)(2)-AlCl3
+5	iridium3Li
+4	magneli
+3	P3-K-0.54[Co0.5Mn0.5]O-2
+4	FeNb11O29
+2	CNx
+4	BiFeO3
+3	dr-ReS2-x
+3	NCBC
+2	CGC
+6	B-3D-PCP
+2	lithium selenium
+4	BiCuS2.5
+2	Bi2WO6
+10	Mn(OH)(2)
+2	Mn(OH)(2) @ activated carbon cloth
+2	Nax(Cu-Fe-manganese)O-2
+2	BC @ ( BC ) @ polypyrrole
+2	carboxymethyl chitosan
+2	reduced grapheme oxide
+4	CoP @ C
+4	grapheme oxide
+4	Na3Zr2Si2PO12-10 wt % Na2B4O7
+3	3D-ENTC
+4	NVOD
+2	K|K
+3	d
+2	celgard 2400
+2	celgard 2325
+2	3DNi
+2	dimethylammonium zinc formate
+2	zinc oxide-Li
+2	Sb @ NS-3DPCMSs
+4	Li9Al4-Li3N-AlN
+2	lithiumthium9Al4
+2	OPNS-72
+6	FC
+4	GaSnIn
+2	iron-
+2	Ni - 2(CO3)(OH)(2)
+3	ZrV2O7
+2	Fe3O4-Mn3O4
+4	MnxFe3 - xO4
+2	MOF - 199
+3	Na0.67Mn0.65Ni0.2Mg0.15O2
+2	Na0.67Mn0.65Ni0.2Co0.15O2
+2	nitride mxenes
+6	V2NS2
+2	Ti2NS2
+8	Cu3SbS4
+6	ni-5
+6	FNT
+2	Co3Fe7
+7	oxide Li1.2Ni0.13Co0.13Mn0.54O2
+2	P2-Na-2 / 3[Mn0.7Zn0.3]O-2
+2	p-co
+2	lithium nickel manganese oxide
+2	mono-CoPc
+2	ZNDH
+3	Cu1-xNix-O
+2	Ni - P
+2	Mn0.33Ni0.67Se2
+2	Mn0.33Fe0.67Se2
+4	K2V8O21
+2	K0.25V2O5
+3	ironOx
+2	Se ( se-1 , P3(1)21 )
+3	7-CoS
+2	aerographite
+2	VO2-rG
+3	VOH-rG
+3	SnVO
+2	pyrovanadate V2O74-
+2	molybdenum-tungsten-oxide
+2	VO2(P)
+2	thiosulfates
+2	Li @ CuLi
+7	TiNxOy
+5	K-4[Fe(CN)(6)]
+6	K-3[Fe(CN)(6)]
+2	M-CoS @ C
+2	tin selenium sulfide
+6	SnSe0.5S0.5
+4	poly(butylene oxide
+4	ZnS1-x
+4	CuSi2P3
+3	CSNSs
+2	KBr
+4	Ni2P-HCS
+2	lithium bis(fluorosulfonyl)imide
+8	V-N-C
+3	NSO - HCN
+3	Nb18W16O93
+2	Zn-Co-S @ N-C
+2	CNT @ DNA
+5	NiCo2O4-CNT @ DNA
+2	NiCo2O4-CNT
+2	NaTFSI
+2	NaFTFSI
+3	PC - 1100
+2	SiC4
+2	metal carbonate hydroxides
+2	urease
+2	1Ag(-1)
+9	Co3O4-NiO
+2	Na-C
+2	CoFe2O4 @ N-CNF
+6	La0.6Sr0.4CoO3-delta
+3	C800
+2	bi-doping
+2	Ca6Si6O17(OH)(2)
+4	MnFe - PBA
+4	N-CCC
+2	HPCN
+2	lithium selenides
+2	ZnO @ HPC
+2	Cu @ MOF
+2	CuCo
+2	CuCo - DS5
+2	Zn0.5Co0.5S
+3	P-CoSe2
+2	MPQ
+2	ethyl cellulose
+3	co-btca
+4	NHMCFs
+3	F-2-MoS2
+3	SSM
+2	tin chalcogenides
+3	polyaniline-carbon cloth
+3	polyaniline-carbon
+4	NCHW
+5	TiC - CDC
+3	SPHA - 700
+2	SPHA-ac-700-2
+2	NiCo - phosphates
+4	NCPO
+2	u-CNFs
+3	u-CNFs-3 : 7
+4	C-Ni
+3	Ni(NO3)(2)
+5	G-NH
+4	bamboo charcoal
+2	BC @ S @ AlF3
+3	LDH2.0
+3	NGLC
+3	NiCo2O4NAS
+3	Co3O4Nss
+3	NiCoLDHNss
+4	NVP-QDs-SL
+5	LNCMA
+5	nickel - cobalt bisulfide
+5	MoS2 @ S
+2	iron oxyfluoride
+3	H-NCM
+4	S-NCM
+2	C-KF-750
+6	nickel-cobalt-manganese oxides
+3	3DCF @ S
+4	H-Co2P
+2	co-nitrogen
+4	lithiumthium21Si5
+4	VNb9O25-30 h
+3	Bi2S3 @ C
+4	Bi-Bi2O3
+6	NGC
+3	HCO
+6	nickel molybdenum oxide
+2	C-MEMS
+3	P-Cu-Co sulfide
+15	PG
+3	a-SWCNT
+2	GOG
+2	GOH
+2	GO(H)
+2	meso-CoHCF
+4	a-CSHs
+5	Ethylenediamine-RGO
+2	PC-5
+6	a-a-a-swcnt
+2	a-a-swcnt
+2	mn02
+4	graphene-backboned
+2	manganese monoxide
+3	monoxide
+3	Ni0.4Co0.6(OH)(2)
+2	CoOS0.1 @ g
+3	c-PAA-DS
+3	void @ SiOx @ C
+12	SNC
+3	Ca4.67Li0.33(PO4)(3)(OH)
+2	Ca4.67Li0.33(PO4)(3)F
+3	HT-Na-S
+2	r-3m
+2	PEI-GO
+2	( T-Nb2O5
+6	m-Nb2O5
+2	m(T-Nb2O5)
+2	( T-Nb2O5 )
+3	S0.6Se0.4
+2	CTC
+2	MOF - on - MOF
+2	MIL-53
+2	NiCo-CH-F
+2	RuO2 @ CC
+2	Li-Ru @ CC
+2	SC - NCA
+2	TiO(2)triple
+3	CoSe2 @ C
+2	alpha-MnS @ N-C @ MoS2
+3	Co-Fe3O4
+2	Co-Fe3O4 NS @ NG
+2	W(18)O(49)NWs
+3	Cu11V6O26
+4	polyimide3
+2	cotton cloth @ TiO2 - TiN
+3	ZCCo
+3	Mn2O3-GNCs
+2	Ni-Co-metal-organic
+2	Ni0.7Co0.3(OH)(2)
+3	NiS-NC
+2	molybdenum ditelluride
+2	metal dichalcogenides
+6	VSe(2)nanosheets
+2	VSe(2)is
+2	NPCNF
+4	Co2Mo3O8
+7	LiC6
+3	Ni - 11(HPO3)(8)(OH)(6)
+4	TiO2 @ MnO2 @ C
+4	carbyne
+2	Ni - SiO2
+4	Na2V6O16 center dot 1.63H(2)O
+3	LiDFBOP
+4	IWNC
+5	metal - porphyrin
+3	(Ni,Co)Se-2
+2	MIL-47
+3	V-IV(O)(bdc)
+2	HSC
+2	MoC1 - x
+3	MoC1 - x / HSC
+2	VxOy
+3	germaniumrmaniumrmanium
+11	germaniumrmanium
+3	FeP4
+2	c-FeSi2
+4	OCB
+3	Sn2P2S6
+4	Na0.9Ca0.05NFM
+2	Sn0.91Co0.19S2
+3	CoSAs
+3	S-NC
+3	P-Co3O4 @ P , N-C
+2	RuO2-16
+3	BCN
+2	BCNNT
+2	MCG
+2	NFPB-NF
+4	LN-RL
+2	x1c1
+2	Zn-Cu
+2	znfiber
+2	manganese oxide MnO2H0.16(H2O)(0.27)
+2	N-O-carbon
+2	ZCO
+2	VN @ N-PGC
+2	Sn-NG
+2	ngraphene
+2	HPGC
+3	NBT
+2	Sn-S
+6	NBF
+2	CuV - CoV
+2	NaPSe
+2	NHMCs
+2	CoFRS
+2	NiFRS
+6	transition - metal chalcogenides
+2	Na3V2(PO4)(3) ( Na3V2(PO4)(3) )
+3	C-NS-FL
+3	D-HCF
+2	NiCo2S4-HNA
+2	GQDsNH(2)
+2	Ni-Sn-P @ C-CNT
+2	Ni-Sn-P @ C
+3	TiO2 - xFx
+2	CrO(0.78)N(0.48)nanoparticles
+2	ACrCFs
+4	M-NFPF @ C
+4	zinc oxysulfide
+4	UlO
+2	S @ mxe @ PDA
+2	metal vanadate
+3	tungsten sulfide
+2	tungstite
+3	rGO-carbon
+2	InBr3
+3	LiFSI-1,2-diethoxyethane
+4	S-MoO3-x
+3	Fe2O3 @ C @ MoS2
+2	PCN
+6	agarose
+2	PPS - SSS
+3	MoS2-x
+2	MoS2 - x
+2	E-LiNO3
+2	LiNxOy
+5	CoP3
+2	lithium bis(allylmalonato) borate
+3	LPD
+2	sulfide graphdiyne
+3	G-CNF
+2	iceland
+2	3D-GF
+3	R-S @ MPC
+4	HSs
+2	HTSO
+2	NiS1.23Se0.77
+2	Ti3C2Tx-CNTs
+2	NHSC
+4	NPTNO
+4	Fe2O3-x
+4	Cu - BTC
+2	CuS(70 wt % ) @ Cu - BTC
+2	nickel pyrophosphate
+5	Ni2P2O7
+2	MnOx @ C @ MnOx
+2	N-Co2VO4-Co
+3	MoS2-Co
+2	Na-Bi
+3	(Sb0.99Ni0.01)(2)Se-3 @ C
+2	TMH
+2	Os
+4	P-Ni(OH)(2)
+2	metal selenite
+5	(NiCo)SeO3
+3	Ni-Co prussian blue
+2	Na0.75Ni0.82Co0.12Mn0.06O2
+3	TCM
+2	r-TiO2-x
+2	nickel cobalt mixed oxide
+2	GNi : Co 1 : 1
+2	Sb2S3-C
+3	ZnTe
+3	CoSe2NF
+2	C-Co
+6	CoSeO3
+2	ZnO-Si @ C-PCNFs
+2	ZnO-Si
+2	C-PCNFs
+2	bimetallic
+5	lithiumthiumBMAB
+4	POSS
+2	Na-M
+2	Na0.9Au0.1
+3	vanadium nitride oxide
+3	ZnO-Si-C
+4	MnS @ NSC
+2	C-S-Mn
+2	NCBs
+3	NCB
+2	PNC-Ns
+2	Ni-S-Li
+2	N-GQD @ cZIF - 8
+3	SiySn1 - yOx @ C
+3	HPC-S
+4	Co9Se8
+3	B,N
+4	1
+5	O-MoS2
+2	Si-Ti
+2	( mo2 / 3Y1 / 3)(2)AlC
+2	( mo2 / 3Y1 / 3)(2)C
+2	Sn2Co3-Co3SnC0.7-C
+3	Sn-Sn2Co3
+3	CoSnO3-Co3O4
+5	MgZnO
+2	black Nb2O5-x @ rGO
+4	K0.5V2O5
+2	C-GO
+2	molybdenum diphosphide
+4	MoP2
+2	MnV2O6:carbon
+2	NiCo(2)O(4)nanosheet
+4	NCNHP
+3	Se-C
+3	NaxFeFe(CN)(6)
+2	double hydroxide-nickel
+2	CNNOP
+5	NiCo - MOF
+4	Si3N4nanowires
+4	RuP2
+3	protein
+3	Co-N-CNT
+4	reduced graphene
+2	SWCNTB
+2	SWCNTB @ SnO2 @ C
+3	polyimide-N
+5	FeOx-nitrogen
+2	GaX
+13	VOOH
+2	coals
+4	(Co0.62Fe1.38)FeO4
+2	PolystyreneAC
+5	carbon-700
+5	nickel cobalt manganese sulfide
+8	V2O3 @ C
+2	gamma-Al2O3
+4	NGA
+2	ALNCs
+2	OMCs
+2	OMC
+2	SDBPy
+4	meso-MoO2
+2	N-OMCMs
+6	n-MPC
+2	HCFO - POS
+2	Bi0.5Sb0.5
+2	Co3O4 @ Ni - foam
+4	B-TMSs
+3	FNSe
+5	MnxNiyZnzCO3
+4	N-CMT
+2	MCSe
+3	N , P-VG @ CC
+6	PGO
+2	NCGO
+2	afiber
+3	rGB
+4	Mn7C3
+2	TiO(2)nanotubes
+2	TiNT
+11	graphyne
+2	HsGraphyne
+4	P-CF
+2	PPy @ CF
+10	MoSx
+2	HCB
+2	PCBDTP
+2	PCBDTP-X
+2	ethylene carbonate
+2	Li[NixCo1-x]O-2
+2	LiI(HPN)(2)
+2	V2C-Li
+3	N-LLZTO
+2	Li1.00CoO2
+2	electrenes
+2	As
+2	Sr2N
+2	Ca2N
+3	Si-Sn
+2	Li((2-x))FeSiO4
+2	xgraphene
+3	K-
+2	gamma-MnS
+5	beta-beryllene
+4	Be
+2	alpha-beryllene
+2	MOene
+6	Ti2O
+2	Cp2Co
+5	Li(NixMnyCoz)O-2
+3	lit
+3	ZrW2O8
+8	V2CO2
+2	Sc2C(OH)(2)
+3	Li-Li
+2	Li-TM
+2	CoAl LDHs - 0.5
+6	SnSx
+5	lyocell
+4	r-Ti(3)C(2)Tx
+2	conducting polymer
+2	Li - NASICON
+2	Li6.25La3Ga0.25Zr2O12
+3	alpha
+2	CPI
+2	W0.71Mo0.29O3
+2	Au-Ag
+9	alpha-P
+6	beta-P
+4	gamma-P
+3	phosphorenes
+5	BiSI
+2	Bi(13)S(18)I(2)powders
+2	ferrocenyl
+3	Mn2P2O7
+2	NiMoO4-2
+3	MgCo2O4 @ NiMoO4 - 2
+2	Li7La3Zr2-2xNbxYxO12
+3	Li7La3ZrNb0.5Y0.5O12
+2	NaN3
+4	G-Fs
+2	GO-Fs
+2	Na3AlF6
+3	waterborne polyurethane
+2	S-NPs
+3	NaCI
+4	PTh
+2	u-TOCNFs
+2	TNT
+3	LiGaOS
+2	CNTs - polyaniline
+8	MWNTs
+2	lignin - free wood
+2	Co-CoS
+4	CLFW
+2	Ti(3)C(2)MXene
+3	CuInTe2
+2	PMPC0.5
+4	Co1-xS @ C
+2	co1 - xS / ZnS @ C
+8	KCu7S4
+2	Cu1.96S
+5	MnF2
+2	NIP300
+2	ginkgo
+2	CdIF-8
+2	A(B)-Pd0.2Cd1.5IF-8 @ activated carbon
+3	K0.6CoO2
+2	P2-K0.6CoO2
+2	Li2S @ C
+2	SnO2-CC
+3	Sn-M
+2	Sn-Fe
+4	Sn-Fe @ C
+2	low-Co
+3	nanodiamond
+2	lithium peroxides
+2	Na - TiS2
+2	Sb2S5
+2	PANI-LS
+3	lithium3Bi
+5	Mg2B2O5
+2	Na3Ti5O12
+3	HD N-C @ Sn / g
+2	CARZIB
+4	VN - NBs
+4	Li-PS
+6	N-HPC
+3	Sb @ ( N , S-C )
+2	d-SiO @ vG
+2	alpha-(Ni
+2	bimetallic hydroxides
+2	Co)(OH)(2)
+2	alpha-(Ni / Co)(OH)(2)
+3	LiRAP
+2	p-carbon
+6	red phosphorusNPs
+4	barium
+2	GOC
+2	NPBCS
+3	MCNTs
+4	CsPbBr3
+2	CuZn
+2	Li @ Li2Se
+2	sulfur-graphene oxide
+4	Co-NFs
+3	MnxCo1-xO
+3	KVO
+2	VN @ C
+4	S-GO-CTA-CNT
+2	SnO2 @ Si
+3	N-TNO
+2	lithium2CO3
+4	MEC-AA
+2	MCM-41
+3	PVDF - PAN
+2	SACo
+2	ADFS
+4	LiPSn
+2	G-NHMC
+3	NHMC
+3	GFNs
+3	graphite fluoride
+5	M-MoS2-H2O
+4	manganous oxide
+2	corn starch
+2	h-Na3Bi
+2	c-Na3Bi
+4	full-carbon
+2	( EC ) : fluoroethylene carbonate
+3	TpPa-SO3Li
+2	LigCu
+3	cyclopentadienyl
+2	CB[6]
+2	sodium manganese
+3	Ni-N-5
+2	HNPC
+4	Co-NCNT
+7	NP
+2	PEO10LiTFSI
+2	NaBi3O4Cl2
+3	Sn-Ni
+2	LMR - NMC
+3	beta-Co(OH)(2)
+2	selenite
+2	iron selenite
+2	NSCT
+2	N-NFC
+3	CoSeO3 < bold > H < / bold > 2O
+3	Co9S8-NSA
+5	CF-Fe2O3
+6	ABPS
+4	Co2VO4
+9	nickel - cobalt phosphide
+5	1 t ` -MoS2
+6	Ni-MOF-74
+3	PANI : CSA
+2	Pt_CPPy
+3	NO
+3	NS-8
+2	Ni-Zn-Co-S
+3	Ni-Zn-Co-S-0.33
+3	Co / MnO @ GC - 700
+2	MCP-2
+3	MCP - 2
+7	CoB
+2	PEDOT - PSS
+2	MnO2-Au
+3	SiO(x)nanoparticles
+2	N-GA
+2	Fe3C @ N-C
+2	tin (ii) sulfide
+5	Na0.5Ni0.25Mn0.O-75(2)
+2	CoFe2O4 @ 140
+2	Ca2Ge7O16
+3	LiAlF4
+4	HM - 811
+3	i-PANI
+2	lignosulfonatenosulfonate
+3	i-PANI @ Ti3C2Tx(5 / 5 )
+3	p-CNF
+2	NiS2NP
+3	MXene-polyoxometalate
+2	carbon-8
+4	uNiS(2)
+2	SnO(2)particles
+3	C2N-NHG
+2	nano-graphene oxide
+2	sodium manganese oxide
+3	Li2Sen
+2	sodium lignosulfonate
+2	3DHP-VPO4 @ C
+4	PEDOP
+2	Ti3C2X2
+2	Hf3C2
+2	NGM
+3	vanadium oxide-graphene
+2	lithiated phosphate
+8	CNFAs
+2	CNFAs-17
+4	epsilon-P
+3	delta-P
+3	Co-2(OH)(2)CO3
+3	t-carbon
+3	VO2(D)
+3	Co3O4-G > N-PEGm
+2	grafoil
+2	scotch
+3	H-
+2	SOBs
+2	Li|Cu
+3	Ni-Mo-N
+2	C-MoTe2
+4	SSX-Gr
+2	ZnSe @ NC - YDS
+2	Fe-Ti-O @ C
+2	MIL - 125
+2	c-graphite
+2	C @ TiO2 @ MoS2
+4	Ni-Mn oxides
+5	m-NiSe2
+2	Li2TiSiO5(LTSO)
+2	wood tracheids
+2	MnFe2O4 @ C
+3	H-Titanium nitride
+2	red P @ C-Wood
+3	YDsupercapacitorFS-HS
+3	MSZCS-HS
+3	N-CC
+3	Co-Ni2P @ N-CC
+3	Mn2Mo3O8 @ C
+2	m-V2O5 @ GQDs
+3	CMN-CH
+7	PGMC
+2	Mn0.33Co0.67N
+3	SnO2-Fe2O3-C
+2	D-V5S8
+2	SbNPs
+11	FeCo
+2	C @ MoS2 - SnO2 @ gr
+4	Ce-O
+2	TMO - EGs
+2	Cu-Ni
+3	h-Co3O4 @ MnCo2O4.5 ns
+2	NiSe2 - MoSe2
+3	NiMoO4-C
+4	AgNCs
+4	HTiNbO5
+3	Co-Ni-S
+2	Cu3Si-Si
+2	Cu3Si-SCG
+5	RT-Sn @ C
+2	CaFe2O4
+2	F-CNOF
+3	MnO-Cu-CNT
+2	FeSx @ CS
+2	2H-MoS2xSe2-2x
+2	1T-MoSe2
+2	LiMnxFe1 - xPO4
+2	HCG-LiMnxFe1-xPO4
+4	P2-Na-2 / 3[Ni1 / 3Mn2 / 3]O-2
+2	P2-Na-2 / 3[Ni0.3Co0.1Mn0.6]O-2
+2	DW-MCO-NT
+6	iodine
+3	Cu - TDPAT
+2	S @ MOF
+2	pine
+3	nickel - cobalt bimetallic phosphide
+2	Fe-Nickel-cobalt bimetallic phosphide
+3	NF - 12.5 %
+3	TiO2 - RP
+2	Li - CO2
+2	Ni-Ru
+2	Ni - Ru
+5	bco - C20
+5	NiGa2O4
+2	GW - MSNGOHS
+3	GW-YS-NFOHS
+3	GW
+2	Co3O4 @ s-Ti3C2Tx
+2	N-GFWs
+3	C-60 @ N-MPC
+2	ZGO
+4	Zn2GeO4
+2	5 % Mn - TiO2
+4	fcarbon
+2	CoWSe2
+6	NaxCoO2
+4	Na0.7CoO2
+2	V-N-x
+2	SnSb - CNTs @ NCNFs
+2	activated carbon @ rGO
+2	Bi2S3 @ SC
+2	MoS2 @ NSC
+4	H : ZnO
+5	TiVC
+3	TiVCS2
+2	N-CSHPC
+3	F-FeS2
+4	Ni3Ge2O5(OH)(4)
+4	Cu - Ni(OH)(2) @ CoO
+4	Eu2O3
+2	rare earth oxides
+3	Ni - nCPs
+2	Ni-nCPs-1
+3	nfBaTiO3
+2	VNS
+2	( Co , Mn)-NiSe2-dien
+4	CoO-Co3O4
+3	C-MF
+2	NP - SnOxSb @ C
+5	F-RGO-60
+2	NrGF
+4	cMOF-5
+8	blue phosphorene
+6	vanadyl phosphate
+6	VOPO4
+3	Co3O4-Fe2O3
+3	Cu - BHT
+2	Nb(2)O(5)nanoparticles
+6	nickel - cobalt sulfides
+2	FeCo @ C @ MoS2
+3	alpha-CoS
+4	MBenes
+3	Co-Zn-Se
+8	pcarbon
+2	si-carbon
+3	Cu9S5
+2	CoQD
+2	ppyrene
+2	ppyrene-
+2	Ni(OH)(2) POV
+3	POV
+2	Ni(OH)(2) - POV
+3	Sn-M-C
+2	Sn-Ni @ C
+5	INPOS
+2	titanium zirconium
+2	Mo1.33CTz MXene
+3	NiMn-OH
+2	B-Co4N-20
+2	AlF(3)surface
+2	NiO-Co3O4
+2	tannic acidG
+2	tannic acidG(Ni)
+3	tannic acidG(Fe)
+2	tannic acidG(Cu)
+3	cgraphene
+2	gamma-AlOOH-quasi-solid-state
+2	Ni-Co ADH
+3	Fe3O4 @ MXene
+2	OPC-carbon dots - 700
+2	NiCo-MOF-1
+4	BCCSC
+2	SnS @ g
+6	V4C3-Mxene
+2	N-HPCNF
+3	Co-Mn hydroxide
+2	Co0.21Ni0.79MoO4
+2	ruthenium dioxide
+5	RuO2-NS-GNS
+2	TaSe2
+3	garlic
+3	Co-Mo-S NS
+3	Co-Mo-S
+2	rGO @ S-PCNP
+2	S-PCNP
+2	Cu - NiSe2 @ C
+4	Ni3B
+3	NixCoyMoO4
+4	pMS
+2	CxNy
+2	(NiFe)Se-x-GC-(GC)-carbon nanotube
+2	NGr
+5	CoNiSx
+2	MCT
+3	NiFe2O4-C
+3	MnxZn1 - xCO3
+2	a-MoS3
+2	Octagon-Pentagon-Graphenes
+3	octagon-pentagon-graphene_Z
+3	octagon-pentagon-graphene_L
+3	sLTO
+3	CoSe2-CN
+2	CH3CuS
+2	S50
+2	(NiCo)(9)S - 8
+2	g-C(3)N(4)NWA
+2	p-p-nca
+2	NCG-P-p-nca
+4	Sc2O3
+7	Ni0.55Co0.45C2O4
+2	CoC2O4
+3	transition metal MXenes
+2	M3C2O2
+2	M3C2O2 MXenes
+2	PCNFO-S
+5	nickel selenide-G
+3	CNT-N
+3	SnCo
+2	CNT-3DC
+2	SnCo @ CNT-3DC
+6	H-C
+3	CeO2-3
+2	Fe3O4 @ S @ C
+3	Fe3O4-SNC
+4	S,N
+2	O3 - NaNi(0.33)Mn(0.33)Fe(0.33)O(2)layered oxide
+9	Ni - 3(HITP)(2)
+2	nano-Li4Ti5O12
+2	( n-SnX / n-LTO ) @ C
+3	MTNPs
+2	2850CNTs-Gra-S
+2	SiC8
+4	MWcarbon
+2	carbon-L
+4	(CuCo)Se-2
+4	silicon monophosphides
+6	VSe1.5
+2	P-Bi-Sn
+2	NiO @ FC
+2	NiO @ C
+8	S-PANI
+6	b-NCNTs
+2	(V2-xScx)(2)AlC
+3	P-FeS @ C
+2	Na3V2(PO4)(3) @ 3D-NSC
+3	TC-g-C3N4
+4	Na3BO3
+2	lanthanum hydroxide
+2	Ni : La = 1 : 2
+5	H1.07Ti1.73O4
+2	TiO2 @ C6
+4	a-Cr2O3
+2	Li2Fe0.9Ti0.1SiO4
+3	alpha-Co
+3	Ni1-xMnxCo2O4
+5	Ni0.5Mn0.5Co2O4
+5	NiFe-NiFe2O4
+4	NiS-Ni @ C
+5	Ni @ C
+2	c / o-CoSe2 @ SiC
+3	NiCo2Px
+2	Li10SiP2O12
+4	CNFZIF
+2	S-GCTs
+2	FeSe2 @ C
+2	(MXene)-multiwalled carbon nanotube
+4	NaxSnSb
+2	CO2RR
+3	poly(anthraquinonyl sulfide
+2	PCQDs
+4	N-HCNs
+3	NSCPCNF
+3	FexO @ NFLG - 240
+2	FexO
+2	petroleum coke
+3	RGA
+3	H-ScO2
+2	ScO2
+2	Ni-Mn hydroxide
+3	Ni-Mn hydroxide-carbon
+2	gamma-FeOOH
+4	FeOOH-carbon
+2	SCE
+3	Ni-Tp
+3	Ni - tp
+2	Ni-Co mixed hydroxide
+4	TiSe2-C
+2	PVA-CN
+4	AEP
+2	SnO(2)layer
+3	Cu - MnO
+3	Cu - MnO2
+3	ZIF-8 @ polyvinyl pyrrolidone - PDA
+7	c-PMMA
+2	Li0.65Mn0.59Ni0.12Co0.13O < delta
+4	YS-Nb2O5
+2	S-CNFs
+3	IrCo
+5	VC2
+8	NixSy
+3	PM
+3	PM - NixSy
+5	KFeS2
+2	P31c-Na3YI6
+5	Li @ g
+2	transition metal carbon
+3	Sb2O3 @ Sb @ NC
+5	NTMP
+3	SiNDs
+2	DSHC
+4	zinc-hexamethylenetetramine
+2	(rGO)-carbon
+2	vanadium metal
+2	ONC-T1s
+2	GGI
+3	TPB-DMTP-covalent-organic
+2	Sb2Se3 @ C
+4	La0.56Li0.33TiO3
+2	Co8FeS8
+2	Co8FeS8 @ NG
+2	Cu2+1O
+4	py - COF
+5	c-PAN
+8	aluminum oxynitride
+2	H-TiO2 @ C
+2	graphene-network-face
+5	PDEC
+2	IPN
+2	graphene-confined polypyrrole
+2	copper chloride
+4	NV
+4	P-CoS2
+2	P-CoS2 @ P , S , N-C
+6	Na0.9Cu0.12Ni0.10Fe0.30Mn0.43Ti0.05O2
+3	NCFM
+5	NCFMT
+2	N-RGO-CNT-CBNP
+2	N-RGO-CNT-CBNP-Ps
+2	N-RGO-CNT-CBNP-P
+3	Mn3O4-rGO
+2	Li - air
+4	Zn-Ni-P
+2	Na3V1.95Mn0.05(PO4)(2)F-3 @ C
+3	R-NiS
+2	KNi0.8Co0.2F3
+2	S-KB
+2	NCNTs-CS-ZIF-8(C)
+4	ZIF - 8(C)
+2	HCPS
+3	V2O52
+2	LiPF6-
+2	NN - LVO
+2	PVA-Na2SO4
+2	K0.28MnO2
+2	K0.21MnO2
+2	NHCM-A
+2	NHCM-12
+3	CZ(55)S(6T)
+2	CZ55S6T
+6	(NH4)(2)V6O16 center dot 1.5H(2)O
+5	o-ScN2
+5	o-ScC2
+4	P3C
+2	P3CNa4
+2	SnS @ SPC
+2	LiFe0.5-xMn0.5-xPO4-sigma
+2	LiFe0.5-xMn0.5-xCryPO4-sigma
+2	CaC2
+4	SIBs
+2	MoS2-CN
+2	molybdenum-nickel-cobalt
+5	Ni - 3(PO4)(2)
+4	Ni-Co-Mn hydroxide
+2	NaCMC
+3	HGNF
+2	O ` 3 NaMnO2
+2	VCOS
+2	VCOR
+2	H-MoC-NC
+4	Ni-Co-ZIF
+2	Co2-xFexP-N-C
+2	Co-N-CNFs
+2	Co-N-CNFs(-)
+2	LNPO
+2	Mo(0.5)W(0.5)S(2)alloy
+2	Li4Ti5-xFexO12-y ( 0 < = x < = 0.1 )
+3	V5O12
+4	NMS
+2	40cyc
+2	NMS-Ni
+3	selenium sulfides
+2	MYS-Co4N @ C
+2	LiNi0.80Co0.15Mn0.05O2
+4	B3S
+2	MIL - 125 ( Ti
+4	Zr2CO2
+2	Zr3C2O2
+2	Zr3C2O2 MXenes
+3	Li6.375La3Zr1.375Nb0.625O12
+3	DCCNF
+2	copper - silicon
+2	Mn - MOFs
+5	TiSe0.6S1.4
+2	carbon black-Li2S @ C
+3	Li-Cu
+4	NaCr1 / 3Fe1 / 3Mn1 / 3O2
+3	NaNi0.5Co0.5O2
+3	NaNi0.5Fe0.5O2
+2	polyethylene oxide @ 5 % LS - AEF
+3	vanadium sulfides
+2	V2S3
+2	SnCl2-Na
+4	SnCl4-Na
+2	Mo-N
+4	uCoS(2)
+3	AgPF6
+4	Ag-Li
+7	c-68-graphyne
+2	s-cobalt oxide
+4	CuOx-Co3O4
+2	S-Co3O4
+3	soy protein
+2	soy protein-poly(acrylic
+2	CM-N
+2	Ni @ MnO2
+3	Ni1.5CoSe5
+2	GA-carbon
+3	s-S
+5	CuS : ce3+
+2	CuS : ce3+ ( 0.86 at % )
+3	N-Co3O4 @ N-C
+3	Na[Ni0.6Co0.2Mn0.2]O-2
+2	GCP-35
+3	MS-CFO-HNSs
+2	MnCO3-Rgraphene oxide
+2	NiCo2O4-MnO2
+2	Al2O3-Li2S-graphene oxide
+2	Al2O3-Li2S-Al2O3-Li2S-graphene oxide
+4	Ni0.5Mo0.5-Se
+2	PANNFs
+4	VxOy @ C
+2	Ir-Co / HP - NC
+2	HP
+2	Ir-Co
+6	CoNiP
+4	a-MnOxPy
+2	FeCo-Se @ NC
+10	Mg2MnO4
+2	P-APSA
+4	Na0.6Mn0.65Li0.15Cu0.2O2-delta
+6	Ce2Sn2O7
+2	MnNiCo - CH
+2	MoS2 @ MoO2 @ Fe @ carbon
+2	SiOC-NS
+2	niobium oxyfluoride
+3	T-Nb2O5-xFy
+4	C-NBs
+5	expanded
+3	HP - NVP @ SC
+3	aCMT
+3	N-HG
+2	double hydroxide-Cladophora cellulose-carbon
+2	N-CoS2 @ C
+2	NPC - 600
+2	metal cobaltites
+6	K2Nb8O21
+3	mNC
+4	N-MIMEC
+3	Ni - PDC
+4	MSHSs
+2	Zn1Co2
+4	Zn1Co2 @ MWCNTs
+2	poly(tert - butyl 2-(3,6-di(thiophen-2-yl)-9H-carbazol-9-yl)acetate )
+5	Li3VO4-NFs
+3	LiNi0.85Co0.1Al0.05O2
+2	PGlignosulfonate-1
+2	alizarin red S
+4	Li19La36Ga7O74
+3	LLGO
+2	( PEO )
+2	LLGO|Li
+2	CPIL
+2	Na7V3(P2O7)(4)
+3	N-PCNFA
+4	anti-perovskites
+2	nickel hydroxy chloride
+3	N-GDY
+2	3DGFs
+8	LLTO
+4	c-epoxy
+2	SnOx # C
+3	SBS-G
+3	N-MCSs
+2	Na3V2(PO4)(3) @ rgraphene oxide
+3	ZnxCo1-xS
+9	cobalt monoxide
+3	NiGa2S4
+2	MnCo
+3	MnCo - LDH @ Ni(OH)(2)
+2	MNS - HNT @ NC
+3	magnesium polysulfide
+2	Mg(TFSI)(2) - MgCl2
+3	Cu - CuxO
+3	C-EA
+3	d-polyacrylic
+3	EG-S
+2	N-MCN @ GH
+3	GH
+3	Na2RuO3
+2	(NiO)(0.1)(NiS)(0.9)
+3	DSHSs
+4	ACM
+2	EUV-C
+5	CuGaS2
+2	bromine
+2	NiCo2O4 @ CNFs
+2	C @ SnOx
+2	Ni3Mn1Co @ Co9S8-QDs
+4	Ni-Mn
+2	na1 - xMnO2
+2	NCM333
+2	Ni2P1-xSx
+2	Ni3ZnC0.7(denoted
+2	Ni3ZnC0.7-P5
+2	ni(2+)species
+3	Ni3ZnC0.7-B1
+2	te(iv)
+3	NVMP
+2	NVMCP
+5	PGCNF
+6	Si3C
+2	Fe1-xS @ SC
+2	3DNPGF
+3	polycarbonates
+2	Co9S8-Co4N
+3	ZnPOM
+4	MnCo2O4 @ N-C @ MnO2
+2	F-OPPCNs
+4	NGnickel
+2	NiCo silicate
+2	PNA
+2	MSXs
+2	LiMn0.8Fe0.19Ni0.01PO4
+2	HNHG - PANI
+3	VO2 ( B ) @ c-sponge
+2	MoSe2-NiSe-NiSe2
+3	MoS2-Ni9S8-C
+3	MoS2-Ni9S8
+2	MoSe2-NiSe-C
+5	CoSe2 - CNS
+2	PCN - 224 @ poly(3,4-ethylenedioxythiophene)
+3	PMo12-CC-II
+2	PCN - 224
+2	Li3xLa(2 / 3)-xTiO3(0 < x < 0.16 )
+2	Na3xLa(2 / 3)-xTiO3(0 < x < 0.16 )
+2	CSMCNs
+2	HN
+2	HN - CSMCNs
+2	delta-CsPbI3
+2	lithium : CsPbI3
+2	SiOx , x < 2
+2	SiOCN
+2	p-phenylenediamine-BC
+4	Zn-Ni-P-S
+2	V-CoSe2
+2	CNT-Ni3S2-CNT-A
+4	cadmium
+6	BlueP
+3	NiO-CuO
+4	PPyG
+6	V4Nb18O55
+3	Na0.97KFe(SO4)(2)
+5	HZGM-42
+3	ON
+2	NaxCo0.1Mn0.9O2 ( 0.44 < = x < = 0.7 )
+2	M2CX2
+2	N-PCTB
+2	NiCo2O4 @ rgraphene oxide
+3	alg
+2	Co(ii)-TMU-63 # CoMn2O4
+4	e-MXene
+2	Li - CO(2)batteries
+2	EC - ZIB
+2	Si-Ge
+2	PANI-MnO2-S
+2	Fe-NiCo2S4 @ N,S-CMK-3
+2	N,S-CMK-3
+3	PFS
+2	Cu2S @ void @ C
+2	G-Cu2S @ S @ C
+3	GW-FeS2-FeSe2-CSS
+2	YDSNGSHM
+2	3DC
+2	Ni(OH)(2) NNAs
+2	cu-
+2	B-CNTs
+4	C-NCNT
+4	N-Ni(OH)(2)
+2	Ni / Ni(HCO3)(2) - on - C
+3	S-PCSs
+5	h-Co4S3
+2	HNPRed phosphorus
+2	MCCN
+2	MCCN @ C
+3	c-VS2
+2	Pt / C ( 20 wt % )
+2	LiFe0.985Mg0.005Ti0.01PO4
+3	Mg-Ti
+3	ANHC
+3	bacterial nanocellulose
+3	PDMP-Li
+3	Cu(OH)(2) @ Ni - 2(OH)(2)CO3
+2	Na3Ni2BiO6
+3	PF
+4	2D-MoO3
+3	TiOF2
+3	MoS(2)nanodots
+4	WS2 @ S / N-C
+6	LixPFyOz
+2	LFP0
+2	LFP4
+2	Li / Na @ CF
+3	alluaudite
+2	graphene oxide-MoO2-Asymmetric
+3	Zn-Ni-Co TOH
+2	Zn-Ni-Co TOH - 130
+2	phosphor
+2	carbonF
+2	lithium-Zn
+3	E-PAN
+5	TexS1-x
+2	LiNi1-2yCoyMnyO2
+4	NH4FeF3
+2	NH4F
+2	hemoglobin-Dopamine-Co3O4
+2	ruthenium bromide
+2	BMOF
+2	Ni(PO3)(2)
+2	V-o-V2O5
+4	Ga2Te3
+3	NCM613
+2	APPC
+4	Na0.8Mg0.2Fe0.4Mn0.4O2
+2	Nb3O8
+3	ZIF-67-C-KOH
+3	O3-NaFe0.5Ni0.5O2
+4	bacteriorhodopsin
+2	ferroconcrete
+2	POF3
+2	Z-CoS2
+3	H-CoS2
+3	Ni1.80Co0.50Mn0.50S1.52
+2	CS - CoNi @ aTC
+2	aTC
+2	CS @ aTC
+2	AMC
+3	(RGO)-cellulose
+4	MoOxNy
+2	3PPEGM-co-GMA
+2	INSPEs
+4	graphitic carbons
+2	CexSn1-xO2-sigma
+2	Ce0.8Sn0.2O2-sigma
+4	NiO-based
+12	Ti2C
+4	Co-Ni-W-B-O
+2	Co-Ni-W-B
+2	siliconliconOx @ C
+2	KxFeFe(CN)(6)
+4	K0.33FeFe(CN)(6)
+5	g-BCO
+7	BC3
+4	MCNC
+3	(Li2Fe)SO
+4	(Li2Fe)S0.7Se0.3O
+4	DN-PF-LCP
+2	Cu2S @ NiCo - LDH
+2	OV-TiO2-x
+2	bismuth ferrite
+4	LGLZNO
+2	S-C(PAN)
+2	sn-
+2	SiO2 @ C
+2	W-PDA
+2	CB-S
+2	niobium oxides
+2	NbO
+2	ZnO-NCNF-700
+2	ZCO @ CFT
+3	ZCO||MXene
+2	PCCMs
+3	om - CoN
+4	CoMoS3
+4	germanium telluride-C
+3	germanium telluride
+3	Na3V2(PO4)(2)F-3-SWCNT
+2	Co-3(HPO4)(2)(OH)(2)
+2	Ni - phytic acid
+2	I-HCSs
+2	MpolyethylenimineI
+3	a-CNS
+3	LTP-F-0.12
+2	( VA - CNTs )
+3	PLA
+3	CMK-5
+5	MnO2-n
+5	NiCo(CO3)(OH)(2)
+2	Al(Li)BOB
+3	B7P2
+2	NMO - NDs @ NG
+3	MgF2
+2	poly-DOL
+2	LiNi0.94Co0.03Mn0.03O2
+2	NCMA
+3	Sb @ N-CM
+4	GCF
+2	CM-11-Ms
+2	CM-11-CSMs
+3	( Co , Mn)(Co , Mn)(2)O-4
+4	Cu-Co9S8
+2	CuCo - MOF
+7	NiCo hydroxide
+3	S-NiCoP
+2	NCLP @ NiMn - LDH
+4	Na3V2(PO4)(2)O1.6F1.4
+3	manganese-nickel-cobalt sulfide
+2	Na2+2xFe2-x(SO4)(3)
+2	G-PCs
+2	bamboo leaves
+4	NaFNFSI
+3	VNiCo2S4
+2	VNiCo2S4-hybrid
+3	cu1 - xNixS
+3	NZSC-4
+2	LLTOs
+3	Ni0.5Co0.5O
+5	NiCo-10
+6	boron phosphide
+2	V2NO2
+4	c-KMCNO
+3	transition metal oxychlorides
+3	VOCl
+3	FeOCl
+2	CoOCl
+2	Zn-NC-carbon
+2	silicon oxide @ C
+2	silicon oxide @ C @ CoO
+2	CuBDC
+2	NS - CNs
+3	NPAuLi3
+3	VO2-B
+3	DCC
+9	gallium sulphide
+3	AGTIB
+2	(PPy)-derived
+2	(ppy)-derive
+2	NiMoO4-S
+2	ZnCoS
+2	the
+5	Ni - NiO
+3	CoFe2Se4-CoNiSe2
+2	H-SnO2 @ reduced graphene oxide
+3	ZnO-NiO-Co3O4
+2	penta-graphene
+3	penta-oC36
+3	LiNi0.95Co0.05O2
+2	LiNi0.92Al0.08O2
+2	LiNixAl1 - xO2
+6	boron-oxy-carbide
+2	BPC2
+2	CO2ER
+3	LS500
+2	A800
+3	SA-Zn-Br
+2	DA
+2	aluminium manganese cobalt oxide
+3	FeCoNi
+2	co-phosphate
+3	Co-Pi
+3	CuCl
+4	ZCS
+3	rape pollen carbon
+3	PGH
+2	polyaniline(PA)
+2	DN - PGH
+5	stanene
+2	MCO-NW @ CS
+3	MCO-NS @ CS
+2	ITC-JG-900
+2	LNCO
+2	Si @ g @ TiO2NT
+2	Si @ g @ CNT
+5	Co2CrO4
+3	1D-C
+2	NiZn
+3	ICDL
+2	MgOx-C
+3	MgOx
+2	GT-POP-1
+3	S-PAN
+3	Co-NbN
+4	MB-Li6.4La3Zr1.4Ta0.6O12
+3	SbF3
+2	oxide @ Li1+xAlxTi2 - x(PO4)(3) @ carbon
+2	C-16
+2	m-C-16
+5	Li2CuPS4
+2	CoP @ Ni(OH)(2)
+2	S -- Fe2O3
+3	Mg-Se
+2	na-2 / 3MnO2
+2	na-2 / 3[Mn0.8Ni0.2]O-2
+2	CoMoO4 - MnO2
+3	ML - HTiO2
+2	TiO2-II
+2	GNRs
+2	TaxCy
+3	Ta2C
+2	TaC
+5	TaC2
+2	YS-gamma-Fe2O3
+2	G-GS
+4	Ni-Zn-Co-Se
+2	NO16
+2	PPy HF
+2	Ni-CAT-NWs
+2	hexabenzocoronene
+2	hexabenzocoronene-OMe
+3	oxide LiNi0.8Co0.15Al0.05O2
+2	MoSe2 - MoO3
+2	MnO @ N-CNFs
+2	Zr-O
+5	tetra-VN2
+4	MoN-NC
+3	carbon-onion-constructed
+3	poly(vinylene carbonate
+4	Fe3O4-GC
+3	MnO2 @ NiCo - LDH
+5	Zn-Ag2O
+2	GMAs
+2	H-TMO
+2	graphene-950
+3	metal - halide
+3	GCS
+4	GA-GF
+3	Mn oxynitride
+4	Cu @ CuO
+5	g-C
+4	InP3
+6	NiCo2S4 @ Ni(OH)(2) @ polypyrrole
+2	PPy)((-))
+5	( PVA
+2	g @ Sb @ C
+3	Sn2Nb2O7
+2	C @ SnO2 @ C
+2	Na0.55Mn2O4 center dot 1.5H(2)O
+2	na1 - x[Mn1 / 2Fe1 / 2]O-2
+2	POLA
+3	Co-CoP
+2	Li(Ni0.8Co0.1Mn0.1)O-2
+2	0.5Ti @ 0.5F-NCM
+4	HTO-sCNT-G
+2	H2Ti3O7
+2	Sr3CoFeMoO9-delta
+3	UTCo-Ni
+4	HPCarbon
+3	MoS2 @ C @ MoS2
+2	NiMoP
+3	Ni-Fe-P
+4	ECM-GP
+4	nickel cobalt manganese
+3	np-Bi50Ni50
+2	np-Bi75Ni25
+4	P(AN-co-MA)
+3	m-micro-supercapacitors
+7	VNQD
+3	p-NiCoP
+2	alpha-MnSe @ N-C
+2	Ti2AlC
+4	(MnO2)-zinc
+2	Ni-Co-MOF
+3	CNR
+3	Li7P2.9S10.85Mo0.01
+2	M-Metal-organic
+3	DCDHAQ
+2	N-CMs
+4	P-NiCo2S4-x
+3	MHCS
+2	S @ Fe - N
+2	NCM94
+3	PBCEB
+3	(PAN)-LiClO4-boron nitrite
+2	PAN-LiClO4-(PAN)-LiClO4-boron nitrite
+2	MoxV4 - xC3
+2	Mo2.7V1.3C3
+2	K-Zn
+2	polypyrroleT
+4	polypyrroleC3T2
+2	f-CNT
+2	f-CNT-thick
+3	Sn0.33Ni0.67Se2
+2	Cu-3(OH)(2)V(2)O(7)2H(2)O
+2	borophenes
+2	UIO
+2	polyethylene oxide-n-UIO
+3	C-4-DM-40
+3	tulip
+2	polypyrrole-3DrGO
+3	Li1.5Al0.5Ge1.5P3O12
+3	K1 - xVOPO4
+5	BPC
+2	bagasse
+2	SSWM
+2	NTPC-G
+2	Sn-Co
+4	PAN-FMP
+2	LICGC ( TM )
+2	Li < INF > 2 < / INF > MnO < INF > 3 <
+2	sulphide
+4	PCNT-2
+2	niobiumcone
+4	LNFO
+2	na1 - x[Mn1 / 2Ni1 / 2]O-2
+2	CTSC
+3	Co5.47Nx-C
+2	Ti2CO
+2	N-GNRs
+2	Sb0.5Bi0.5
+2	Sb0.5Bi0.5 @ C
+5	ATDS
+4	ocarbon
+4	lithiumDFBP
+4	A-SnO2
+10	lithium aluminium germanium phosphate
+4	AuNF
+4	NiP3
+2	Co-NPC-microclusters
+2	FSC
+2	Ni-ZIF-8
+6	CoS1.097
+2	carbonized melamine
+2	GF||GF
+3	PNT
+3	GNF
+2	GNFs
+2	Cu-NG
+2	mg-
+4	VSB-5
+2	Ni2P-YS
+3	carbons-900
+2	nickel phenylphosphonate
+4	Bi-NC
+9	CSO
+3	SeS < INF > 2 < / INF >
+4	NiCoZn-S
+2	NH4V3O8 center dot 1.9H(2)O
+3	calithium2
+3	lithium-Ca
+2	NFS @ x % CNTs
+2	HZCS
+2	PETMP
+2	LiBAMB
+2	BAMB
+2	TMU-61
+2	S-TMU-61
+4	zincO
+3	lithiumthium2O
+2	lithiumthium - zinc
+2	CuO @ Cu
+2	tC(24)
+6	C4N4
+2	NaTi2(PO4)(3)-ethylene
+4	N-HRMC
+2	Cu-Mn
+2	NOHPHC
+4	OMGNF-N
+2	nickel sulphides
+2	kiwano
+2	CoMoS
+5	CoMoS @ Co(OH)(2)
+2	sepiolite
+3	S-ACS
+2	N-CNNs
+4	Ni3S4-MoS2
+3	Na @ C
+2	LiNi0.9Co0.07Al0.03O2
+2	CNT-Ti3C2TX
+3	Sn-Fe2O3 @ CNT
+5	vr
+3	P-CoMoO4
+2	sio(2)sphere
+2	100Al(2)O(3)
+2	m-NbN
+2	NiCl2 - xFx hydrate
+3	Cu2O-Cu1.8S
+4	Ni-S-P
+3	PU - PCL
+2	Bi2O3 @ Co / N-PC
+2	Bi2O3 @ Co / N-PC @ S
+2	MX
+2	TiNb2O6
+2	SnS2-ND @ g
+5	Carbon-Nano-Spheres
+2	CN @ NSHPC
+5	NCV
+2	dual
+2	Li-1.03(Ni0.5Mn0.3Co0.2)(0.97)O-2
+2	N-MCNFs-900
+8	Mg(OH)(2)
+2	willow
+4	platanus
+2	(Ni)MnO2
+2	sodium chloride
+6	Na3MCl6
+2	K-CC
+3	PLum
+2	Nb2O5-NbC
+6	copper manganese oxide
+3	Zn - mont
+4	bi-MMOF
+3	Ni / Zn - BTC
+3	Co-BTC
+2	m-MMOF
+2	Na0.5Li0.07Mn0.61Co0.16Ni0.16O2
+2	SnS @ NC @ NG
+3	P-Fe4N @ NPG
+3	Fe4N
+3	M-SSZ-13
+2	MZ
+2	pi-pi
+3	P-HCNs
+4	cucarbon
+5	DP
+2	NaMg0.67Ru0.33O2 ( ru5+ )
+4	CS-v
+2	Li-7[V15O36(CO3)]
+3	siliconMPs
+2	N-C @ VO2
+4	Bi13S18I2
+2	N-CS
+2	PCN6
+3	SnO2-Co-C
+2	h-SSG
+2	PM - CuO
+2	Co2P-3D PNC
+3	DT
+2	GOOCN24
+2	Na0.67Fe0.20Ni0.15Mn0.65O2
+2	m / MO @ C-600
+2	NS-RP
+6	MoS(2)quantum
+4	MgS
+2	Ru-ZIS-Vs
+2	NRC-OH
+3	CISC-29
+3	CuC(2)O(4)xH(2)O
+2	UIO66-S
+2	nickel (ii) oxide
+2	CG
+2	NCMg
+2	diketopyrrolopyrrole
+4	NiC3
+2	Zn-Co-O @ CC
+2	Co1-xS @ C @ rGO - 600
+2	Li2SiO3-Li6.28La3Zr2Al0.24O12
+5	Ni0.5Co0.5Se2
+2	Na0.44Mn0.6Ni0.3Cu0.1O2
+3	GPH7
+2	GMPH7
+2	H-3DRG
+3	Li2O-2B(2)O(3)
+2	lithiumCu
+3	SR - PE2
+2	CNT-T
+3	rGO @ PVA
+3	nickel - cobalt oxide
+4	Li[Ni0.885Co0.100Al0.015]O-2
+3	Sn-Mo
+7	Li3BO3
+4	bmG
+2	bmG-s
+2	TiP2-C
+2	CBlack phosphorus
+2	LiP3
+4	( PEO
+3	ABF-G
+2	polyaniline-ABF-G
+2	Se-Se
+2	Li - LiAl
+2	V-Ce
+2	Zn-Ce
+2	S-C
+3	faidherbia albida
+2	NCR18650B
+4	V4P7
+2	Li1+yMn1.6Ni0.5O4-xFx
+3	Mg-Li
+4	CoxOy
+3	N ? Ti3C2Tx-200
+2	H-C @ TiO2 @ C
+3	MGSE(x)K(y)
+3	MGSE(1)K(0.5)
+2	PEO-LiTFSI-20Li1.3Al0.3Hf1.7(PO4)(3)
+2	F-rGO
+2	P3-K0.5MnO2
+2	Ni @ CoNi - MOF
+2	UGA
+2	P-MWCNTs
+2	MHSiO2
+2	MHSiO2 @ C
+3	LiNi0.82Co0.15Al0.03O2
+2	SWCNT - MnO2 @ NF
+2	lithium-Zn @ Cu
+2	Na0.67Ni0.25Ti0.08Mn0.67O2
+2	Na0.67Ni0.17Ti0.16Mn0.67O2
+3	Li [Ni0.90Co0.05Mn0.05]O-2
+2	Pd3Co
+4	C-CoSe
+2	I - reduced graphene oxide
+3	Ni3Sn2
+3	NiSnOx
+4	lanthanum oxide
+2	nh
+3	ruthenium oxides
+3	GNW
+3	( GNW
+2	P2-Na0.67Ni0.23Fe0.1Mn0.57Ti0.1O2
+2	BNCS
+2	lithium 4-benzonitrile trimethyl borate
+2	QAAQ
+4	HG - CNFs
+4	CDCM
+3	rGONR
+2	FePHS
+3	fCC
+5	alpha-FcEtPI
+4	oPANVP
+4	NiMoO4.H2O
+3	ss - npNi
+2	IGR-MnO-C
+2	DLC
+4	nano-ZrO2
+2	pyrolytic-carbon
+2	CQDs - PANI
+8	NiTe
+2	zinc-Ni
+2	zinc-Al LDO
+2	carbonated
+2	P-FeSe2
+2	RNCs
+2	VONNG
+2	lithium10GeP2S12
+6	Fe - 2(SO4)(3)
+5	siliconliconO2
+2	polycaprolactone
+2	carbon-NiCo
+2	FEG
+2	transition - metal @ C
+3	P(OSi(CH3)(3))(3)
+2	P(OSiF3)(3)
+2	PO3
+7	LWO
+3	lithium tungsten oxide
+2	Li6.5La3Zr1.5Ta0.5O12
+5	Co3S4-rGO
+5	Zn-Co-Ga phosphate
+2	NM - 50 / 50
+2	Na2S4
+2	Na2S8
+4	C-400
+2	copper oxynitride
+3	PbTe
+3	boracic
+2	Li1.4Al0.47Ti1.6(PO4)(3)
+4	lithium bis(oxalate)borate
+3	FeSO4
+2	lithium zirconates
+2	KxMnO2
+2	ACNF
+5	CNT-g-Gr
+3	Ni2Co1S-50
+3	zinc - cobalt sulfides
+3	Linickel0.5manganese1.5O4
+2	TiO2-CC
+2	G-NiCo
+4	p-phenylenediamine-HGF
+3	CNTs-NF
+3	ZnNi-Co-2(CO3)(OH)(2)
+2	LiNi0.4Co0.2Mn0.4O2
+2	V3O7.H2O
+2	TMS-FNFSI
+5	bismuth oxyfluoride
+3	KNF - 086
+2	MKNF - 086
+2	neuroid
+6	KNiF3
+2	c-MnO2
+2	Na0.67Mn0.72Zn0.28O2
+2	strontium titanate
+2	PAAK
+2	WPU
+4	HPG
+3	LiNi0.4Co0.4Mn0.2O2
+5	LiN0.5Mn1.5O4
+3	PCNFs-CNTs-S
+4	LiC12
+3	oxides Li1.2Ni0.2Mn0.6O2
+2	Co , N-SnO2
+2	N-SnO2
+3	Fe3O4-Fe
+4	a-SnSe
+2	Zn1Co2-OH
+4	NaV3(PO4)(3)
+5	NSPCF
+2	na-carbon
+4	MOGP-4
+4	LiNi0.5Mn0.25Co0.25O2
+3	PTSI
+4	K0.41MnO2
+2	PGI
+2	alpha-Co(OH)(2)
+4	Li(6.4)La(3)Zr(1.4)ATa(0.6)O(12)
+3	SiOx @ C @ P_CS
+2	P-TiO2
+2	Pd4S
+2	Pd4S-C
+2	3-MBP
+3	lithium bis(modified
+6	KNMO
+2	P2-Na-0.64[Ni1 / 3Mn2 / 3]O-2
+2	monooxide
+2	O3-Na(Cr,Mn)O-2
+5	P3D-CFS
+2	lithiumMn2O4
+3	FeNiS
+3	NbO2
+3	Li-Li2S4
+3	N-SRGO
+3	TiSnSb
+3	S-NCS
+2	S-NCS-4
+3	( SnOx-Sn )
+3	halloysites
+4	N-SPE
+2	silses - quioxane
+4	Sn-PMA
+5	a-Sb2Se3
+2	Li3Sb
+3	alpha-Ga2O3
+2	Ga2O3 @ C @ g
+2	gamma
+3	V2O5-NiO
+2	p-Si-Ag
+2	MWCNTols
+3	Si @ C @ void @ C
+5	Mo - NiS2 @ NiCo - LDH
+4	polyacrylate
+3	li-3x la2 / 3-x TiO3
+2	FeS2 @ N-CNTs @ rGO
+3	Fe2O3-AHP
+3	lithium - boron
+3	zinc chloride
+3	1d-Ti3C2
+3	polyvinylidene fluoride - HFP
+6	biocarbon
+2	bi-metal sulfide
+2	T-775
+6	telluriumllurium
+3	Sef-C
+3	Li2Mn0.94SiO4
+4	poly ( 3 , 4-ethylenedioxy thiophene)-Au
+3	Au - poly ( 3 , 4-ethylenedioxy thiophene )
+2	poly ( 3 , 4-ethylenedioxy thiophene )
+2	H-Fe3O4
+3	C-Ag
+2	perilla frutescensC - 700
+3	carbon(700)
+2	AMX-Zn
+2	MNCu
+2	c-xanthan
+2	GF - poly ( butyl acrylate
+4	Zn-S
+6	P-f-CNFs
+3	PSSE
+3	LTO @ VG
+3	tetramethylthiuram disulfide-S
+5	beta-V2O5
+2	Ti2Nb2xO4+5x
+3	CrNb11O29
+2	CrNb11O29-R
+3	Li6.2sAl0.25La3Zr2O12
+2	NS-GA
+3	NS-GA-5
+2	Ni1Co1-S
+6	TiNS
+4	Ni-Co-S @ C @ CoO
+3	Ni2CoS4
+2	SnO - SnO2
+3	Co-CoO
+2	N-CNR
+2	TiO2-B @ VS2
+3	HE5050
+3	meso-carbon
+3	A-GMs
+3	GMs
+2	na2 / 3Mn1 / 3Fe1 / 3Ni1 / 3O2
+3	PVC-CPVC-MBS-B44
+4	MOHPC
+3	nickelous oxide
+2	Ni-Si
+2	MIL - 100 ( Fe )
+2	LiNixCoyMnxO2
+2	sand
+2	Nano-MnO2
+2	Nano-MnO2 @ TiO2
+4	water hyacinth
+5	poly-m-phenyleneisophthalamide
+2	KC2
+4	MNT
+3	FBlock
+2	MnO2 @ poly ( 3,4-ethylenedioxythiophene )
+2	MgCO3
+2	polyaniline @ paper
+2	C1500
+5	aluminum phosphide
+5	SGG
+2	Ti2CS2
+2	N-CMK3
+5	SnO2 @ N-CMK3
+2	beta-NaMnO2
+4	LMFN
+2	PVDF-EC-(A-SiO2)
+3	( C-TixSi1-xOy ) @ C
+2	1,8-DHAQ
+2	Na3V1.98Al0.02(PO4)(3)
+5	ZIF-4
+2	La2S3
+2	FeSn2
+2	reduced graphene oxide - CYS
+4	PAES-g-PEG
+3	Si-S
+2	?
+4	? -Fe2O3 @ Ti3C2Tx
+4	carbon nitride-graphene
+3	MgSx
+2	CC @ PANI
+2	LTP-C
+3	NbSnSb
+3	Ni,Zn
+3	B-BTO
+4	Na2FePO4F-poly(3,4-ethylenedioxythiophene)
+5	NaVO3
+5	Nano-Co3O4
+6	LMR NMC
+2	NRMC
+3	Li-Pvinylidene fluoride
+3	Li1.5Al0.5Ge1.5(PO4)3
+2	Li-Ti-P
+3	TiP2-TiP-P-C
+3	MoS2-5L
+2	MoS2-15L
+4	Li6.4La3Al0.2Zr2O12
+2	Li6.4La3Al0.2Zr2O12-1
+2	Mn2.1V0.9O4
+2	3-APTS-EGO
+3	EGO
+2	PAGH
+2	V-MOFS
+6	nickel ( II ) oxide
+4	NCHS
+2	lithium difluoro(oxalato)
+2	CMgum
+2	NaTi2(PO4)(3) @ C
+5	PI(T)
+2	celgard2320
+6	famatinite
+2	rSP
+2	tin - iron
+6	Sn-SnSb
+2	gadolinium
+2	Ce0.8Gd0.2O2.delta
+2	ni-less
+2	Co0.75Ni0.25(OH)(2)-cathodically-exfoliated graphite
+2	LP-Ni
+3	Na2Ru0.95Zr0.05O3
+5	Mg-OMS-1
+3	FBP
+3	C6F3LiN4
+2	VIV
+2	VV
+2	DMC
+3	SN-CSSE
+2	NCVO
+3	Ni - NiWO4 @ NiS
+2	LSTHF
+5	CuNA
+3	KVPO4F
+3	PPyQX
+2	lithium argyrodites
+2	Li6PS5X ( x = Cl , Br )
+4	cobalt hydrogen phosphate
+3	polybenzimidazole
+2	polybenzimidazoleE
+3	zincate
+3	Zn-Al-F
+5	Zn2V2O7
+3	Na0.67Mn0.625Fe0.25Ni0.125O2
+3	NMFO
+4	hetero-MnCo2S4
+2	MnO2-2
+3	co1 / 3Mo2 / 3S2
+2	PYR14TFSI
+2	Ti-Nb oxides
+3	Li2O-2B(2)O(3)-carbon
+2	PBC
+2	f-MWCNTs
+2	FeO4W
+4	NiCoS
+2	rGO-2
+2	Mn3O4 TB
+3	oxide LiNi0.83Co0.12Mn0.05O2
+5	PMSi
+2	CSiO2
+5	Co3O4 @ NiMn - LDH
+3	LiNi0.75Co0.15Al0.10O2
+2	nickel cobalt manganese oxides
+2	N-NPC
+2	C-SiO-MgSiO3-Si
+2	MgSiO3
+2	MoNx
+2	Li0.25FePO4
+2	LiC18
+3	NaH2PO4
+2	SE-15
+4	3FO
+2	PI @ Au
+4	S-NVOH
+5	NH4CoxNi1-xF3
+2	BFC-2
+3	Ti3C2 MXene @ C @ SnS
+2	bismuth titanate
+2	B4C-ACF
+2	pCMT
+3	Bi2O3-x
+4	V2O5-SWCNT
+4	Li2CoPO4F
+3	MnOx-Ti3C2
+3	Ex-GF
+3	WO
+2	S,N - rGO @ MXene
+3	CoHCC
+2	CoHCC : Ni - foam
+2	NFA
+4	FCG811
+5	S-3DHPC
+2	Si-Li7La3Zr2O12
+3	P-0.15 Si-Si-Li7La3Zr2O12-P
+2	COC
+2	CAC
+2	Ni4.5Co4.5S8
+3	Ni4.5Co4.5S8-4
+2	Na-0.67Fe0.425Mn0.425Mg0.15O2
+2	Na2FeSiO4
+2	C2
+3	AGHPCM-1
+2	3CPC
+2	MCCNT
+2	Li1.2Ni0.4Mn0.4O2
+3	nickel-cobalt-borons
+2	Ni-Co-B
+2	D-MoWS
+3	AC3
+4	ACs
+6	polyaniline-g-carbon
+4	NiCo - CHH
+3	Fe2O3 @ Fe3C @ C
+4	CCF-SP
+4	Fe2.8Sn0.2O4 @ C
+2	ACNFs
+2	rhus typhina
+2	graphene oxide-carbon
+2	MnPO4
+2	LSM15
+5	I-rGO
+7	NSBDC
+4	LNMC
+2	LNMC-CeO2-C
+3	C-MoO3
+2	STON
+2	InP3-all-solid-state
+3	PAA-GA
+2	CoS @ PPy
+4	polyformaldehyde
+3	TiO2 @ SnO2 @ C
+4	Li1.2Mn0.54Ni0.13Co0.13O2-R
+5	Li2MnO3-delta
+2	GH-HD
+3	FeGe
+4	Fe-Ge
+4	DPAN
+3	MxSy-graphene
+2	Na2.85P0.85W0.15S4
+2	NiO-Vo
+2	Se - TiO2
+5	OPBI
+3	NCA-ethoxy-functional
+2	MoS2 - PVP @ NC
+3	FeNiP
+3	FeNiP @ CoNi - LDH
+3	LixSn-Li2O-LiF
+2	GFTO
+2	F-SnO2
+2	MC-SM
+2	LiCoO2 @ BT
+6	SiP2
+3	biredox
+3	( S / n-L ) @ C
+2	S @ C
+4	Ti2CF2
+2	Li1.15Ni0.23Co0.08Mn0.54O2
+3	ED @ PVDF
+3	ED
+7	SnTiS3
+6	Co-Mo-Se
+4	Ni-Zn-Fe LDH
+2	Ni-Zn-Fe
+4	SN-lithium metalB
+3	Li6PS5Cl0.5Br0.5
+2	perfiuorocarbons
+3	B-rGO
+2	FL-Ti3C2
+2	m-LiMnO2
+3	AIOOH
+2	DHGH-12
+4	Sn-Sb
+2	HVSupercapacitors
+5	Mn2O3-HMS
+3	LICGC
+2	( LICGC
+3	N-ATG
+2	corncob cellulose
+2	CPA-35-150
+4	niobium titanium nitride
+3	PTMA
+3	NiCoMn-O
+5	N-CuMe2Pc
+2	M10P2
+2	Li-P-S-O
+3	Na2S2O3
+2	S-BC
+3	ZrO(NO3)(2)
+4	croc(2-)
+2	LiNi0.92Co0.08O2Zr2.0 %
+2	LiMn0.2 Fe0.8PO4
+2	WNCM - 0.5
+2	lithium tetra(trimethylsilyl) borate
+2	ZnS @ NSC
+3	SnO2-a-TiO2
+2	cadmium oxides
+2	cadmium oxide
+4	( PP
+2	( PP )
+4	LiNi0.8Co0.015Al0.05O2
+2	B0.015-Ni
+2	O-g-C3N4-S
+6	FeCO3
+3	m-TNAs
+3	Co0.12Ni1.88S2 @ Co8S9
+2	LTO - C
+2	LTO-C
+2	li-ethylenediamine
+4	Li-ethylenediamine-Li
+2	LiNi0.6Co0.1Mn0.3O2
+6	NCMs
+6	SVO
+5	AF
+2	SnS2-CNT-CC
+3	CNT-CC
+4	LiNi0.90Co0.05Mn0.05O2
+2	SexSy
+4	SiG
+2	Fe-P-S
+3	TMSNCS
+5	NiCoMn - OH
+3	nano-ZnO
+4	Sn-FeHP
+3	PFPE - MC
+4	T-DCL
+5	silica-aerogel-composite
+3	MnO2-graphene oxide
+2	S @ MnO2 @ MnO2-graphene oxide
+2	a-CoS
+2	CoS1.4
+2	germanium carbide
+4	g-GeC
+3	DCS30
+4	polyethylene-g-methyl acrylate
+2	NiCoP2O7
+3	NiMn-NiMn-layered double hydroxide
+2	Nb - 0.02
+2	Na[(Mn0.4Fe0.3Ni0.3)(0.9)Ti-0.1]O-2
+5	FS
+5	C-CNEM
+2	LTONS
+2	N-HMACs-RuO2
+4	P3-Na0.7CoO2
+4	P-MoS2
+3	SnO2 @ holey carbon
+2	Co9S8 @ polypyrrole @ NiCo - LDH
+2	polyethylene-SiO2 @ poly ( cyclotriphosphazene-co-4,4-sulfonyldiphenol )
+5	B-PEG
+4	GN-LPO-NCM811
+3	Co-Ni-B
+2	Al-Li7La3Zr2O12
+2	? Au ? Al-Li7La3Zr2O12 ? Au ? Li
+4	Li2.2Ni0.2Mn0.6O2
+3	Na0.5Co0.5Mn0.5O2
+6	PCACM
+3	FeSix
+4	d-SiO
+3	reduced graphene oxide(successive
+2	graphene oxide(successive
+2	reduced graphene oxide(Hydro)
+2	aluminumC0.75-C
+2	aluminumSb
+2	Sb-aluminumC0.75-C
+2	K2O2
+3	blue-P
+4	CPPY
+3	hydrogen titanate
+3	O-YN2
+2	S @ MC
+3	h-SiNTs
+2	o-LiMnO2
+3	LiMnO2
+3	H2V2O5
+2	CuSe @ Co(OH)(2)
+2	ZFO-C
+2	[Py-1,Py-4]FSI
+2	lithium (poly)sulfides
+3	M-O-2
+5	R-MnO2
+2	NaxP
+2	Al2O3-Nafion
+2	Ti2NT2
+2	tetr - TiN
+3	PNR1R2
+3	Ni(SO4)(0.3)(OH)(1.4)
+6	gamma-PGA
+2	poly-gamma-glutamic acid
+3	LixSiO2
+3	Na[Ni0.32Fe0.13Co0.15Mn0.40]O-2
+2	gpolymer
+2	FMMGS
+7	CrVO4
+2	SrRuO3
+2	SWNT - in - carbon
+2	[ SWNT - in - carbon
+2	SCNFs
+2	ncm111111111
+5	ncm111111811
+3	Ni0.98Gd0.02O
+3	lithium tin
+4	NQS
+2	NNCM
+3	Li4Ti6O12
+2	LiFIB
+4	Group-VA
+3	a-LixS
+7	Cu2OCu(OH)(2)
+2	WX2
+2	TaX2
+2	NbX2
+2	MOX2
+2	nano-BaTiO3
+3	LNa3V2(PO4)(3)
+2	LNVP
